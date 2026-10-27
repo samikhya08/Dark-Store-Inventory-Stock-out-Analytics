@@ -1,0 +1,3241 @@
+date,store,product,category,units_sold,price,lead_time_days,stockout
+2026-04-01,Koramangala,Milk,Dairy,40,60,1,0
+2026-04-02,Koramangala,Milk,Dairy,37,60,1,0
+2026-04-03,Koramangala,Milk,Dairy,35,60,1,0
+2026-04-04,Koramangala,Milk,Dairy,52,60,1,0
+2026-04-05,Koramangala,Milk,Dairy,47,60,1,0
+2026-04-06,Koramangala,Milk,Dairy,44,60,1,0
+2026-04-07,Koramangala,Milk,Dairy,41,60,1,0
+2026-04-08,Koramangala,Milk,Dairy,39,60,1,0
+2026-04-09,Koramangala,Milk,Dairy,26,60,1,0
+2026-04-10,Koramangala,Milk,Dairy,20,60,1,0
+2026-04-11,Koramangala,Milk,Dairy,33,60,1,0
+2026-04-12,Koramangala,Milk,Dairy,39,60,1,1
+2026-04-13,Koramangala,Milk,Dairy,41,60,1,0
+2026-04-14,Koramangala,Milk,Dairy,14,60,1,0
+2026-04-15,Koramangala,Milk,Dairy,39,60,1,0
+2026-04-16,Koramangala,Milk,Dairy,24,60,1,0
+2026-04-17,Koramangala,Milk,Dairy,41,60,1,0
+2026-04-18,Koramangala,Milk,Dairy,43,60,1,0
+2026-04-19,Koramangala,Milk,Dairy,43,60,1,1
+2026-04-20,Koramangala,Milk,Dairy,48,60,1,0
+2026-04-21,Koramangala,Milk,Dairy,38,60,1,0
+2026-04-22,Koramangala,Milk,Dairy,40,60,1,0
+2026-04-23,Koramangala,Milk,Dairy,40,60,1,0
+2026-04-24,Koramangala,Milk,Dairy,24,60,1,0
+2026-04-25,Koramangala,Milk,Dairy,53,60,1,0
+2026-04-26,Koramangala,Milk,Dairy,72,60,1,0
+2026-04-27,Koramangala,Milk,Dairy,28,60,1,0
+2026-04-28,Koramangala,Milk,Dairy,45,60,1,0
+2026-04-29,Koramangala,Milk,Dairy,46,60,1,0
+2026-04-30,Koramangala,Milk,Dairy,46,60,1,0
+2026-05-01,Koramangala,Milk,Dairy,33,60,1,0
+2026-05-02,Koramangala,Milk,Dairy,47,60,1,0
+2026-05-03,Koramangala,Milk,Dairy,40,60,1,0
+2026-05-04,Koramangala,Milk,Dairy,38,60,1,0
+2026-05-05,Koramangala,Milk,Dairy,51,60,1,0
+2026-05-06,Koramangala,Milk,Dairy,32,60,1,0
+2026-05-07,Koramangala,Milk,Dairy,20,60,1,0
+2026-05-08,Koramangala,Milk,Dairy,39,60,1,0
+2026-05-09,Koramangala,Milk,Dairy,58,60,1,0
+2026-05-10,Koramangala,Milk,Dairy,48,60,1,0
+2026-05-11,Koramangala,Milk,Dairy,55,60,1,0
+2026-05-12,Koramangala,Milk,Dairy,36,60,1,0
+2026-05-13,Koramangala,Milk,Dairy,38,60,1,0
+2026-05-14,Koramangala,Milk,Dairy,28,60,1,0
+2026-05-15,Koramangala,Milk,Dairy,35,60,1,0
+2026-05-16,Koramangala,Milk,Dairy,58,60,1,0
+2026-05-17,Koramangala,Milk,Dairy,58,60,1,0
+2026-05-18,Koramangala,Milk,Dairy,50,60,1,0
+2026-05-19,Koramangala,Milk,Dairy,45,60,1,0
+2026-05-20,Koramangala,Milk,Dairy,43,60,1,0
+2026-05-21,Koramangala,Milk,Dairy,19,60,1,0
+2026-05-22,Koramangala,Milk,Dairy,31,60,1,0
+2026-05-23,Koramangala,Milk,Dairy,74,60,1,0
+2026-05-24,Koramangala,Milk,Dairy,45,60,1,0
+2026-05-25,Koramangala,Milk,Dairy,44,60,1,0
+2026-05-26,Koramangala,Milk,Dairy,37,60,1,0
+2026-05-27,Koramangala,Milk,Dairy,45,60,1,0
+2026-05-28,Koramangala,Milk,Dairy,39,60,1,0
+2026-05-29,Koramangala,Milk,Dairy,29,60,1,0
+2026-05-30,Koramangala,Milk,Dairy,43,60,1,0
+2026-05-31,Koramangala,Milk,Dairy,53,60,1,0
+2026-06-01,Koramangala,Milk,Dairy,34,60,1,0
+2026-06-02,Koramangala,Milk,Dairy,20,60,1,0
+2026-06-03,Koramangala,Milk,Dairy,43,60,1,0
+2026-06-04,Koramangala,Milk,Dairy,48,60,1,0
+2026-06-05,Koramangala,Milk,Dairy,47,60,1,0
+2026-06-06,Koramangala,Milk,Dairy,59,60,1,0
+2026-06-07,Koramangala,Milk,Dairy,36,60,1,0
+2026-06-08,Koramangala,Milk,Dairy,54,60,1,0
+2026-06-09,Koramangala,Milk,Dairy,37,60,1,0
+2026-06-10,Koramangala,Milk,Dairy,30,60,1,0
+2026-06-11,Koramangala,Milk,Dairy,34,60,1,0
+2026-06-12,Koramangala,Milk,Dairy,32,60,1,0
+2026-06-13,Koramangala,Milk,Dairy,39,60,1,0
+2026-06-14,Koramangala,Milk,Dairy,50,60,1,0
+2026-06-15,Koramangala,Milk,Dairy,40,60,1,0
+2026-06-16,Koramangala,Milk,Dairy,36,60,1,0
+2026-06-17,Koramangala,Milk,Dairy,40,60,1,0
+2026-06-18,Koramangala,Milk,Dairy,37,60,1,0
+2026-06-19,Koramangala,Milk,Dairy,31,60,1,0
+2026-06-20,Koramangala,Milk,Dairy,45,60,1,0
+2026-06-21,Koramangala,Milk,Dairy,55,60,1,0
+2026-06-22,Koramangala,Milk,Dairy,25,60,1,0
+2026-06-23,Koramangala,Milk,Dairy,33,60,1,0
+2026-06-24,Koramangala,Milk,Dairy,47,60,1,0
+2026-06-25,Koramangala,Milk,Dairy,40,60,1,0
+2026-06-26,Koramangala,Milk,Dairy,44,60,1,0
+2026-06-27,Koramangala,Milk,Dairy,50,60,1,0
+2026-06-28,Koramangala,Milk,Dairy,39,60,1,1
+2026-06-29,Koramangala,Milk,Dairy,34,60,1,0
+2026-04-01,Koramangala,Curd,Dairy,24,45,1,0
+2026-04-02,Koramangala,Curd,Dairy,21,45,1,1
+2026-04-03,Koramangala,Curd,Dairy,23,45,1,1
+2026-04-04,Koramangala,Curd,Dairy,32,45,1,0
+2026-04-05,Koramangala,Curd,Dairy,36,45,1,0
+2026-04-06,Koramangala,Curd,Dairy,21,45,1,0
+2026-04-07,Koramangala,Curd,Dairy,30,45,1,0
+2026-04-08,Koramangala,Curd,Dairy,24,45,1,0
+2026-04-09,Koramangala,Curd,Dairy,29,45,1,0
+2026-04-10,Koramangala,Curd,Dairy,30,45,1,0
+2026-04-11,Koramangala,Curd,Dairy,41,45,1,0
+2026-04-12,Koramangala,Curd,Dairy,37,45,1,1
+2026-04-13,Koramangala,Curd,Dairy,30,45,1,0
+2026-04-14,Koramangala,Curd,Dairy,34,45,1,1
+2026-04-15,Koramangala,Curd,Dairy,14,45,1,0
+2026-04-16,Koramangala,Curd,Dairy,18,45,1,0
+2026-04-17,Koramangala,Curd,Dairy,30,45,1,0
+2026-04-18,Koramangala,Curd,Dairy,19,45,1,0
+2026-04-19,Koramangala,Curd,Dairy,32,45,1,0
+2026-04-20,Koramangala,Curd,Dairy,25,45,1,0
+2026-04-21,Koramangala,Curd,Dairy,15,45,1,0
+2026-04-22,Koramangala,Curd,Dairy,18,45,1,0
+2026-04-23,Koramangala,Curd,Dairy,28,45,1,0
+2026-04-24,Koramangala,Curd,Dairy,27,45,1,0
+2026-04-25,Koramangala,Curd,Dairy,28,45,1,0
+2026-04-26,Koramangala,Curd,Dairy,26,45,1,0
+2026-04-27,Koramangala,Curd,Dairy,20,45,1,1
+2026-04-28,Koramangala,Curd,Dairy,27,45,1,0
+2026-04-29,Koramangala,Curd,Dairy,16,45,1,0
+2026-04-30,Koramangala,Curd,Dairy,24,45,1,0
+2026-05-01,Koramangala,Curd,Dairy,15,45,1,0
+2026-05-02,Koramangala,Curd,Dairy,37,45,1,0
+2026-05-03,Koramangala,Curd,Dairy,33,45,1,0
+2026-05-04,Koramangala,Curd,Dairy,32,45,1,0
+2026-05-05,Koramangala,Curd,Dairy,11,45,1,0
+2026-05-06,Koramangala,Curd,Dairy,12,45,1,0
+2026-05-07,Koramangala,Curd,Dairy,20,45,1,0
+2026-05-08,Koramangala,Curd,Dairy,33,45,1,0
+2026-05-09,Koramangala,Curd,Dairy,25,45,1,0
+2026-05-10,Koramangala,Curd,Dairy,39,45,1,0
+2026-05-11,Koramangala,Curd,Dairy,25,45,1,0
+2026-05-12,Koramangala,Curd,Dairy,25,45,1,1
+2026-05-13,Koramangala,Curd,Dairy,28,45,1,0
+2026-05-14,Koramangala,Curd,Dairy,18,45,1,0
+2026-05-15,Koramangala,Curd,Dairy,20,45,1,0
+2026-05-16,Koramangala,Curd,Dairy,24,45,1,0
+2026-05-17,Koramangala,Curd,Dairy,32,45,1,0
+2026-05-18,Koramangala,Curd,Dairy,35,45,1,0
+2026-05-19,Koramangala,Curd,Dairy,22,45,1,0
+2026-05-20,Koramangala,Curd,Dairy,27,45,1,0
+2026-05-21,Koramangala,Curd,Dairy,26,45,1,0
+2026-05-22,Koramangala,Curd,Dairy,25,45,1,0
+2026-05-23,Koramangala,Curd,Dairy,30,45,1,0
+2026-05-24,Koramangala,Curd,Dairy,39,45,1,0
+2026-05-25,Koramangala,Curd,Dairy,24,45,1,0
+2026-05-26,Koramangala,Curd,Dairy,21,45,1,0
+2026-05-27,Koramangala,Curd,Dairy,13,45,1,0
+2026-05-28,Koramangala,Curd,Dairy,31,45,1,0
+2026-05-29,Koramangala,Curd,Dairy,29,45,1,0
+2026-05-30,Koramangala,Curd,Dairy,33,45,1,0
+2026-05-31,Koramangala,Curd,Dairy,31,45,1,0
+2026-06-01,Koramangala,Curd,Dairy,34,45,1,0
+2026-06-02,Koramangala,Curd,Dairy,24,45,1,0
+2026-06-03,Koramangala,Curd,Dairy,21,45,1,0
+2026-06-04,Koramangala,Curd,Dairy,28,45,1,0
+2026-06-05,Koramangala,Curd,Dairy,22,45,1,0
+2026-06-06,Koramangala,Curd,Dairy,32,45,1,0
+2026-06-07,Koramangala,Curd,Dairy,30,45,1,0
+2026-06-08,Koramangala,Curd,Dairy,23,45,1,0
+2026-06-09,Koramangala,Curd,Dairy,15,45,1,0
+2026-06-10,Koramangala,Curd,Dairy,19,45,1,0
+2026-06-11,Koramangala,Curd,Dairy,20,45,1,0
+2026-06-12,Koramangala,Curd,Dairy,16,45,1,0
+2026-06-13,Koramangala,Curd,Dairy,30,45,1,0
+2026-06-14,Koramangala,Curd,Dairy,33,45,1,0
+2026-06-15,Koramangala,Curd,Dairy,18,45,1,0
+2026-06-16,Koramangala,Curd,Dairy,37,45,1,0
+2026-06-17,Koramangala,Curd,Dairy,23,45,1,0
+2026-06-18,Koramangala,Curd,Dairy,26,45,1,0
+2026-06-19,Koramangala,Curd,Dairy,18,45,1,0
+2026-06-20,Koramangala,Curd,Dairy,26,45,1,1
+2026-06-21,Koramangala,Curd,Dairy,42,45,1,0
+2026-06-22,Koramangala,Curd,Dairy,28,45,1,0
+2026-06-23,Koramangala,Curd,Dairy,23,45,1,0
+2026-06-24,Koramangala,Curd,Dairy,16,45,1,0
+2026-06-25,Koramangala,Curd,Dairy,34,45,1,0
+2026-06-26,Koramangala,Curd,Dairy,19,45,1,0
+2026-06-27,Koramangala,Curd,Dairy,29,45,1,0
+2026-06-28,Koramangala,Curd,Dairy,31,45,1,0
+2026-06-29,Koramangala,Curd,Dairy,26,45,1,0
+2026-04-01,Koramangala,Eggs,Dairy,19,80,1,0
+2026-04-02,Koramangala,Eggs,Dairy,19,80,1,0
+2026-04-03,Koramangala,Eggs,Dairy,29,80,1,0
+2026-04-04,Koramangala,Eggs,Dairy,26,80,1,1
+2026-04-05,Koramangala,Eggs,Dairy,27,80,1,0
+2026-04-06,Koramangala,Eggs,Dairy,12,80,1,0
+2026-04-07,Koramangala,Eggs,Dairy,23,80,1,0
+2026-04-08,Koramangala,Eggs,Dairy,11,80,1,0
+2026-04-09,Koramangala,Eggs,Dairy,16,80,1,0
+2026-04-10,Koramangala,Eggs,Dairy,31,80,1,1
+2026-04-11,Koramangala,Eggs,Dairy,22,80,1,0
+2026-04-12,Koramangala,Eggs,Dairy,25,80,1,0
+2026-04-13,Koramangala,Eggs,Dairy,14,80,1,0
+2026-04-14,Koramangala,Eggs,Dairy,14,80,1,0
+2026-04-15,Koramangala,Eggs,Dairy,25,80,1,0
+2026-04-16,Koramangala,Eggs,Dairy,17,80,1,0
+2026-04-17,Koramangala,Eggs,Dairy,19,80,1,0
+2026-04-18,Koramangala,Eggs,Dairy,24,80,1,0
+2026-04-19,Koramangala,Eggs,Dairy,18,80,1,0
+2026-04-20,Koramangala,Eggs,Dairy,19,80,1,0
+2026-04-21,Koramangala,Eggs,Dairy,25,80,1,0
+2026-04-22,Koramangala,Eggs,Dairy,16,80,1,0
+2026-04-23,Koramangala,Eggs,Dairy,21,80,1,0
+2026-04-24,Koramangala,Eggs,Dairy,25,80,1,0
+2026-04-25,Koramangala,Eggs,Dairy,19,80,1,0
+2026-04-26,Koramangala,Eggs,Dairy,30,80,1,0
+2026-04-27,Koramangala,Eggs,Dairy,10,80,1,0
+2026-04-28,Koramangala,Eggs,Dairy,22,80,1,0
+2026-04-29,Koramangala,Eggs,Dairy,18,80,1,0
+2026-04-30,Koramangala,Eggs,Dairy,14,80,1,0
+2026-05-01,Koramangala,Eggs,Dairy,19,80,1,0
+2026-05-02,Koramangala,Eggs,Dairy,22,80,1,0
+2026-05-03,Koramangala,Eggs,Dairy,17,80,1,0
+2026-05-04,Koramangala,Eggs,Dairy,24,80,1,1
+2026-05-05,Koramangala,Eggs,Dairy,25,80,1,0
+2026-05-06,Koramangala,Eggs,Dairy,14,80,1,1
+2026-05-07,Koramangala,Eggs,Dairy,17,80,1,0
+2026-05-08,Koramangala,Eggs,Dairy,17,80,1,1
+2026-05-09,Koramangala,Eggs,Dairy,24,80,1,0
+2026-05-10,Koramangala,Eggs,Dairy,19,80,1,0
+2026-05-11,Koramangala,Eggs,Dairy,24,80,1,0
+2026-05-12,Koramangala,Eggs,Dairy,20,80,1,0
+2026-05-13,Koramangala,Eggs,Dairy,15,80,1,0
+2026-05-14,Koramangala,Eggs,Dairy,17,80,1,0
+2026-05-15,Koramangala,Eggs,Dairy,16,80,1,0
+2026-05-16,Koramangala,Eggs,Dairy,24,80,1,0
+2026-05-17,Koramangala,Eggs,Dairy,28,80,1,0
+2026-05-18,Koramangala,Eggs,Dairy,23,80,1,0
+2026-05-19,Koramangala,Eggs,Dairy,14,80,1,0
+2026-05-20,Koramangala,Eggs,Dairy,20,80,1,0
+2026-05-21,Koramangala,Eggs,Dairy,15,80,1,0
+2026-05-22,Koramangala,Eggs,Dairy,11,80,1,0
+2026-05-23,Koramangala,Eggs,Dairy,20,80,1,0
+2026-05-24,Koramangala,Eggs,Dairy,25,80,1,0
+2026-05-25,Koramangala,Eggs,Dairy,12,80,1,0
+2026-05-26,Koramangala,Eggs,Dairy,16,80,1,0
+2026-05-27,Koramangala,Eggs,Dairy,21,80,1,0
+2026-05-28,Koramangala,Eggs,Dairy,16,80,1,0
+2026-05-29,Koramangala,Eggs,Dairy,16,80,1,0
+2026-05-30,Koramangala,Eggs,Dairy,21,80,1,0
+2026-05-31,Koramangala,Eggs,Dairy,16,80,1,0
+2026-06-01,Koramangala,Eggs,Dairy,18,80,1,0
+2026-06-02,Koramangala,Eggs,Dairy,19,80,1,0
+2026-06-03,Koramangala,Eggs,Dairy,20,80,1,0
+2026-06-04,Koramangala,Eggs,Dairy,14,80,1,1
+2026-06-05,Koramangala,Eggs,Dairy,14,80,1,0
+2026-06-06,Koramangala,Eggs,Dairy,29,80,1,0
+2026-06-07,Koramangala,Eggs,Dairy,21,80,1,0
+2026-06-08,Koramangala,Eggs,Dairy,18,80,1,0
+2026-06-09,Koramangala,Eggs,Dairy,5,80,1,0
+2026-06-10,Koramangala,Eggs,Dairy,14,80,1,0
+2026-06-11,Koramangala,Eggs,Dairy,14,80,1,0
+2026-06-12,Koramangala,Eggs,Dairy,12,80,1,0
+2026-06-13,Koramangala,Eggs,Dairy,32,80,1,0
+2026-06-14,Koramangala,Eggs,Dairy,23,80,1,0
+2026-06-15,Koramangala,Eggs,Dairy,10,80,1,0
+2026-06-16,Koramangala,Eggs,Dairy,19,80,1,0
+2026-06-17,Koramangala,Eggs,Dairy,19,80,1,0
+2026-06-18,Koramangala,Eggs,Dairy,19,80,1,0
+2026-06-19,Koramangala,Eggs,Dairy,26,80,1,0
+2026-06-20,Koramangala,Eggs,Dairy,25,80,1,0
+2026-06-21,Koramangala,Eggs,Dairy,25,80,1,1
+2026-06-22,Koramangala,Eggs,Dairy,16,80,1,0
+2026-06-23,Koramangala,Eggs,Dairy,14,80,1,0
+2026-06-24,Koramangala,Eggs,Dairy,19,80,1,0
+2026-06-25,Koramangala,Eggs,Dairy,19,80,1,0
+2026-06-26,Koramangala,Eggs,Dairy,15,80,1,0
+2026-06-27,Koramangala,Eggs,Dairy,23,80,1,0
+2026-06-28,Koramangala,Eggs,Dairy,25,80,1,0
+2026-06-29,Koramangala,Eggs,Dairy,20,80,1,0
+2026-04-01,Koramangala,Banana,Fruits & Veg,25,50,1,0
+2026-04-02,Koramangala,Banana,Fruits & Veg,14,50,1,0
+2026-04-03,Koramangala,Banana,Fruits & Veg,31,50,1,0
+2026-04-04,Koramangala,Banana,Fruits & Veg,35,50,1,0
+2026-04-05,Koramangala,Banana,Fruits & Veg,31,50,1,1
+2026-04-06,Koramangala,Banana,Fruits & Veg,25,50,1,0
+2026-04-07,Koramangala,Banana,Fruits & Veg,20,50,1,1
+2026-04-08,Koramangala,Banana,Fruits & Veg,31,50,1,0
+2026-04-09,Koramangala,Banana,Fruits & Veg,26,50,1,0
+2026-04-10,Koramangala,Banana,Fruits & Veg,17,50,1,0
+2026-04-11,Koramangala,Banana,Fruits & Veg,40,50,1,0
+2026-04-12,Koramangala,Banana,Fruits & Veg,41,50,1,0
+2026-04-13,Koramangala,Banana,Fruits & Veg,28,50,1,0
+2026-04-14,Koramangala,Banana,Fruits & Veg,33,50,1,0
+2026-04-15,Koramangala,Banana,Fruits & Veg,18,50,1,0
+2026-04-16,Koramangala,Banana,Fruits & Veg,38,50,1,0
+2026-04-17,Koramangala,Banana,Fruits & Veg,31,50,1,0
+2026-04-18,Koramangala,Banana,Fruits & Veg,46,50,1,1
+2026-04-19,Koramangala,Banana,Fruits & Veg,20,50,1,0
+2026-04-20,Koramangala,Banana,Fruits & Veg,18,50,1,0
+2026-04-21,Koramangala,Banana,Fruits & Veg,25,50,1,0
+2026-04-22,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-04-23,Koramangala,Banana,Fruits & Veg,43,50,1,0
+2026-04-24,Koramangala,Banana,Fruits & Veg,29,50,1,1
+2026-04-25,Koramangala,Banana,Fruits & Veg,29,50,1,0
+2026-04-26,Koramangala,Banana,Fruits & Veg,42,50,1,0
+2026-04-27,Koramangala,Banana,Fruits & Veg,30,50,1,0
+2026-04-28,Koramangala,Banana,Fruits & Veg,24,50,1,0
+2026-04-29,Koramangala,Banana,Fruits & Veg,35,50,1,0
+2026-04-30,Koramangala,Banana,Fruits & Veg,38,50,1,0
+2026-05-01,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-05-02,Koramangala,Banana,Fruits & Veg,31,50,1,0
+2026-05-03,Koramangala,Banana,Fruits & Veg,43,50,1,1
+2026-05-04,Koramangala,Banana,Fruits & Veg,32,50,1,0
+2026-05-05,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-05-06,Koramangala,Banana,Fruits & Veg,23,50,1,0
+2026-05-07,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-05-08,Koramangala,Banana,Fruits & Veg,32,50,1,0
+2026-05-09,Koramangala,Banana,Fruits & Veg,38,50,1,0
+2026-05-10,Koramangala,Banana,Fruits & Veg,18,50,1,0
+2026-05-11,Koramangala,Banana,Fruits & Veg,34,50,1,0
+2026-05-12,Koramangala,Banana,Fruits & Veg,42,50,1,0
+2026-05-13,Koramangala,Banana,Fruits & Veg,32,50,1,0
+2026-05-14,Koramangala,Banana,Fruits & Veg,35,50,1,0
+2026-05-15,Koramangala,Banana,Fruits & Veg,29,50,1,0
+2026-05-16,Koramangala,Banana,Fruits & Veg,53,50,1,0
+2026-05-17,Koramangala,Banana,Fruits & Veg,38,50,1,0
+2026-05-18,Koramangala,Banana,Fruits & Veg,40,50,1,0
+2026-05-19,Koramangala,Banana,Fruits & Veg,41,50,1,0
+2026-05-20,Koramangala,Banana,Fruits & Veg,28,50,1,1
+2026-05-21,Koramangala,Banana,Fruits & Veg,35,50,1,0
+2026-05-22,Koramangala,Banana,Fruits & Veg,18,50,1,0
+2026-05-23,Koramangala,Banana,Fruits & Veg,41,50,1,0
+2026-05-24,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-05-25,Koramangala,Banana,Fruits & Veg,33,50,1,0
+2026-05-26,Koramangala,Banana,Fruits & Veg,26,50,1,0
+2026-05-27,Koramangala,Banana,Fruits & Veg,28,50,1,0
+2026-05-28,Koramangala,Banana,Fruits & Veg,23,50,1,0
+2026-05-29,Koramangala,Banana,Fruits & Veg,31,50,1,0
+2026-05-30,Koramangala,Banana,Fruits & Veg,44,50,1,0
+2026-05-31,Koramangala,Banana,Fruits & Veg,32,50,1,0
+2026-06-01,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-06-02,Koramangala,Banana,Fruits & Veg,31,50,1,0
+2026-06-03,Koramangala,Banana,Fruits & Veg,25,50,1,1
+2026-06-04,Koramangala,Banana,Fruits & Veg,39,50,1,0
+2026-06-05,Koramangala,Banana,Fruits & Veg,44,50,1,1
+2026-06-06,Koramangala,Banana,Fruits & Veg,40,50,1,0
+2026-06-07,Koramangala,Banana,Fruits & Veg,38,50,1,1
+2026-06-08,Koramangala,Banana,Fruits & Veg,30,50,1,0
+2026-06-09,Koramangala,Banana,Fruits & Veg,23,50,1,0
+2026-06-10,Koramangala,Banana,Fruits & Veg,19,50,1,0
+2026-06-11,Koramangala,Banana,Fruits & Veg,24,50,1,0
+2026-06-12,Koramangala,Banana,Fruits & Veg,31,50,1,0
+2026-06-13,Koramangala,Banana,Fruits & Veg,36,50,1,0
+2026-06-14,Koramangala,Banana,Fruits & Veg,32,50,1,0
+2026-06-15,Koramangala,Banana,Fruits & Veg,22,50,1,0
+2026-06-16,Koramangala,Banana,Fruits & Veg,29,50,1,0
+2026-06-17,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-06-18,Koramangala,Banana,Fruits & Veg,35,50,1,0
+2026-06-19,Koramangala,Banana,Fruits & Veg,22,50,1,0
+2026-06-20,Koramangala,Banana,Fruits & Veg,57,50,1,0
+2026-06-21,Koramangala,Banana,Fruits & Veg,38,50,1,0
+2026-06-22,Koramangala,Banana,Fruits & Veg,45,50,1,0
+2026-06-23,Koramangala,Banana,Fruits & Veg,27,50,1,0
+2026-06-24,Koramangala,Banana,Fruits & Veg,33,50,1,0
+2026-06-25,Koramangala,Banana,Fruits & Veg,26,50,1,0
+2026-06-26,Koramangala,Banana,Fruits & Veg,42,50,1,0
+2026-06-27,Koramangala,Banana,Fruits & Veg,44,50,1,0
+2026-06-28,Koramangala,Banana,Fruits & Veg,33,50,1,0
+2026-06-29,Koramangala,Banana,Fruits & Veg,28,50,1,1
+2026-04-01,Koramangala,Tomato,Fruits & Veg,40,40,1,0
+2026-04-02,Koramangala,Tomato,Fruits & Veg,20,40,1,0
+2026-04-03,Koramangala,Tomato,Fruits & Veg,28,40,1,0
+2026-04-04,Koramangala,Tomato,Fruits & Veg,40,40,1,0
+2026-04-05,Koramangala,Tomato,Fruits & Veg,25,40,1,0
+2026-04-06,Koramangala,Tomato,Fruits & Veg,37,40,1,0
+2026-04-07,Koramangala,Tomato,Fruits & Veg,52,40,1,0
+2026-04-08,Koramangala,Tomato,Fruits & Veg,19,40,1,0
+2026-04-09,Koramangala,Tomato,Fruits & Veg,24,40,1,0
+2026-04-10,Koramangala,Tomato,Fruits & Veg,35,40,1,0
+2026-04-11,Koramangala,Tomato,Fruits & Veg,48,40,1,0
+2026-04-12,Koramangala,Tomato,Fruits & Veg,48,40,1,0
+2026-04-13,Koramangala,Tomato,Fruits & Veg,32,40,1,0
+2026-04-14,Koramangala,Tomato,Fruits & Veg,30,40,1,1
+2026-04-15,Koramangala,Tomato,Fruits & Veg,20,40,1,0
+2026-04-16,Koramangala,Tomato,Fruits & Veg,51,40,1,0
+2026-04-17,Koramangala,Tomato,Fruits & Veg,46,40,1,0
+2026-04-18,Koramangala,Tomato,Fruits & Veg,39,40,1,0
+2026-04-19,Koramangala,Tomato,Fruits & Veg,45,40,1,0
+2026-04-20,Koramangala,Tomato,Fruits & Veg,32,40,1,0
+2026-04-21,Koramangala,Tomato,Fruits & Veg,31,40,1,0
+2026-04-22,Koramangala,Tomato,Fruits & Veg,25,40,1,0
+2026-04-23,Koramangala,Tomato,Fruits & Veg,54,40,1,0
+2026-04-24,Koramangala,Tomato,Fruits & Veg,32,40,1,0
+2026-04-25,Koramangala,Tomato,Fruits & Veg,51,40,1,0
+2026-04-26,Koramangala,Tomato,Fruits & Veg,43,40,1,0
+2026-04-27,Koramangala,Tomato,Fruits & Veg,37,40,1,0
+2026-04-28,Koramangala,Tomato,Fruits & Veg,48,40,1,0
+2026-04-29,Koramangala,Tomato,Fruits & Veg,35,40,1,0
+2026-04-30,Koramangala,Tomato,Fruits & Veg,48,40,1,0
+2026-05-01,Koramangala,Tomato,Fruits & Veg,29,40,1,0
+2026-05-02,Koramangala,Tomato,Fruits & Veg,51,40,1,0
+2026-05-03,Koramangala,Tomato,Fruits & Veg,57,40,1,1
+2026-05-04,Koramangala,Tomato,Fruits & Veg,41,40,1,0
+2026-05-05,Koramangala,Tomato,Fruits & Veg,29,40,1,0
+2026-05-06,Koramangala,Tomato,Fruits & Veg,26,40,1,0
+2026-05-07,Koramangala,Tomato,Fruits & Veg,31,40,1,0
+2026-05-08,Koramangala,Tomato,Fruits & Veg,29,40,1,0
+2026-05-09,Koramangala,Tomato,Fruits & Veg,48,40,1,0
+2026-05-10,Koramangala,Tomato,Fruits & Veg,43,40,1,0
+2026-05-11,Koramangala,Tomato,Fruits & Veg,28,40,1,0
+2026-05-12,Koramangala,Tomato,Fruits & Veg,24,40,1,0
+2026-05-13,Koramangala,Tomato,Fruits & Veg,29,40,1,0
+2026-05-14,Koramangala,Tomato,Fruits & Veg,34,40,1,0
+2026-05-15,Koramangala,Tomato,Fruits & Veg,41,40,1,0
+2026-05-16,Koramangala,Tomato,Fruits & Veg,48,40,1,0
+2026-05-17,Koramangala,Tomato,Fruits & Veg,51,40,1,0
+2026-05-18,Koramangala,Tomato,Fruits & Veg,45,40,1,0
+2026-05-19,Koramangala,Tomato,Fruits & Veg,38,40,1,0
+2026-05-20,Koramangala,Tomato,Fruits & Veg,22,40,1,0
+2026-05-21,Koramangala,Tomato,Fruits & Veg,32,40,1,0
+2026-05-22,Koramangala,Tomato,Fruits & Veg,23,40,1,0
+2026-05-23,Koramangala,Tomato,Fruits & Veg,46,40,1,0
+2026-05-24,Koramangala,Tomato,Fruits & Veg,30,40,1,0
+2026-05-25,Koramangala,Tomato,Fruits & Veg,34,40,1,0
+2026-05-26,Koramangala,Tomato,Fruits & Veg,35,40,1,1
+2026-05-27,Koramangala,Tomato,Fruits & Veg,39,40,1,0
+2026-05-28,Koramangala,Tomato,Fruits & Veg,34,40,1,0
+2026-05-29,Koramangala,Tomato,Fruits & Veg,57,40,1,0
+2026-05-30,Koramangala,Tomato,Fruits & Veg,41,40,1,0
+2026-05-31,Koramangala,Tomato,Fruits & Veg,52,40,1,0
+2026-06-01,Koramangala,Tomato,Fruits & Veg,30,40,1,0
+2026-06-02,Koramangala,Tomato,Fruits & Veg,26,40,1,0
+2026-06-03,Koramangala,Tomato,Fruits & Veg,30,40,1,0
+2026-06-04,Koramangala,Tomato,Fruits & Veg,22,40,1,0
+2026-06-05,Koramangala,Tomato,Fruits & Veg,36,40,1,0
+2026-06-06,Koramangala,Tomato,Fruits & Veg,29,40,1,0
+2026-06-07,Koramangala,Tomato,Fruits & Veg,52,40,1,0
+2026-06-08,Koramangala,Tomato,Fruits & Veg,34,40,1,1
+2026-06-09,Koramangala,Tomato,Fruits & Veg,40,40,1,1
+2026-06-10,Koramangala,Tomato,Fruits & Veg,24,40,1,0
+2026-06-11,Koramangala,Tomato,Fruits & Veg,47,40,1,1
+2026-06-12,Koramangala,Tomato,Fruits & Veg,45,40,1,0
+2026-06-13,Koramangala,Tomato,Fruits & Veg,53,40,1,0
+2026-06-14,Koramangala,Tomato,Fruits & Veg,44,40,1,0
+2026-06-15,Koramangala,Tomato,Fruits & Veg,41,40,1,0
+2026-06-16,Koramangala,Tomato,Fruits & Veg,34,40,1,0
+2026-06-17,Koramangala,Tomato,Fruits & Veg,45,40,1,1
+2026-06-18,Koramangala,Tomato,Fruits & Veg,19,40,1,1
+2026-06-19,Koramangala,Tomato,Fruits & Veg,35,40,1,0
+2026-06-20,Koramangala,Tomato,Fruits & Veg,57,40,1,0
+2026-06-21,Koramangala,Tomato,Fruits & Veg,52,40,1,0
+2026-06-22,Koramangala,Tomato,Fruits & Veg,42,40,1,0
+2026-06-23,Koramangala,Tomato,Fruits & Veg,41,40,1,0
+2026-06-24,Koramangala,Tomato,Fruits & Veg,36,40,1,0
+2026-06-25,Koramangala,Tomato,Fruits & Veg,26,40,1,0
+2026-06-26,Koramangala,Tomato,Fruits & Veg,39,40,1,0
+2026-06-27,Koramangala,Tomato,Fruits & Veg,41,40,1,0
+2026-06-28,Koramangala,Tomato,Fruits & Veg,43,40,1,1
+2026-06-29,Koramangala,Tomato,Fruits & Veg,33,40,1,1
+2026-04-01,Koramangala,Onion,Fruits & Veg,29,35,1,0
+2026-04-02,Koramangala,Onion,Fruits & Veg,22,35,1,0
+2026-04-03,Koramangala,Onion,Fruits & Veg,34,35,1,0
+2026-04-04,Koramangala,Onion,Fruits & Veg,40,35,1,0
+2026-04-05,Koramangala,Onion,Fruits & Veg,47,35,1,0
+2026-04-06,Koramangala,Onion,Fruits & Veg,45,35,1,0
+2026-04-07,Koramangala,Onion,Fruits & Veg,35,35,1,0
+2026-04-08,Koramangala,Onion,Fruits & Veg,30,35,1,0
+2026-04-09,Koramangala,Onion,Fruits & Veg,20,35,1,0
+2026-04-10,Koramangala,Onion,Fruits & Veg,29,35,1,0
+2026-04-11,Koramangala,Onion,Fruits & Veg,40,35,1,0
+2026-04-12,Koramangala,Onion,Fruits & Veg,41,35,1,0
+2026-04-13,Koramangala,Onion,Fruits & Veg,30,35,1,0
+2026-04-14,Koramangala,Onion,Fruits & Veg,26,35,1,0
+2026-04-15,Koramangala,Onion,Fruits & Veg,36,35,1,1
+2026-04-16,Koramangala,Onion,Fruits & Veg,31,35,1,0
+2026-04-17,Koramangala,Onion,Fruits & Veg,37,35,1,0
+2026-04-18,Koramangala,Onion,Fruits & Veg,33,35,1,0
+2026-04-19,Koramangala,Onion,Fruits & Veg,41,35,1,0
+2026-04-20,Koramangala,Onion,Fruits & Veg,38,35,1,0
+2026-04-21,Koramangala,Onion,Fruits & Veg,38,35,1,0
+2026-04-22,Koramangala,Onion,Fruits & Veg,21,35,1,0
+2026-04-23,Koramangala,Onion,Fruits & Veg,29,35,1,0
+2026-04-24,Koramangala,Onion,Fruits & Veg,27,35,1,0
+2026-04-25,Koramangala,Onion,Fruits & Veg,47,35,1,0
+2026-04-26,Koramangala,Onion,Fruits & Veg,42,35,1,0
+2026-04-27,Koramangala,Onion,Fruits & Veg,25,35,1,1
+2026-04-28,Koramangala,Onion,Fruits & Veg,29,35,1,1
+2026-04-29,Koramangala,Onion,Fruits & Veg,26,35,1,0
+2026-04-30,Koramangala,Onion,Fruits & Veg,30,35,1,0
+2026-05-01,Koramangala,Onion,Fruits & Veg,26,35,1,0
+2026-05-02,Koramangala,Onion,Fruits & Veg,40,35,1,0
+2026-05-03,Koramangala,Onion,Fruits & Veg,48,35,1,0
+2026-05-04,Koramangala,Onion,Fruits & Veg,47,35,1,0
+2026-05-05,Koramangala,Onion,Fruits & Veg,36,35,1,0
+2026-05-06,Koramangala,Onion,Fruits & Veg,43,35,1,0
+2026-05-07,Koramangala,Onion,Fruits & Veg,15,35,1,0
+2026-05-08,Koramangala,Onion,Fruits & Veg,34,35,1,0
+2026-05-09,Koramangala,Onion,Fruits & Veg,44,35,1,0
+2026-05-10,Koramangala,Onion,Fruits & Veg,42,35,1,1
+2026-05-11,Koramangala,Onion,Fruits & Veg,29,35,1,0
+2026-05-12,Koramangala,Onion,Fruits & Veg,13,35,1,0
+2026-05-13,Koramangala,Onion,Fruits & Veg,22,35,1,0
+2026-05-14,Koramangala,Onion,Fruits & Veg,28,35,1,0
+2026-05-15,Koramangala,Onion,Fruits & Veg,32,35,1,0
+2026-05-16,Koramangala,Onion,Fruits & Veg,32,35,1,0
+2026-05-17,Koramangala,Onion,Fruits & Veg,38,35,1,0
+2026-05-18,Koramangala,Onion,Fruits & Veg,28,35,1,0
+2026-05-19,Koramangala,Onion,Fruits & Veg,28,35,1,0
+2026-05-20,Koramangala,Onion,Fruits & Veg,30,35,1,0
+2026-05-21,Koramangala,Onion,Fruits & Veg,34,35,1,0
+2026-05-22,Koramangala,Onion,Fruits & Veg,27,35,1,1
+2026-05-23,Koramangala,Onion,Fruits & Veg,37,35,1,0
+2026-05-24,Koramangala,Onion,Fruits & Veg,32,35,1,0
+2026-05-25,Koramangala,Onion,Fruits & Veg,26,35,1,0
+2026-05-26,Koramangala,Onion,Fruits & Veg,23,35,1,0
+2026-05-27,Koramangala,Onion,Fruits & Veg,32,35,1,0
+2026-05-28,Koramangala,Onion,Fruits & Veg,45,35,1,0
+2026-05-29,Koramangala,Onion,Fruits & Veg,43,35,1,0
+2026-05-30,Koramangala,Onion,Fruits & Veg,34,35,1,0
+2026-05-31,Koramangala,Onion,Fruits & Veg,42,35,1,0
+2026-06-01,Koramangala,Onion,Fruits & Veg,30,35,1,0
+2026-06-02,Koramangala,Onion,Fruits & Veg,16,35,1,0
+2026-06-03,Koramangala,Onion,Fruits & Veg,13,35,1,1
+2026-06-04,Koramangala,Onion,Fruits & Veg,24,35,1,0
+2026-06-05,Koramangala,Onion,Fruits & Veg,28,35,1,0
+2026-06-06,Koramangala,Onion,Fruits & Veg,28,35,1,1
+2026-06-07,Koramangala,Onion,Fruits & Veg,31,35,1,0
+2026-06-08,Koramangala,Onion,Fruits & Veg,22,35,1,0
+2026-06-09,Koramangala,Onion,Fruits & Veg,22,35,1,0
+2026-06-10,Koramangala,Onion,Fruits & Veg,19,35,1,0
+2026-06-11,Koramangala,Onion,Fruits & Veg,27,35,1,0
+2026-06-12,Koramangala,Onion,Fruits & Veg,34,35,1,0
+2026-06-13,Koramangala,Onion,Fruits & Veg,40,35,1,0
+2026-06-14,Koramangala,Onion,Fruits & Veg,31,35,1,0
+2026-06-15,Koramangala,Onion,Fruits & Veg,28,35,1,0
+2026-06-16,Koramangala,Onion,Fruits & Veg,29,35,1,0
+2026-06-17,Koramangala,Onion,Fruits & Veg,15,35,1,0
+2026-06-18,Koramangala,Onion,Fruits & Veg,36,35,1,0
+2026-06-19,Koramangala,Onion,Fruits & Veg,24,35,1,0
+2026-06-20,Koramangala,Onion,Fruits & Veg,28,35,1,0
+2026-06-21,Koramangala,Onion,Fruits & Veg,57,35,1,0
+2026-06-22,Koramangala,Onion,Fruits & Veg,21,35,1,0
+2026-06-23,Koramangala,Onion,Fruits & Veg,26,35,1,0
+2026-06-24,Koramangala,Onion,Fruits & Veg,23,35,1,0
+2026-06-25,Koramangala,Onion,Fruits & Veg,36,35,1,0
+2026-06-26,Koramangala,Onion,Fruits & Veg,27,35,1,0
+2026-06-27,Koramangala,Onion,Fruits & Veg,27,35,1,1
+2026-06-28,Koramangala,Onion,Fruits & Veg,22,35,1,1
+2026-06-29,Koramangala,Onion,Fruits & Veg,25,35,1,0
+2026-04-01,Koramangala,Chips,Snacks,41,20,2,0
+2026-04-02,Koramangala,Chips,Snacks,19,20,2,0
+2026-04-03,Koramangala,Chips,Snacks,36,20,2,0
+2026-04-04,Koramangala,Chips,Snacks,29,20,2,1
+2026-04-05,Koramangala,Chips,Snacks,25,20,2,0
+2026-04-06,Koramangala,Chips,Snacks,11,20,2,0
+2026-04-07,Koramangala,Chips,Snacks,26,20,2,0
+2026-04-08,Koramangala,Chips,Snacks,29,20,2,0
+2026-04-09,Koramangala,Chips,Snacks,26,20,2,0
+2026-04-10,Koramangala,Chips,Snacks,13,20,2,0
+2026-04-11,Koramangala,Chips,Snacks,31,20,2,0
+2026-04-12,Koramangala,Chips,Snacks,37,20,2,0
+2026-04-13,Koramangala,Chips,Snacks,23,20,2,0
+2026-04-14,Koramangala,Chips,Snacks,30,20,2,0
+2026-04-15,Koramangala,Chips,Snacks,42,20,2,0
+2026-04-16,Koramangala,Chips,Snacks,17,20,2,0
+2026-04-17,Koramangala,Chips,Snacks,45,20,2,0
+2026-04-18,Koramangala,Chips,Snacks,28,20,2,0
+2026-04-19,Koramangala,Chips,Snacks,34,20,2,0
+2026-04-20,Koramangala,Chips,Snacks,26,20,2,0
+2026-04-21,Koramangala,Chips,Snacks,33,20,2,0
+2026-04-22,Koramangala,Chips,Snacks,24,20,2,0
+2026-04-23,Koramangala,Chips,Snacks,27,20,2,0
+2026-04-24,Koramangala,Chips,Snacks,26,20,2,0
+2026-04-25,Koramangala,Chips,Snacks,38,20,2,0
+2026-04-26,Koramangala,Chips,Snacks,38,20,2,0
+2026-04-27,Koramangala,Chips,Snacks,27,20,2,0
+2026-04-28,Koramangala,Chips,Snacks,33,20,2,0
+2026-04-29,Koramangala,Chips,Snacks,37,20,2,0
+2026-04-30,Koramangala,Chips,Snacks,22,20,2,0
+2026-05-01,Koramangala,Chips,Snacks,23,20,2,0
+2026-05-02,Koramangala,Chips,Snacks,31,20,2,0
+2026-05-03,Koramangala,Chips,Snacks,30,20,2,0
+2026-05-04,Koramangala,Chips,Snacks,22,20,2,0
+2026-05-05,Koramangala,Chips,Snacks,27,20,2,0
+2026-05-06,Koramangala,Chips,Snacks,32,20,2,0
+2026-05-07,Koramangala,Chips,Snacks,22,20,2,0
+2026-05-08,Koramangala,Chips,Snacks,30,20,2,0
+2026-05-09,Koramangala,Chips,Snacks,32,20,2,0
+2026-05-10,Koramangala,Chips,Snacks,53,20,2,0
+2026-05-11,Koramangala,Chips,Snacks,28,20,2,0
+2026-05-12,Koramangala,Chips,Snacks,32,20,2,0
+2026-05-13,Koramangala,Chips,Snacks,20,20,2,0
+2026-05-14,Koramangala,Chips,Snacks,21,20,2,0
+2026-05-15,Koramangala,Chips,Snacks,28,20,2,0
+2026-05-16,Koramangala,Chips,Snacks,30,20,2,0
+2026-05-17,Koramangala,Chips,Snacks,35,20,2,0
+2026-05-18,Koramangala,Chips,Snacks,35,20,2,0
+2026-05-19,Koramangala,Chips,Snacks,22,20,2,0
+2026-05-20,Koramangala,Chips,Snacks,21,20,2,0
+2026-05-21,Koramangala,Chips,Snacks,28,20,2,0
+2026-05-22,Koramangala,Chips,Snacks,25,20,2,0
+2026-05-23,Koramangala,Chips,Snacks,39,20,2,0
+2026-05-24,Koramangala,Chips,Snacks,34,20,2,0
+2026-05-25,Koramangala,Chips,Snacks,19,20,2,0
+2026-05-26,Koramangala,Chips,Snacks,12,20,2,0
+2026-05-27,Koramangala,Chips,Snacks,29,20,2,0
+2026-05-28,Koramangala,Chips,Snacks,22,20,2,0
+2026-05-29,Koramangala,Chips,Snacks,27,20,2,0
+2026-05-30,Koramangala,Chips,Snacks,23,20,2,0
+2026-05-31,Koramangala,Chips,Snacks,30,20,2,0
+2026-06-01,Koramangala,Chips,Snacks,29,20,2,0
+2026-06-02,Koramangala,Chips,Snacks,34,20,2,0
+2026-06-03,Koramangala,Chips,Snacks,34,20,2,0
+2026-06-04,Koramangala,Chips,Snacks,35,20,2,0
+2026-06-05,Koramangala,Chips,Snacks,26,20,2,0
+2026-06-06,Koramangala,Chips,Snacks,42,20,2,0
+2026-06-07,Koramangala,Chips,Snacks,37,20,2,0
+2026-06-08,Koramangala,Chips,Snacks,25,20,2,0
+2026-06-09,Koramangala,Chips,Snacks,23,20,2,0
+2026-06-10,Koramangala,Chips,Snacks,21,20,2,0
+2026-06-11,Koramangala,Chips,Snacks,34,20,2,0
+2026-06-12,Koramangala,Chips,Snacks,27,20,2,0
+2026-06-13,Koramangala,Chips,Snacks,30,20,2,0
+2026-06-14,Koramangala,Chips,Snacks,34,20,2,0
+2026-06-15,Koramangala,Chips,Snacks,40,20,2,0
+2026-06-16,Koramangala,Chips,Snacks,17,20,2,0
+2026-06-17,Koramangala,Chips,Snacks,17,20,2,0
+2026-06-18,Koramangala,Chips,Snacks,37,20,2,0
+2026-06-19,Koramangala,Chips,Snacks,17,20,2,0
+2026-06-20,Koramangala,Chips,Snacks,45,20,2,0
+2026-06-21,Koramangala,Chips,Snacks,31,20,2,0
+2026-06-22,Koramangala,Chips,Snacks,29,20,2,0
+2026-06-23,Koramangala,Chips,Snacks,36,20,2,0
+2026-06-24,Koramangala,Chips,Snacks,36,20,2,0
+2026-06-25,Koramangala,Chips,Snacks,32,20,2,0
+2026-06-26,Koramangala,Chips,Snacks,27,20,2,0
+2026-06-27,Koramangala,Chips,Snacks,33,20,2,0
+2026-06-28,Koramangala,Chips,Snacks,33,20,2,0
+2026-06-29,Koramangala,Chips,Snacks,38,20,2,0
+2026-04-01,Koramangala,Biscuits,Snacks,23,30,2,0
+2026-04-02,Koramangala,Biscuits,Snacks,27,30,2,0
+2026-04-03,Koramangala,Biscuits,Snacks,8,30,2,0
+2026-04-04,Koramangala,Biscuits,Snacks,26,30,2,0
+2026-04-05,Koramangala,Biscuits,Snacks,29,30,2,0
+2026-04-06,Koramangala,Biscuits,Snacks,19,30,2,0
+2026-04-07,Koramangala,Biscuits,Snacks,33,30,2,0
+2026-04-08,Koramangala,Biscuits,Snacks,15,30,2,0
+2026-04-09,Koramangala,Biscuits,Snacks,24,30,2,0
+2026-04-10,Koramangala,Biscuits,Snacks,26,30,2,0
+2026-04-11,Koramangala,Biscuits,Snacks,23,30,2,0
+2026-04-12,Koramangala,Biscuits,Snacks,32,30,2,0
+2026-04-13,Koramangala,Biscuits,Snacks,23,30,2,0
+2026-04-14,Koramangala,Biscuits,Snacks,37,30,2,0
+2026-04-15,Koramangala,Biscuits,Snacks,29,30,2,0
+2026-04-16,Koramangala,Biscuits,Snacks,21,30,2,0
+2026-04-17,Koramangala,Biscuits,Snacks,26,30,2,0
+2026-04-18,Koramangala,Biscuits,Snacks,30,30,2,0
+2026-04-19,Koramangala,Biscuits,Snacks,25,30,2,0
+2026-04-20,Koramangala,Biscuits,Snacks,25,30,2,0
+2026-04-21,Koramangala,Biscuits,Snacks,24,30,2,0
+2026-04-22,Koramangala,Biscuits,Snacks,30,30,2,0
+2026-04-23,Koramangala,Biscuits,Snacks,13,30,2,0
+2026-04-24,Koramangala,Biscuits,Snacks,14,30,2,0
+2026-04-25,Koramangala,Biscuits,Snacks,23,30,2,0
+2026-04-26,Koramangala,Biscuits,Snacks,31,30,2,0
+2026-04-27,Koramangala,Biscuits,Snacks,27,30,2,0
+2026-04-28,Koramangala,Biscuits,Snacks,20,30,2,0
+2026-04-29,Koramangala,Biscuits,Snacks,22,30,2,0
+2026-04-30,Koramangala,Biscuits,Snacks,21,30,2,0
+2026-05-01,Koramangala,Biscuits,Snacks,12,30,2,0
+2026-05-02,Koramangala,Biscuits,Snacks,23,30,2,0
+2026-05-03,Koramangala,Biscuits,Snacks,33,30,2,0
+2026-05-04,Koramangala,Biscuits,Snacks,26,30,2,0
+2026-05-05,Koramangala,Biscuits,Snacks,28,30,2,0
+2026-05-06,Koramangala,Biscuits,Snacks,25,30,2,1
+2026-05-07,Koramangala,Biscuits,Snacks,7,30,2,0
+2026-05-08,Koramangala,Biscuits,Snacks,23,30,2,0
+2026-05-09,Koramangala,Biscuits,Snacks,30,30,2,0
+2026-05-10,Koramangala,Biscuits,Snacks,20,30,2,0
+2026-05-11,Koramangala,Biscuits,Snacks,31,30,2,0
+2026-05-12,Koramangala,Biscuits,Snacks,20,30,2,0
+2026-05-13,Koramangala,Biscuits,Snacks,26,30,2,0
+2026-05-14,Koramangala,Biscuits,Snacks,25,30,2,0
+2026-05-15,Koramangala,Biscuits,Snacks,24,30,2,0
+2026-05-16,Koramangala,Biscuits,Snacks,35,30,2,0
+2026-05-17,Koramangala,Biscuits,Snacks,27,30,2,0
+2026-05-18,Koramangala,Biscuits,Snacks,26,30,2,0
+2026-05-19,Koramangala,Biscuits,Snacks,24,30,2,0
+2026-05-20,Koramangala,Biscuits,Snacks,14,30,2,0
+2026-05-21,Koramangala,Biscuits,Snacks,18,30,2,0
+2026-05-22,Koramangala,Biscuits,Snacks,15,30,2,0
+2026-05-23,Koramangala,Biscuits,Snacks,18,30,2,0
+2026-05-24,Koramangala,Biscuits,Snacks,19,30,2,0
+2026-05-25,Koramangala,Biscuits,Snacks,24,30,2,0
+2026-05-26,Koramangala,Biscuits,Snacks,13,30,2,0
+2026-05-27,Koramangala,Biscuits,Snacks,27,30,2,0
+2026-05-28,Koramangala,Biscuits,Snacks,20,30,2,0
+2026-05-29,Koramangala,Biscuits,Snacks,20,30,2,0
+2026-05-30,Koramangala,Biscuits,Snacks,21,30,2,0
+2026-05-31,Koramangala,Biscuits,Snacks,30,30,2,0
+2026-06-01,Koramangala,Biscuits,Snacks,16,30,2,0
+2026-06-02,Koramangala,Biscuits,Snacks,25,30,2,0
+2026-06-03,Koramangala,Biscuits,Snacks,25,30,2,0
+2026-06-04,Koramangala,Biscuits,Snacks,12,30,2,0
+2026-06-05,Koramangala,Biscuits,Snacks,24,30,2,0
+2026-06-06,Koramangala,Biscuits,Snacks,16,30,2,0
+2026-06-07,Koramangala,Biscuits,Snacks,32,30,2,0
+2026-06-08,Koramangala,Biscuits,Snacks,9,30,2,0
+2026-06-09,Koramangala,Biscuits,Snacks,15,30,2,0
+2026-06-10,Koramangala,Biscuits,Snacks,28,30,2,0
+2026-06-11,Koramangala,Biscuits,Snacks,22,30,2,0
+2026-06-12,Koramangala,Biscuits,Snacks,25,30,2,0
+2026-06-13,Koramangala,Biscuits,Snacks,14,30,2,0
+2026-06-14,Koramangala,Biscuits,Snacks,32,30,2,0
+2026-06-15,Koramangala,Biscuits,Snacks,16,30,2,0
+2026-06-16,Koramangala,Biscuits,Snacks,30,30,2,0
+2026-06-17,Koramangala,Biscuits,Snacks,21,30,2,0
+2026-06-18,Koramangala,Biscuits,Snacks,21,30,2,0
+2026-06-19,Koramangala,Biscuits,Snacks,12,30,2,0
+2026-06-20,Koramangala,Biscuits,Snacks,23,30,2,0
+2026-06-21,Koramangala,Biscuits,Snacks,28,30,2,0
+2026-06-22,Koramangala,Biscuits,Snacks,29,30,2,0
+2026-06-23,Koramangala,Biscuits,Snacks,28,30,2,0
+2026-06-24,Koramangala,Biscuits,Snacks,20,30,2,0
+2026-06-25,Koramangala,Biscuits,Snacks,15,30,2,0
+2026-06-26,Koramangala,Biscuits,Snacks,14,30,2,0
+2026-06-27,Koramangala,Biscuits,Snacks,37,30,2,0
+2026-06-28,Koramangala,Biscuits,Snacks,29,30,2,0
+2026-06-29,Koramangala,Biscuits,Snacks,15,30,2,0
+2026-04-01,Koramangala,Cola,Beverages,35,40,2,0
+2026-04-02,Koramangala,Cola,Beverages,29,40,2,0
+2026-04-03,Koramangala,Cola,Beverages,30,40,2,0
+2026-04-04,Koramangala,Cola,Beverages,39,40,2,0
+2026-04-05,Koramangala,Cola,Beverages,35,40,2,0
+2026-04-06,Koramangala,Cola,Beverages,22,40,2,0
+2026-04-07,Koramangala,Cola,Beverages,14,40,2,0
+2026-04-08,Koramangala,Cola,Beverages,16,40,2,1
+2026-04-09,Koramangala,Cola,Beverages,19,40,2,0
+2026-04-10,Koramangala,Cola,Beverages,28,40,2,0
+2026-04-11,Koramangala,Cola,Beverages,28,40,2,0
+2026-04-12,Koramangala,Cola,Beverages,38,40,2,0
+2026-04-13,Koramangala,Cola,Beverages,31,40,2,0
+2026-04-14,Koramangala,Cola,Beverages,35,40,2,0
+2026-04-15,Koramangala,Cola,Beverages,35,40,2,0
+2026-04-16,Koramangala,Cola,Beverages,7,40,2,0
+2026-04-17,Koramangala,Cola,Beverages,36,40,2,0
+2026-04-18,Koramangala,Cola,Beverages,34,40,2,0
+2026-04-19,Koramangala,Cola,Beverages,34,40,2,0
+2026-04-20,Koramangala,Cola,Beverages,21,40,2,0
+2026-04-21,Koramangala,Cola,Beverages,27,40,2,0
+2026-04-22,Koramangala,Cola,Beverages,26,40,2,0
+2026-04-23,Koramangala,Cola,Beverages,21,40,2,0
+2026-04-24,Koramangala,Cola,Beverages,13,40,2,0
+2026-04-25,Koramangala,Cola,Beverages,42,40,2,0
+2026-04-26,Koramangala,Cola,Beverages,37,40,2,0
+2026-04-27,Koramangala,Cola,Beverages,19,40,2,0
+2026-04-28,Koramangala,Cola,Beverages,22,40,2,0
+2026-04-29,Koramangala,Cola,Beverages,30,40,2,0
+2026-04-30,Koramangala,Cola,Beverages,22,40,2,0
+2026-05-01,Koramangala,Cola,Beverages,27,40,2,0
+2026-05-02,Koramangala,Cola,Beverages,40,40,2,0
+2026-05-03,Koramangala,Cola,Beverages,39,40,2,1
+2026-05-04,Koramangala,Cola,Beverages,24,40,2,0
+2026-05-05,Koramangala,Cola,Beverages,20,40,2,0
+2026-05-06,Koramangala,Cola,Beverages,23,40,2,0
+2026-05-07,Koramangala,Cola,Beverages,30,40,2,0
+2026-05-08,Koramangala,Cola,Beverages,24,40,2,0
+2026-05-09,Koramangala,Cola,Beverages,44,40,2,0
+2026-05-10,Koramangala,Cola,Beverages,45,40,2,0
+2026-05-11,Koramangala,Cola,Beverages,35,40,2,0
+2026-05-12,Koramangala,Cola,Beverages,30,40,2,0
+2026-05-13,Koramangala,Cola,Beverages,18,40,2,0
+2026-05-14,Koramangala,Cola,Beverages,37,40,2,0
+2026-05-15,Koramangala,Cola,Beverages,30,40,2,0
+2026-05-16,Koramangala,Cola,Beverages,29,40,2,1
+2026-05-17,Koramangala,Cola,Beverages,28,40,2,0
+2026-05-18,Koramangala,Cola,Beverages,21,40,2,0
+2026-05-19,Koramangala,Cola,Beverages,26,40,2,0
+2026-05-20,Koramangala,Cola,Beverages,16,40,2,0
+2026-05-21,Koramangala,Cola,Beverages,33,40,2,0
+2026-05-22,Koramangala,Cola,Beverages,23,40,2,0
+2026-05-23,Koramangala,Cola,Beverages,37,40,2,0
+2026-05-24,Koramangala,Cola,Beverages,22,40,2,0
+2026-05-25,Koramangala,Cola,Beverages,45,40,2,0
+2026-05-26,Koramangala,Cola,Beverages,32,40,2,0
+2026-05-27,Koramangala,Cola,Beverages,25,40,2,0
+2026-05-28,Koramangala,Cola,Beverages,18,40,2,0
+2026-05-29,Koramangala,Cola,Beverages,35,40,2,0
+2026-05-30,Koramangala,Cola,Beverages,31,40,2,0
+2026-05-31,Koramangala,Cola,Beverages,30,40,2,0
+2026-06-01,Koramangala,Cola,Beverages,19,40,2,0
+2026-06-02,Koramangala,Cola,Beverages,17,40,2,0
+2026-06-03,Koramangala,Cola,Beverages,25,40,2,0
+2026-06-04,Koramangala,Cola,Beverages,25,40,2,0
+2026-06-05,Koramangala,Cola,Beverages,23,40,2,0
+2026-06-06,Koramangala,Cola,Beverages,26,40,2,0
+2026-06-07,Koramangala,Cola,Beverages,43,40,2,1
+2026-06-08,Koramangala,Cola,Beverages,36,40,2,0
+2026-06-09,Koramangala,Cola,Beverages,20,40,2,0
+2026-06-10,Koramangala,Cola,Beverages,34,40,2,0
+2026-06-11,Koramangala,Cola,Beverages,26,40,2,0
+2026-06-12,Koramangala,Cola,Beverages,25,40,2,0
+2026-06-13,Koramangala,Cola,Beverages,46,40,2,0
+2026-06-14,Koramangala,Cola,Beverages,46,40,2,0
+2026-06-15,Koramangala,Cola,Beverages,22,40,2,0
+2026-06-16,Koramangala,Cola,Beverages,30,40,2,0
+2026-06-17,Koramangala,Cola,Beverages,21,40,2,0
+2026-06-18,Koramangala,Cola,Beverages,14,40,2,0
+2026-06-19,Koramangala,Cola,Beverages,31,40,2,0
+2026-06-20,Koramangala,Cola,Beverages,36,40,2,0
+2026-06-21,Koramangala,Cola,Beverages,38,40,2,0
+2026-06-22,Koramangala,Cola,Beverages,40,40,2,0
+2026-06-23,Koramangala,Cola,Beverages,23,40,2,0
+2026-06-24,Koramangala,Cola,Beverages,28,40,2,0
+2026-06-25,Koramangala,Cola,Beverages,26,40,2,0
+2026-06-26,Koramangala,Cola,Beverages,12,40,2,0
+2026-06-27,Koramangala,Cola,Beverages,31,40,2,0
+2026-06-28,Koramangala,Cola,Beverages,22,40,2,0
+2026-06-29,Koramangala,Cola,Beverages,25,40,2,0
+2026-04-01,Koramangala,Juice,Beverages,7,110,2,0
+2026-04-02,Koramangala,Juice,Beverages,6,110,2,0
+2026-04-03,Koramangala,Juice,Beverages,13,110,2,0
+2026-04-04,Koramangala,Juice,Beverages,11,110,2,0
+2026-04-05,Koramangala,Juice,Beverages,12,110,2,0
+2026-04-06,Koramangala,Juice,Beverages,10,110,2,0
+2026-04-07,Koramangala,Juice,Beverages,4,110,2,0
+2026-04-08,Koramangala,Juice,Beverages,7,110,2,0
+2026-04-09,Koramangala,Juice,Beverages,7,110,2,0
+2026-04-10,Koramangala,Juice,Beverages,10,110,2,0
+2026-04-11,Koramangala,Juice,Beverages,13,110,2,0
+2026-04-12,Koramangala,Juice,Beverages,11,110,2,0
+2026-04-13,Koramangala,Juice,Beverages,14,110,2,0
+2026-04-14,Koramangala,Juice,Beverages,8,110,2,0
+2026-04-15,Koramangala,Juice,Beverages,7,110,2,0
+2026-04-16,Koramangala,Juice,Beverages,10,110,2,0
+2026-04-17,Koramangala,Juice,Beverages,7,110,2,0
+2026-04-18,Koramangala,Juice,Beverages,15,110,2,0
+2026-04-19,Koramangala,Juice,Beverages,13,110,2,0
+2026-04-20,Koramangala,Juice,Beverages,7,110,2,0
+2026-04-21,Koramangala,Juice,Beverages,15,110,2,0
+2026-04-22,Koramangala,Juice,Beverages,8,110,2,0
+2026-04-23,Koramangala,Juice,Beverages,9,110,2,0
+2026-04-24,Koramangala,Juice,Beverages,10,110,2,0
+2026-04-25,Koramangala,Juice,Beverages,13,110,2,0
+2026-04-26,Koramangala,Juice,Beverages,13,110,2,0
+2026-04-27,Koramangala,Juice,Beverages,6,110,2,1
+2026-04-28,Koramangala,Juice,Beverages,9,110,2,0
+2026-04-29,Koramangala,Juice,Beverages,4,110,2,0
+2026-04-30,Koramangala,Juice,Beverages,9,110,2,0
+2026-05-01,Koramangala,Juice,Beverages,9,110,2,0
+2026-05-02,Koramangala,Juice,Beverages,14,110,2,0
+2026-05-03,Koramangala,Juice,Beverages,10,110,2,0
+2026-05-04,Koramangala,Juice,Beverages,10,110,2,0
+2026-05-05,Koramangala,Juice,Beverages,8,110,2,0
+2026-05-06,Koramangala,Juice,Beverages,9,110,2,0
+2026-05-07,Koramangala,Juice,Beverages,7,110,2,0
+2026-05-08,Koramangala,Juice,Beverages,12,110,2,0
+2026-05-09,Koramangala,Juice,Beverages,14,110,2,0
+2026-05-10,Koramangala,Juice,Beverages,8,110,2,0
+2026-05-11,Koramangala,Juice,Beverages,8,110,2,0
+2026-05-12,Koramangala,Juice,Beverages,8,110,2,0
+2026-05-13,Koramangala,Juice,Beverages,4,110,2,0
+2026-05-14,Koramangala,Juice,Beverages,6,110,2,0
+2026-05-15,Koramangala,Juice,Beverages,8,110,2,0
+2026-05-16,Koramangala,Juice,Beverages,9,110,2,0
+2026-05-17,Koramangala,Juice,Beverages,12,110,2,0
+2026-05-18,Koramangala,Juice,Beverages,11,110,2,0
+2026-05-19,Koramangala,Juice,Beverages,8,110,2,0
+2026-05-20,Koramangala,Juice,Beverages,11,110,2,0
+2026-05-21,Koramangala,Juice,Beverages,13,110,2,0
+2026-05-22,Koramangala,Juice,Beverages,8,110,2,0
+2026-05-23,Koramangala,Juice,Beverages,15,110,2,0
+2026-05-24,Koramangala,Juice,Beverages,15,110,2,0
+2026-05-25,Koramangala,Juice,Beverages,13,110,2,0
+2026-05-26,Koramangala,Juice,Beverages,9,110,2,0
+2026-05-27,Koramangala,Juice,Beverages,10,110,2,0
+2026-05-28,Koramangala,Juice,Beverages,7,110,2,0
+2026-05-29,Koramangala,Juice,Beverages,11,110,2,0
+2026-05-30,Koramangala,Juice,Beverages,14,110,2,0
+2026-05-31,Koramangala,Juice,Beverages,13,110,2,0
+2026-06-01,Koramangala,Juice,Beverages,9,110,2,0
+2026-06-02,Koramangala,Juice,Beverages,8,110,2,1
+2026-06-03,Koramangala,Juice,Beverages,4,110,2,0
+2026-06-04,Koramangala,Juice,Beverages,8,110,2,0
+2026-06-05,Koramangala,Juice,Beverages,5,110,2,0
+2026-06-06,Koramangala,Juice,Beverages,12,110,2,0
+2026-06-07,Koramangala,Juice,Beverages,10,110,2,0
+2026-06-08,Koramangala,Juice,Beverages,15,110,2,0
+2026-06-09,Koramangala,Juice,Beverages,8,110,2,0
+2026-06-10,Koramangala,Juice,Beverages,7,110,2,0
+2026-06-11,Koramangala,Juice,Beverages,14,110,2,0
+2026-06-12,Koramangala,Juice,Beverages,5,110,2,0
+2026-06-13,Koramangala,Juice,Beverages,15,110,2,0
+2026-06-14,Koramangala,Juice,Beverages,15,110,2,0
+2026-06-15,Koramangala,Juice,Beverages,9,110,2,0
+2026-06-16,Koramangala,Juice,Beverages,6,110,2,0
+2026-06-17,Koramangala,Juice,Beverages,8,110,2,0
+2026-06-18,Koramangala,Juice,Beverages,10,110,2,0
+2026-06-19,Koramangala,Juice,Beverages,11,110,2,0
+2026-06-20,Koramangala,Juice,Beverages,14,110,2,0
+2026-06-21,Koramangala,Juice,Beverages,13,110,2,0
+2026-06-22,Koramangala,Juice,Beverages,8,110,2,0
+2026-06-23,Koramangala,Juice,Beverages,12,110,2,0
+2026-06-24,Koramangala,Juice,Beverages,7,110,2,0
+2026-06-25,Koramangala,Juice,Beverages,8,110,2,0
+2026-06-26,Koramangala,Juice,Beverages,10,110,2,0
+2026-06-27,Koramangala,Juice,Beverages,14,110,2,0
+2026-06-28,Koramangala,Juice,Beverages,14,110,2,0
+2026-06-29,Koramangala,Juice,Beverages,11,110,2,0
+2026-04-01,Koramangala,Rice,Staples,5,450,3,0
+2026-04-02,Koramangala,Rice,Staples,7,450,3,0
+2026-04-03,Koramangala,Rice,Staples,2,450,3,0
+2026-04-04,Koramangala,Rice,Staples,6,450,3,0
+2026-04-05,Koramangala,Rice,Staples,5,450,3,0
+2026-04-06,Koramangala,Rice,Staples,4,450,3,0
+2026-04-07,Koramangala,Rice,Staples,6,450,3,0
+2026-04-08,Koramangala,Rice,Staples,7,450,3,0
+2026-04-09,Koramangala,Rice,Staples,4,450,3,0
+2026-04-10,Koramangala,Rice,Staples,5,450,3,0
+2026-04-11,Koramangala,Rice,Staples,10,450,3,0
+2026-04-12,Koramangala,Rice,Staples,8,450,3,0
+2026-04-13,Koramangala,Rice,Staples,8,450,3,0
+2026-04-14,Koramangala,Rice,Staples,7,450,3,0
+2026-04-15,Koramangala,Rice,Staples,7,450,3,0
+2026-04-16,Koramangala,Rice,Staples,5,450,3,0
+2026-04-17,Koramangala,Rice,Staples,6,450,3,0
+2026-04-18,Koramangala,Rice,Staples,11,450,3,0
+2026-04-19,Koramangala,Rice,Staples,6,450,3,0
+2026-04-20,Koramangala,Rice,Staples,4,450,3,0
+2026-04-21,Koramangala,Rice,Staples,7,450,3,0
+2026-04-22,Koramangala,Rice,Staples,5,450,3,0
+2026-04-23,Koramangala,Rice,Staples,6,450,3,0
+2026-04-24,Koramangala,Rice,Staples,6,450,3,0
+2026-04-25,Koramangala,Rice,Staples,7,450,3,0
+2026-04-26,Koramangala,Rice,Staples,7,450,3,0
+2026-04-27,Koramangala,Rice,Staples,4,450,3,0
+2026-04-28,Koramangala,Rice,Staples,5,450,3,0
+2026-04-29,Koramangala,Rice,Staples,3,450,3,0
+2026-04-30,Koramangala,Rice,Staples,6,450,3,0
+2026-05-01,Koramangala,Rice,Staples,6,450,3,0
+2026-05-02,Koramangala,Rice,Staples,9,450,3,0
+2026-05-03,Koramangala,Rice,Staples,7,450,3,0
+2026-05-04,Koramangala,Rice,Staples,7,450,3,0
+2026-05-05,Koramangala,Rice,Staples,7,450,3,0
+2026-05-06,Koramangala,Rice,Staples,7,450,3,0
+2026-05-07,Koramangala,Rice,Staples,7,450,3,0
+2026-05-08,Koramangala,Rice,Staples,6,450,3,0
+2026-05-09,Koramangala,Rice,Staples,8,450,3,0
+2026-05-10,Koramangala,Rice,Staples,7,450,3,0
+2026-05-11,Koramangala,Rice,Staples,5,450,3,0
+2026-05-12,Koramangala,Rice,Staples,5,450,3,0
+2026-05-13,Koramangala,Rice,Staples,9,450,3,0
+2026-05-14,Koramangala,Rice,Staples,4,450,3,0
+2026-05-15,Koramangala,Rice,Staples,5,450,3,0
+2026-05-16,Koramangala,Rice,Staples,8,450,3,0
+2026-05-17,Koramangala,Rice,Staples,6,450,3,0
+2026-05-18,Koramangala,Rice,Staples,7,450,3,0
+2026-05-19,Koramangala,Rice,Staples,4,450,3,0
+2026-05-20,Koramangala,Rice,Staples,6,450,3,0
+2026-05-21,Koramangala,Rice,Staples,5,450,3,0
+2026-05-22,Koramangala,Rice,Staples,2,450,3,0
+2026-05-23,Koramangala,Rice,Staples,8,450,3,0
+2026-05-24,Koramangala,Rice,Staples,5,450,3,0
+2026-05-25,Koramangala,Rice,Staples,6,450,3,0
+2026-05-26,Koramangala,Rice,Staples,8,450,3,0
+2026-05-27,Koramangala,Rice,Staples,7,450,3,0
+2026-05-28,Koramangala,Rice,Staples,5,450,3,0
+2026-05-29,Koramangala,Rice,Staples,5,450,3,0
+2026-05-30,Koramangala,Rice,Staples,7,450,3,0
+2026-05-31,Koramangala,Rice,Staples,7,450,3,0
+2026-06-01,Koramangala,Rice,Staples,4,450,3,0
+2026-06-02,Koramangala,Rice,Staples,5,450,3,0
+2026-06-03,Koramangala,Rice,Staples,5,450,3,0
+2026-06-04,Koramangala,Rice,Staples,9,450,3,0
+2026-06-05,Koramangala,Rice,Staples,6,450,3,0
+2026-06-06,Koramangala,Rice,Staples,11,450,3,0
+2026-06-07,Koramangala,Rice,Staples,7,450,3,0
+2026-06-08,Koramangala,Rice,Staples,6,450,3,0
+2026-06-09,Koramangala,Rice,Staples,5,450,3,0
+2026-06-10,Koramangala,Rice,Staples,4,450,3,0
+2026-06-11,Koramangala,Rice,Staples,4,450,3,0
+2026-06-12,Koramangala,Rice,Staples,5,450,3,0
+2026-06-13,Koramangala,Rice,Staples,9,450,3,0
+2026-06-14,Koramangala,Rice,Staples,6,450,3,0
+2026-06-15,Koramangala,Rice,Staples,3,450,3,0
+2026-06-16,Koramangala,Rice,Staples,5,450,3,0
+2026-06-17,Koramangala,Rice,Staples,4,450,3,0
+2026-06-18,Koramangala,Rice,Staples,4,450,3,0
+2026-06-19,Koramangala,Rice,Staples,8,450,3,0
+2026-06-20,Koramangala,Rice,Staples,7,450,3,0
+2026-06-21,Koramangala,Rice,Staples,8,450,3,0
+2026-06-22,Koramangala,Rice,Staples,5,450,3,0
+2026-06-23,Koramangala,Rice,Staples,7,450,3,0
+2026-06-24,Koramangala,Rice,Staples,5,450,3,1
+2026-06-25,Koramangala,Rice,Staples,5,450,3,0
+2026-06-26,Koramangala,Rice,Staples,6,450,3,0
+2026-06-27,Koramangala,Rice,Staples,7,450,3,0
+2026-06-28,Koramangala,Rice,Staples,9,450,3,0
+2026-06-29,Koramangala,Rice,Staples,4,450,3,0
+2026-04-01,Koramangala,Atta,Staples,10,350,3,0
+2026-04-02,Koramangala,Atta,Staples,5,350,3,0
+2026-04-03,Koramangala,Atta,Staples,7,350,3,0
+2026-04-04,Koramangala,Atta,Staples,10,350,3,0
+2026-04-05,Koramangala,Atta,Staples,7,350,3,0
+2026-04-06,Koramangala,Atta,Staples,6,350,3,0
+2026-04-07,Koramangala,Atta,Staples,9,350,3,0
+2026-04-08,Koramangala,Atta,Staples,7,350,3,0
+2026-04-09,Koramangala,Atta,Staples,6,350,3,0
+2026-04-10,Koramangala,Atta,Staples,9,350,3,0
+2026-04-11,Koramangala,Atta,Staples,10,350,3,0
+2026-04-12,Koramangala,Atta,Staples,11,350,3,0
+2026-04-13,Koramangala,Atta,Staples,10,350,3,0
+2026-04-14,Koramangala,Atta,Staples,7,350,3,0
+2026-04-15,Koramangala,Atta,Staples,8,350,3,0
+2026-04-16,Koramangala,Atta,Staples,13,350,3,1
+2026-04-17,Koramangala,Atta,Staples,3,350,3,0
+2026-04-18,Koramangala,Atta,Staples,10,350,3,0
+2026-04-19,Koramangala,Atta,Staples,8,350,3,0
+2026-04-20,Koramangala,Atta,Staples,8,350,3,0
+2026-04-21,Koramangala,Atta,Staples,6,350,3,0
+2026-04-22,Koramangala,Atta,Staples,6,350,3,0
+2026-04-23,Koramangala,Atta,Staples,5,350,3,0
+2026-04-24,Koramangala,Atta,Staples,9,350,3,0
+2026-04-25,Koramangala,Atta,Staples,10,350,3,0
+2026-04-26,Koramangala,Atta,Staples,9,350,3,1
+2026-04-27,Koramangala,Atta,Staples,5,350,3,0
+2026-04-28,Koramangala,Atta,Staples,10,350,3,0
+2026-04-29,Koramangala,Atta,Staples,4,350,3,0
+2026-04-30,Koramangala,Atta,Staples,9,350,3,0
+2026-05-01,Koramangala,Atta,Staples,8,350,3,0
+2026-05-02,Koramangala,Atta,Staples,9,350,3,0
+2026-05-03,Koramangala,Atta,Staples,10,350,3,0
+2026-05-04,Koramangala,Atta,Staples,4,350,3,0
+2026-05-05,Koramangala,Atta,Staples,10,350,3,0
+2026-05-06,Koramangala,Atta,Staples,5,350,3,0
+2026-05-07,Koramangala,Atta,Staples,6,350,3,0
+2026-05-08,Koramangala,Atta,Staples,9,350,3,0
+2026-05-09,Koramangala,Atta,Staples,9,350,3,0
+2026-05-10,Koramangala,Atta,Staples,10,350,3,0
+2026-05-11,Koramangala,Atta,Staples,8,350,3,0
+2026-05-12,Koramangala,Atta,Staples,6,350,3,0
+2026-05-13,Koramangala,Atta,Staples,6,350,3,0
+2026-05-14,Koramangala,Atta,Staples,11,350,3,0
+2026-05-15,Koramangala,Atta,Staples,9,350,3,0
+2026-05-16,Koramangala,Atta,Staples,11,350,3,0
+2026-05-17,Koramangala,Atta,Staples,10,350,3,0
+2026-05-18,Koramangala,Atta,Staples,6,350,3,1
+2026-05-19,Koramangala,Atta,Staples,5,350,3,0
+2026-05-20,Koramangala,Atta,Staples,9,350,3,0
+2026-05-21,Koramangala,Atta,Staples,6,350,3,0
+2026-05-22,Koramangala,Atta,Staples,7,350,3,0
+2026-05-23,Koramangala,Atta,Staples,8,350,3,0
+2026-05-24,Koramangala,Atta,Staples,6,350,3,0
+2026-05-25,Koramangala,Atta,Staples,8,350,3,0
+2026-05-26,Koramangala,Atta,Staples,5,350,3,0
+2026-05-27,Koramangala,Atta,Staples,11,350,3,0
+2026-05-28,Koramangala,Atta,Staples,11,350,3,0
+2026-05-29,Koramangala,Atta,Staples,7,350,3,0
+2026-05-30,Koramangala,Atta,Staples,12,350,3,0
+2026-05-31,Koramangala,Atta,Staples,8,350,3,0
+2026-06-01,Koramangala,Atta,Staples,10,350,3,0
+2026-06-02,Koramangala,Atta,Staples,11,350,3,0
+2026-06-03,Koramangala,Atta,Staples,9,350,3,0
+2026-06-04,Koramangala,Atta,Staples,12,350,3,0
+2026-06-05,Koramangala,Atta,Staples,3,350,3,0
+2026-06-06,Koramangala,Atta,Staples,10,350,3,0
+2026-06-07,Koramangala,Atta,Staples,9,350,3,0
+2026-06-08,Koramangala,Atta,Staples,9,350,3,0
+2026-06-09,Koramangala,Atta,Staples,7,350,3,0
+2026-06-10,Koramangala,Atta,Staples,9,350,3,0
+2026-06-11,Koramangala,Atta,Staples,8,350,3,0
+2026-06-12,Koramangala,Atta,Staples,6,350,3,0
+2026-06-13,Koramangala,Atta,Staples,7,350,3,0
+2026-06-14,Koramangala,Atta,Staples,12,350,3,0
+2026-06-15,Koramangala,Atta,Staples,6,350,3,0
+2026-06-16,Koramangala,Atta,Staples,8,350,3,0
+2026-06-17,Koramangala,Atta,Staples,8,350,3,0
+2026-06-18,Koramangala,Atta,Staples,6,350,3,0
+2026-06-19,Koramangala,Atta,Staples,4,350,3,0
+2026-06-20,Koramangala,Atta,Staples,10,350,3,0
+2026-06-21,Koramangala,Atta,Staples,12,350,3,0
+2026-06-22,Koramangala,Atta,Staples,2,350,3,0
+2026-06-23,Koramangala,Atta,Staples,5,350,3,0
+2026-06-24,Koramangala,Atta,Staples,12,350,3,0
+2026-06-25,Koramangala,Atta,Staples,8,350,3,0
+2026-06-26,Koramangala,Atta,Staples,8,350,3,0
+2026-06-27,Koramangala,Atta,Staples,12,350,3,0
+2026-06-28,Koramangala,Atta,Staples,13,350,3,0
+2026-06-29,Koramangala,Atta,Staples,8,350,3,0
+2026-04-01,Indiranagar,Milk,Dairy,47,60,1,0
+2026-04-02,Indiranagar,Milk,Dairy,32,60,1,0
+2026-04-03,Indiranagar,Milk,Dairy,39,60,1,0
+2026-04-04,Indiranagar,Milk,Dairy,39,60,1,0
+2026-04-05,Indiranagar,Milk,Dairy,58,60,1,0
+2026-04-06,Indiranagar,Milk,Dairy,44,60,1,0
+2026-04-07,Indiranagar,Milk,Dairy,44,60,1,0
+2026-04-08,Indiranagar,Milk,Dairy,45,60,1,0
+2026-04-09,Indiranagar,Milk,Dairy,21,60,1,0
+2026-04-10,Indiranagar,Milk,Dairy,37,60,1,1
+2026-04-11,Indiranagar,Milk,Dairy,42,60,1,0
+2026-04-12,Indiranagar,Milk,Dairy,48,60,1,0
+2026-04-13,Indiranagar,Milk,Dairy,44,60,1,0
+2026-04-14,Indiranagar,Milk,Dairy,54,60,1,0
+2026-04-15,Indiranagar,Milk,Dairy,37,60,1,0
+2026-04-16,Indiranagar,Milk,Dairy,32,60,1,0
+2026-04-17,Indiranagar,Milk,Dairy,34,60,1,0
+2026-04-18,Indiranagar,Milk,Dairy,50,60,1,1
+2026-04-19,Indiranagar,Milk,Dairy,49,60,1,0
+2026-04-20,Indiranagar,Milk,Dairy,41,60,1,0
+2026-04-21,Indiranagar,Milk,Dairy,46,60,1,0
+2026-04-22,Indiranagar,Milk,Dairy,23,60,1,0
+2026-04-23,Indiranagar,Milk,Dairy,23,60,1,0
+2026-04-24,Indiranagar,Milk,Dairy,32,60,1,0
+2026-04-25,Indiranagar,Milk,Dairy,45,60,1,1
+2026-04-26,Indiranagar,Milk,Dairy,66,60,1,0
+2026-04-27,Indiranagar,Milk,Dairy,36,60,1,0
+2026-04-28,Indiranagar,Milk,Dairy,48,60,1,0
+2026-04-29,Indiranagar,Milk,Dairy,28,60,1,0
+2026-04-30,Indiranagar,Milk,Dairy,25,60,1,0
+2026-05-01,Indiranagar,Milk,Dairy,65,60,1,0
+2026-05-02,Indiranagar,Milk,Dairy,61,60,1,0
+2026-05-03,Indiranagar,Milk,Dairy,40,60,1,0
+2026-05-04,Indiranagar,Milk,Dairy,37,60,1,0
+2026-05-05,Indiranagar,Milk,Dairy,59,60,1,1
+2026-05-06,Indiranagar,Milk,Dairy,43,60,1,1
+2026-05-07,Indiranagar,Milk,Dairy,34,60,1,0
+2026-05-08,Indiranagar,Milk,Dairy,48,60,1,0
+2026-05-09,Indiranagar,Milk,Dairy,56,60,1,0
+2026-05-10,Indiranagar,Milk,Dairy,31,60,1,0
+2026-05-11,Indiranagar,Milk,Dairy,62,60,1,0
+2026-05-12,Indiranagar,Milk,Dairy,50,60,1,0
+2026-05-13,Indiranagar,Milk,Dairy,38,60,1,0
+2026-05-14,Indiranagar,Milk,Dairy,34,60,1,1
+2026-05-15,Indiranagar,Milk,Dairy,31,60,1,0
+2026-05-16,Indiranagar,Milk,Dairy,32,60,1,0
+2026-05-17,Indiranagar,Milk,Dairy,52,60,1,0
+2026-05-18,Indiranagar,Milk,Dairy,32,60,1,0
+2026-05-19,Indiranagar,Milk,Dairy,27,60,1,0
+2026-05-20,Indiranagar,Milk,Dairy,31,60,1,0
+2026-05-21,Indiranagar,Milk,Dairy,61,60,1,0
+2026-05-22,Indiranagar,Milk,Dairy,32,60,1,0
+2026-05-23,Indiranagar,Milk,Dairy,62,60,1,0
+2026-05-24,Indiranagar,Milk,Dairy,66,60,1,0
+2026-05-25,Indiranagar,Milk,Dairy,40,60,1,0
+2026-05-26,Indiranagar,Milk,Dairy,47,60,1,0
+2026-05-27,Indiranagar,Milk,Dairy,29,60,1,0
+2026-05-28,Indiranagar,Milk,Dairy,36,60,1,0
+2026-05-29,Indiranagar,Milk,Dairy,41,60,1,1
+2026-05-30,Indiranagar,Milk,Dairy,42,60,1,1
+2026-05-31,Indiranagar,Milk,Dairy,42,60,1,0
+2026-06-01,Indiranagar,Milk,Dairy,59,60,1,0
+2026-06-02,Indiranagar,Milk,Dairy,51,60,1,0
+2026-06-03,Indiranagar,Milk,Dairy,39,60,1,0
+2026-06-04,Indiranagar,Milk,Dairy,29,60,1,0
+2026-06-05,Indiranagar,Milk,Dairy,40,60,1,1
+2026-06-06,Indiranagar,Milk,Dairy,41,60,1,0
+2026-06-07,Indiranagar,Milk,Dairy,49,60,1,0
+2026-06-08,Indiranagar,Milk,Dairy,39,60,1,0
+2026-06-09,Indiranagar,Milk,Dairy,41,60,1,0
+2026-06-10,Indiranagar,Milk,Dairy,33,60,1,0
+2026-06-11,Indiranagar,Milk,Dairy,47,60,1,0
+2026-06-12,Indiranagar,Milk,Dairy,52,60,1,0
+2026-06-13,Indiranagar,Milk,Dairy,48,60,1,0
+2026-06-14,Indiranagar,Milk,Dairy,53,60,1,1
+2026-06-15,Indiranagar,Milk,Dairy,34,60,1,1
+2026-06-16,Indiranagar,Milk,Dairy,41,60,1,0
+2026-06-17,Indiranagar,Milk,Dairy,53,60,1,0
+2026-06-18,Indiranagar,Milk,Dairy,34,60,1,0
+2026-06-19,Indiranagar,Milk,Dairy,32,60,1,0
+2026-06-20,Indiranagar,Milk,Dairy,49,60,1,0
+2026-06-21,Indiranagar,Milk,Dairy,48,60,1,1
+2026-06-22,Indiranagar,Milk,Dairy,41,60,1,0
+2026-06-23,Indiranagar,Milk,Dairy,40,60,1,0
+2026-06-24,Indiranagar,Milk,Dairy,3,60,1,0
+2026-06-25,Indiranagar,Milk,Dairy,21,60,1,0
+2026-06-26,Indiranagar,Milk,Dairy,51,60,1,0
+2026-06-27,Indiranagar,Milk,Dairy,48,60,1,1
+2026-06-28,Indiranagar,Milk,Dairy,50,60,1,0
+2026-06-29,Indiranagar,Milk,Dairy,34,60,1,1
+2026-04-01,Indiranagar,Curd,Dairy,32,45,1,0
+2026-04-02,Indiranagar,Curd,Dairy,30,45,1,0
+2026-04-03,Indiranagar,Curd,Dairy,25,45,1,1
+2026-04-04,Indiranagar,Curd,Dairy,35,45,1,0
+2026-04-05,Indiranagar,Curd,Dairy,33,45,1,0
+2026-04-06,Indiranagar,Curd,Dairy,20,45,1,0
+2026-04-07,Indiranagar,Curd,Dairy,23,45,1,0
+2026-04-08,Indiranagar,Curd,Dairy,34,45,1,0
+2026-04-09,Indiranagar,Curd,Dairy,28,45,1,0
+2026-04-10,Indiranagar,Curd,Dairy,39,45,1,0
+2026-04-11,Indiranagar,Curd,Dairy,35,45,1,0
+2026-04-12,Indiranagar,Curd,Dairy,23,45,1,0
+2026-04-13,Indiranagar,Curd,Dairy,27,45,1,1
+2026-04-14,Indiranagar,Curd,Dairy,23,45,1,0
+2026-04-15,Indiranagar,Curd,Dairy,15,45,1,0
+2026-04-16,Indiranagar,Curd,Dairy,15,45,1,0
+2026-04-17,Indiranagar,Curd,Dairy,32,45,1,0
+2026-04-18,Indiranagar,Curd,Dairy,37,45,1,0
+2026-04-19,Indiranagar,Curd,Dairy,27,45,1,0
+2026-04-20,Indiranagar,Curd,Dairy,22,45,1,0
+2026-04-21,Indiranagar,Curd,Dairy,23,45,1,0
+2026-04-22,Indiranagar,Curd,Dairy,28,45,1,0
+2026-04-23,Indiranagar,Curd,Dairy,26,45,1,0
+2026-04-24,Indiranagar,Curd,Dairy,34,45,1,0
+2026-04-25,Indiranagar,Curd,Dairy,29,45,1,0
+2026-04-26,Indiranagar,Curd,Dairy,42,45,1,0
+2026-04-27,Indiranagar,Curd,Dairy,29,45,1,0
+2026-04-28,Indiranagar,Curd,Dairy,26,45,1,0
+2026-04-29,Indiranagar,Curd,Dairy,25,45,1,0
+2026-04-30,Indiranagar,Curd,Dairy,28,45,1,0
+2026-05-01,Indiranagar,Curd,Dairy,30,45,1,0
+2026-05-02,Indiranagar,Curd,Dairy,30,45,1,1
+2026-05-03,Indiranagar,Curd,Dairy,29,45,1,0
+2026-05-04,Indiranagar,Curd,Dairy,23,45,1,0
+2026-05-05,Indiranagar,Curd,Dairy,22,45,1,0
+2026-05-06,Indiranagar,Curd,Dairy,30,45,1,0
+2026-05-07,Indiranagar,Curd,Dairy,29,45,1,0
+2026-05-08,Indiranagar,Curd,Dairy,14,45,1,0
+2026-05-09,Indiranagar,Curd,Dairy,29,45,1,0
+2026-05-10,Indiranagar,Curd,Dairy,25,45,1,0
+2026-05-11,Indiranagar,Curd,Dairy,23,45,1,0
+2026-05-12,Indiranagar,Curd,Dairy,22,45,1,0
+2026-05-13,Indiranagar,Curd,Dairy,20,45,1,0
+2026-05-14,Indiranagar,Curd,Dairy,28,45,1,0
+2026-05-15,Indiranagar,Curd,Dairy,22,45,1,0
+2026-05-16,Indiranagar,Curd,Dairy,33,45,1,0
+2026-05-17,Indiranagar,Curd,Dairy,30,45,1,0
+2026-05-18,Indiranagar,Curd,Dairy,28,45,1,1
+2026-05-19,Indiranagar,Curd,Dairy,28,45,1,0
+2026-05-20,Indiranagar,Curd,Dairy,23,45,1,1
+2026-05-21,Indiranagar,Curd,Dairy,27,45,1,0
+2026-05-22,Indiranagar,Curd,Dairy,25,45,1,0
+2026-05-23,Indiranagar,Curd,Dairy,41,45,1,0
+2026-05-24,Indiranagar,Curd,Dairy,27,45,1,0
+2026-05-25,Indiranagar,Curd,Dairy,26,45,1,1
+2026-05-26,Indiranagar,Curd,Dairy,24,45,1,0
+2026-05-27,Indiranagar,Curd,Dairy,23,45,1,0
+2026-05-28,Indiranagar,Curd,Dairy,37,45,1,0
+2026-05-29,Indiranagar,Curd,Dairy,26,45,1,0
+2026-05-30,Indiranagar,Curd,Dairy,38,45,1,0
+2026-05-31,Indiranagar,Curd,Dairy,39,45,1,0
+2026-06-01,Indiranagar,Curd,Dairy,26,45,1,0
+2026-06-02,Indiranagar,Curd,Dairy,26,45,1,0
+2026-06-03,Indiranagar,Curd,Dairy,20,45,1,0
+2026-06-04,Indiranagar,Curd,Dairy,20,45,1,0
+2026-06-05,Indiranagar,Curd,Dairy,25,45,1,0
+2026-06-06,Indiranagar,Curd,Dairy,22,45,1,0
+2026-06-07,Indiranagar,Curd,Dairy,37,45,1,1
+2026-06-08,Indiranagar,Curd,Dairy,35,45,1,0
+2026-06-09,Indiranagar,Curd,Dairy,17,45,1,0
+2026-06-10,Indiranagar,Curd,Dairy,27,45,1,0
+2026-06-11,Indiranagar,Curd,Dairy,30,45,1,0
+2026-06-12,Indiranagar,Curd,Dairy,21,45,1,0
+2026-06-13,Indiranagar,Curd,Dairy,27,45,1,0
+2026-06-14,Indiranagar,Curd,Dairy,23,45,1,0
+2026-06-15,Indiranagar,Curd,Dairy,28,45,1,0
+2026-06-16,Indiranagar,Curd,Dairy,24,45,1,0
+2026-06-17,Indiranagar,Curd,Dairy,27,45,1,1
+2026-06-18,Indiranagar,Curd,Dairy,20,45,1,0
+2026-06-19,Indiranagar,Curd,Dairy,25,45,1,0
+2026-06-20,Indiranagar,Curd,Dairy,38,45,1,0
+2026-06-21,Indiranagar,Curd,Dairy,32,45,1,0
+2026-06-22,Indiranagar,Curd,Dairy,29,45,1,0
+2026-06-23,Indiranagar,Curd,Dairy,32,45,1,0
+2026-06-24,Indiranagar,Curd,Dairy,25,45,1,1
+2026-06-25,Indiranagar,Curd,Dairy,28,45,1,0
+2026-06-26,Indiranagar,Curd,Dairy,30,45,1,1
+2026-06-27,Indiranagar,Curd,Dairy,37,45,1,0
+2026-06-28,Indiranagar,Curd,Dairy,40,45,1,0
+2026-06-29,Indiranagar,Curd,Dairy,12,45,1,0
+2026-04-01,Indiranagar,Eggs,Dairy,20,80,1,0
+2026-04-02,Indiranagar,Eggs,Dairy,19,80,1,0
+2026-04-03,Indiranagar,Eggs,Dairy,30,80,1,0
+2026-04-04,Indiranagar,Eggs,Dairy,26,80,1,0
+2026-04-05,Indiranagar,Eggs,Dairy,28,80,1,0
+2026-04-06,Indiranagar,Eggs,Dairy,29,80,1,0
+2026-04-07,Indiranagar,Eggs,Dairy,8,80,1,0
+2026-04-08,Indiranagar,Eggs,Dairy,18,80,1,0
+2026-04-09,Indiranagar,Eggs,Dairy,9,80,1,0
+2026-04-10,Indiranagar,Eggs,Dairy,28,80,1,0
+2026-04-11,Indiranagar,Eggs,Dairy,31,80,1,0
+2026-04-12,Indiranagar,Eggs,Dairy,37,80,1,0
+2026-04-13,Indiranagar,Eggs,Dairy,19,80,1,0
+2026-04-14,Indiranagar,Eggs,Dairy,22,80,1,0
+2026-04-15,Indiranagar,Eggs,Dairy,23,80,1,0
+2026-04-16,Indiranagar,Eggs,Dairy,11,80,1,0
+2026-04-17,Indiranagar,Eggs,Dairy,18,80,1,0
+2026-04-18,Indiranagar,Eggs,Dairy,27,80,1,0
+2026-04-19,Indiranagar,Eggs,Dairy,19,80,1,0
+2026-04-20,Indiranagar,Eggs,Dairy,17,80,1,0
+2026-04-21,Indiranagar,Eggs,Dairy,25,80,1,0
+2026-04-22,Indiranagar,Eggs,Dairy,22,80,1,1
+2026-04-23,Indiranagar,Eggs,Dairy,14,80,1,0
+2026-04-24,Indiranagar,Eggs,Dairy,15,80,1,0
+2026-04-25,Indiranagar,Eggs,Dairy,28,80,1,0
+2026-04-26,Indiranagar,Eggs,Dairy,19,80,1,0
+2026-04-27,Indiranagar,Eggs,Dairy,16,80,1,1
+2026-04-28,Indiranagar,Eggs,Dairy,19,80,1,0
+2026-04-29,Indiranagar,Eggs,Dairy,24,80,1,0
+2026-04-30,Indiranagar,Eggs,Dairy,17,80,1,1
+2026-05-01,Indiranagar,Eggs,Dairy,18,80,1,0
+2026-05-02,Indiranagar,Eggs,Dairy,26,80,1,0
+2026-05-03,Indiranagar,Eggs,Dairy,23,80,1,0
+2026-05-04,Indiranagar,Eggs,Dairy,18,80,1,0
+2026-05-05,Indiranagar,Eggs,Dairy,27,80,1,0
+2026-05-06,Indiranagar,Eggs,Dairy,28,80,1,0
+2026-05-07,Indiranagar,Eggs,Dairy,21,80,1,1
+2026-05-08,Indiranagar,Eggs,Dairy,21,80,1,0
+2026-05-09,Indiranagar,Eggs,Dairy,27,80,1,0
+2026-05-10,Indiranagar,Eggs,Dairy,32,80,1,0
+2026-05-11,Indiranagar,Eggs,Dairy,18,80,1,0
+2026-05-12,Indiranagar,Eggs,Dairy,25,80,1,0
+2026-05-13,Indiranagar,Eggs,Dairy,23,80,1,0
+2026-05-14,Indiranagar,Eggs,Dairy,28,80,1,1
+2026-05-15,Indiranagar,Eggs,Dairy,24,80,1,0
+2026-05-16,Indiranagar,Eggs,Dairy,24,80,1,0
+2026-05-17,Indiranagar,Eggs,Dairy,27,80,1,0
+2026-05-18,Indiranagar,Eggs,Dairy,21,80,1,0
+2026-05-19,Indiranagar,Eggs,Dairy,15,80,1,1
+2026-05-20,Indiranagar,Eggs,Dairy,17,80,1,0
+2026-05-21,Indiranagar,Eggs,Dairy,14,80,1,0
+2026-05-22,Indiranagar,Eggs,Dairy,12,80,1,0
+2026-05-23,Indiranagar,Eggs,Dairy,29,80,1,0
+2026-05-24,Indiranagar,Eggs,Dairy,19,80,1,1
+2026-05-25,Indiranagar,Eggs,Dairy,20,80,1,0
+2026-05-26,Indiranagar,Eggs,Dairy,16,80,1,0
+2026-05-27,Indiranagar,Eggs,Dairy,25,80,1,0
+2026-05-28,Indiranagar,Eggs,Dairy,21,80,1,0
+2026-05-29,Indiranagar,Eggs,Dairy,22,80,1,1
+2026-05-30,Indiranagar,Eggs,Dairy,30,80,1,0
+2026-05-31,Indiranagar,Eggs,Dairy,26,80,1,0
+2026-06-01,Indiranagar,Eggs,Dairy,14,80,1,0
+2026-06-02,Indiranagar,Eggs,Dairy,20,80,1,0
+2026-06-03,Indiranagar,Eggs,Dairy,21,80,1,0
+2026-06-04,Indiranagar,Eggs,Dairy,19,80,1,0
+2026-06-05,Indiranagar,Eggs,Dairy,21,80,1,0
+2026-06-06,Indiranagar,Eggs,Dairy,19,80,1,1
+2026-06-07,Indiranagar,Eggs,Dairy,27,80,1,1
+2026-06-08,Indiranagar,Eggs,Dairy,30,80,1,0
+2026-06-09,Indiranagar,Eggs,Dairy,15,80,1,0
+2026-06-10,Indiranagar,Eggs,Dairy,15,80,1,1
+2026-06-11,Indiranagar,Eggs,Dairy,33,80,1,0
+2026-06-12,Indiranagar,Eggs,Dairy,23,80,1,0
+2026-06-13,Indiranagar,Eggs,Dairy,35,80,1,0
+2026-06-14,Indiranagar,Eggs,Dairy,32,80,1,0
+2026-06-15,Indiranagar,Eggs,Dairy,13,80,1,0
+2026-06-16,Indiranagar,Eggs,Dairy,27,80,1,0
+2026-06-17,Indiranagar,Eggs,Dairy,21,80,1,0
+2026-06-18,Indiranagar,Eggs,Dairy,16,80,1,0
+2026-06-19,Indiranagar,Eggs,Dairy,23,80,1,0
+2026-06-20,Indiranagar,Eggs,Dairy,27,80,1,0
+2026-06-21,Indiranagar,Eggs,Dairy,28,80,1,0
+2026-06-22,Indiranagar,Eggs,Dairy,14,80,1,0
+2026-06-23,Indiranagar,Eggs,Dairy,30,80,1,0
+2026-06-24,Indiranagar,Eggs,Dairy,19,80,1,0
+2026-06-25,Indiranagar,Eggs,Dairy,24,80,1,0
+2026-06-26,Indiranagar,Eggs,Dairy,11,80,1,0
+2026-06-27,Indiranagar,Eggs,Dairy,20,80,1,1
+2026-06-28,Indiranagar,Eggs,Dairy,28,80,1,0
+2026-06-29,Indiranagar,Eggs,Dairy,24,80,1,0
+2026-04-01,Indiranagar,Banana,Fruits & Veg,25,50,1,0
+2026-04-02,Indiranagar,Banana,Fruits & Veg,35,50,1,0
+2026-04-03,Indiranagar,Banana,Fruits & Veg,25,50,1,0
+2026-04-04,Indiranagar,Banana,Fruits & Veg,35,50,1,0
+2026-04-05,Indiranagar,Banana,Fruits & Veg,34,50,1,0
+2026-04-06,Indiranagar,Banana,Fruits & Veg,22,50,1,0
+2026-04-07,Indiranagar,Banana,Fruits & Veg,19,50,1,1
+2026-04-08,Indiranagar,Banana,Fruits & Veg,30,50,1,0
+2026-04-09,Indiranagar,Banana,Fruits & Veg,37,50,1,0
+2026-04-10,Indiranagar,Banana,Fruits & Veg,35,50,1,0
+2026-04-11,Indiranagar,Banana,Fruits & Veg,56,50,1,0
+2026-04-12,Indiranagar,Banana,Fruits & Veg,37,50,1,0
+2026-04-13,Indiranagar,Banana,Fruits & Veg,32,50,1,0
+2026-04-14,Indiranagar,Banana,Fruits & Veg,24,50,1,0
+2026-04-15,Indiranagar,Banana,Fruits & Veg,30,50,1,0
+2026-04-16,Indiranagar,Banana,Fruits & Veg,37,50,1,0
+2026-04-17,Indiranagar,Banana,Fruits & Veg,32,50,1,0
+2026-04-18,Indiranagar,Banana,Fruits & Veg,32,50,1,0
+2026-04-19,Indiranagar,Banana,Fruits & Veg,31,50,1,0
+2026-04-20,Indiranagar,Banana,Fruits & Veg,25,50,1,0
+2026-04-21,Indiranagar,Banana,Fruits & Veg,21,50,1,0
+2026-04-22,Indiranagar,Banana,Fruits & Veg,21,50,1,0
+2026-04-23,Indiranagar,Banana,Fruits & Veg,31,50,1,0
+2026-04-24,Indiranagar,Banana,Fruits & Veg,20,50,1,0
+2026-04-25,Indiranagar,Banana,Fruits & Veg,33,50,1,0
+2026-04-26,Indiranagar,Banana,Fruits & Veg,41,50,1,0
+2026-04-27,Indiranagar,Banana,Fruits & Veg,16,50,1,0
+2026-04-28,Indiranagar,Banana,Fruits & Veg,34,50,1,1
+2026-04-29,Indiranagar,Banana,Fruits & Veg,22,50,1,0
+2026-04-30,Indiranagar,Banana,Fruits & Veg,19,50,1,1
+2026-05-01,Indiranagar,Banana,Fruits & Veg,27,50,1,0
+2026-05-02,Indiranagar,Banana,Fruits & Veg,35,50,1,0
+2026-05-03,Indiranagar,Banana,Fruits & Veg,36,50,1,0
+2026-05-04,Indiranagar,Banana,Fruits & Veg,40,50,1,0
+2026-05-05,Indiranagar,Banana,Fruits & Veg,30,50,1,0
+2026-05-06,Indiranagar,Banana,Fruits & Veg,18,50,1,0
+2026-05-07,Indiranagar,Banana,Fruits & Veg,26,50,1,0
+2026-05-08,Indiranagar,Banana,Fruits & Veg,32,50,1,0
+2026-05-09,Indiranagar,Banana,Fruits & Veg,40,50,1,0
+2026-05-10,Indiranagar,Banana,Fruits & Veg,31,50,1,1
+2026-05-11,Indiranagar,Banana,Fruits & Veg,26,50,1,0
+2026-05-12,Indiranagar,Banana,Fruits & Veg,25,50,1,0
+2026-05-13,Indiranagar,Banana,Fruits & Veg,20,50,1,0
+2026-05-14,Indiranagar,Banana,Fruits & Veg,29,50,1,0
+2026-05-15,Indiranagar,Banana,Fruits & Veg,25,50,1,0
+2026-05-16,Indiranagar,Banana,Fruits & Veg,37,50,1,0
+2026-05-17,Indiranagar,Banana,Fruits & Veg,39,50,1,1
+2026-05-18,Indiranagar,Banana,Fruits & Veg,24,50,1,1
+2026-05-19,Indiranagar,Banana,Fruits & Veg,40,50,1,0
+2026-05-20,Indiranagar,Banana,Fruits & Veg,23,50,1,0
+2026-05-21,Indiranagar,Banana,Fruits & Veg,30,50,1,0
+2026-05-22,Indiranagar,Banana,Fruits & Veg,28,50,1,0
+2026-05-23,Indiranagar,Banana,Fruits & Veg,39,50,1,0
+2026-05-24,Indiranagar,Banana,Fruits & Veg,48,50,1,0
+2026-05-25,Indiranagar,Banana,Fruits & Veg,22,50,1,0
+2026-05-26,Indiranagar,Banana,Fruits & Veg,35,50,1,0
+2026-05-27,Indiranagar,Banana,Fruits & Veg,21,50,1,0
+2026-05-28,Indiranagar,Banana,Fruits & Veg,33,50,1,0
+2026-05-29,Indiranagar,Banana,Fruits & Veg,20,50,1,0
+2026-05-30,Indiranagar,Banana,Fruits & Veg,36,50,1,0
+2026-05-31,Indiranagar,Banana,Fruits & Veg,33,50,1,0
+2026-06-01,Indiranagar,Banana,Fruits & Veg,26,50,1,1
+2026-06-02,Indiranagar,Banana,Fruits & Veg,36,50,1,0
+2026-06-03,Indiranagar,Banana,Fruits & Veg,37,50,1,0
+2026-06-04,Indiranagar,Banana,Fruits & Veg,29,50,1,0
+2026-06-05,Indiranagar,Banana,Fruits & Veg,25,50,1,1
+2026-06-06,Indiranagar,Banana,Fruits & Veg,45,50,1,0
+2026-06-07,Indiranagar,Banana,Fruits & Veg,30,50,1,0
+2026-06-08,Indiranagar,Banana,Fruits & Veg,19,50,1,0
+2026-06-09,Indiranagar,Banana,Fruits & Veg,28,50,1,0
+2026-06-10,Indiranagar,Banana,Fruits & Veg,28,50,1,1
+2026-06-11,Indiranagar,Banana,Fruits & Veg,31,50,1,0
+2026-06-12,Indiranagar,Banana,Fruits & Veg,29,50,1,1
+2026-06-13,Indiranagar,Banana,Fruits & Veg,59,50,1,0
+2026-06-14,Indiranagar,Banana,Fruits & Veg,32,50,1,0
+2026-06-15,Indiranagar,Banana,Fruits & Veg,26,50,1,0
+2026-06-16,Indiranagar,Banana,Fruits & Veg,24,50,1,0
+2026-06-17,Indiranagar,Banana,Fruits & Veg,36,50,1,0
+2026-06-18,Indiranagar,Banana,Fruits & Veg,24,50,1,1
+2026-06-19,Indiranagar,Banana,Fruits & Veg,21,50,1,0
+2026-06-20,Indiranagar,Banana,Fruits & Veg,37,50,1,0
+2026-06-21,Indiranagar,Banana,Fruits & Veg,34,50,1,1
+2026-06-22,Indiranagar,Banana,Fruits & Veg,31,50,1,0
+2026-06-23,Indiranagar,Banana,Fruits & Veg,14,50,1,0
+2026-06-24,Indiranagar,Banana,Fruits & Veg,35,50,1,0
+2026-06-25,Indiranagar,Banana,Fruits & Veg,31,50,1,1
+2026-06-26,Indiranagar,Banana,Fruits & Veg,26,50,1,0
+2026-06-27,Indiranagar,Banana,Fruits & Veg,34,50,1,0
+2026-06-28,Indiranagar,Banana,Fruits & Veg,41,50,1,0
+2026-06-29,Indiranagar,Banana,Fruits & Veg,27,50,1,1
+2026-04-01,Indiranagar,Tomato,Fruits & Veg,37,40,1,0
+2026-04-02,Indiranagar,Tomato,Fruits & Veg,50,40,1,0
+2026-04-03,Indiranagar,Tomato,Fruits & Veg,35,40,1,0
+2026-04-04,Indiranagar,Tomato,Fruits & Veg,54,40,1,0
+2026-04-05,Indiranagar,Tomato,Fruits & Veg,50,40,1,0
+2026-04-06,Indiranagar,Tomato,Fruits & Veg,29,40,1,0
+2026-04-07,Indiranagar,Tomato,Fruits & Veg,45,40,1,0
+2026-04-08,Indiranagar,Tomato,Fruits & Veg,40,40,1,1
+2026-04-09,Indiranagar,Tomato,Fruits & Veg,26,40,1,0
+2026-04-10,Indiranagar,Tomato,Fruits & Veg,37,40,1,0
+2026-04-11,Indiranagar,Tomato,Fruits & Veg,61,40,1,1
+2026-04-12,Indiranagar,Tomato,Fruits & Veg,53,40,1,0
+2026-04-13,Indiranagar,Tomato,Fruits & Veg,41,40,1,0
+2026-04-14,Indiranagar,Tomato,Fruits & Veg,30,40,1,1
+2026-04-15,Indiranagar,Tomato,Fruits & Veg,34,40,1,0
+2026-04-16,Indiranagar,Tomato,Fruits & Veg,38,40,1,0
+2026-04-17,Indiranagar,Tomato,Fruits & Veg,28,40,1,1
+2026-04-18,Indiranagar,Tomato,Fruits & Veg,30,40,1,0
+2026-04-19,Indiranagar,Tomato,Fruits & Veg,59,40,1,0
+2026-04-20,Indiranagar,Tomato,Fruits & Veg,28,40,1,0
+2026-04-21,Indiranagar,Tomato,Fruits & Veg,20,40,1,0
+2026-04-22,Indiranagar,Tomato,Fruits & Veg,12,40,1,0
+2026-04-23,Indiranagar,Tomato,Fruits & Veg,48,40,1,0
+2026-04-24,Indiranagar,Tomato,Fruits & Veg,33,40,1,0
+2026-04-25,Indiranagar,Tomato,Fruits & Veg,37,40,1,0
+2026-04-26,Indiranagar,Tomato,Fruits & Veg,35,40,1,0
+2026-04-27,Indiranagar,Tomato,Fruits & Veg,43,40,1,0
+2026-04-28,Indiranagar,Tomato,Fruits & Veg,31,40,1,1
+2026-04-29,Indiranagar,Tomato,Fruits & Veg,23,40,1,0
+2026-04-30,Indiranagar,Tomato,Fruits & Veg,37,40,1,1
+2026-05-01,Indiranagar,Tomato,Fruits & Veg,34,40,1,0
+2026-05-02,Indiranagar,Tomato,Fruits & Veg,39,40,1,0
+2026-05-03,Indiranagar,Tomato,Fruits & Veg,39,40,1,0
+2026-05-04,Indiranagar,Tomato,Fruits & Veg,28,40,1,1
+2026-05-05,Indiranagar,Tomato,Fruits & Veg,34,40,1,0
+2026-05-06,Indiranagar,Tomato,Fruits & Veg,30,40,1,0
+2026-05-07,Indiranagar,Tomato,Fruits & Veg,24,40,1,0
+2026-05-08,Indiranagar,Tomato,Fruits & Veg,43,40,1,0
+2026-05-09,Indiranagar,Tomato,Fruits & Veg,56,40,1,0
+2026-05-10,Indiranagar,Tomato,Fruits & Veg,43,40,1,0
+2026-05-11,Indiranagar,Tomato,Fruits & Veg,34,40,1,0
+2026-05-12,Indiranagar,Tomato,Fruits & Veg,43,40,1,0
+2026-05-13,Indiranagar,Tomato,Fruits & Veg,28,40,1,0
+2026-05-14,Indiranagar,Tomato,Fruits & Veg,37,40,1,0
+2026-05-15,Indiranagar,Tomato,Fruits & Veg,45,40,1,0
+2026-05-16,Indiranagar,Tomato,Fruits & Veg,43,40,1,0
+2026-05-17,Indiranagar,Tomato,Fruits & Veg,28,40,1,0
+2026-05-18,Indiranagar,Tomato,Fruits & Veg,24,40,1,1
+2026-05-19,Indiranagar,Tomato,Fruits & Veg,28,40,1,0
+2026-05-20,Indiranagar,Tomato,Fruits & Veg,34,40,1,0
+2026-05-21,Indiranagar,Tomato,Fruits & Veg,20,40,1,0
+2026-05-22,Indiranagar,Tomato,Fruits & Veg,22,40,1,0
+2026-05-23,Indiranagar,Tomato,Fruits & Veg,48,40,1,0
+2026-05-24,Indiranagar,Tomato,Fruits & Veg,63,40,1,0
+2026-05-25,Indiranagar,Tomato,Fruits & Veg,40,40,1,0
+2026-05-26,Indiranagar,Tomato,Fruits & Veg,33,40,1,0
+2026-05-27,Indiranagar,Tomato,Fruits & Veg,44,40,1,0
+2026-05-28,Indiranagar,Tomato,Fruits & Veg,44,40,1,0
+2026-05-29,Indiranagar,Tomato,Fruits & Veg,43,40,1,0
+2026-05-30,Indiranagar,Tomato,Fruits & Veg,34,40,1,0
+2026-05-31,Indiranagar,Tomato,Fruits & Veg,61,40,1,0
+2026-06-01,Indiranagar,Tomato,Fruits & Veg,22,40,1,0
+2026-06-02,Indiranagar,Tomato,Fruits & Veg,31,40,1,0
+2026-06-03,Indiranagar,Tomato,Fruits & Veg,14,40,1,0
+2026-06-04,Indiranagar,Tomato,Fruits & Veg,37,40,1,0
+2026-06-05,Indiranagar,Tomato,Fruits & Veg,32,40,1,0
+2026-06-06,Indiranagar,Tomato,Fruits & Veg,50,40,1,0
+2026-06-07,Indiranagar,Tomato,Fruits & Veg,42,40,1,0
+2026-06-08,Indiranagar,Tomato,Fruits & Veg,24,40,1,0
+2026-06-09,Indiranagar,Tomato,Fruits & Veg,33,40,1,0
+2026-06-10,Indiranagar,Tomato,Fruits & Veg,22,40,1,0
+2026-06-11,Indiranagar,Tomato,Fruits & Veg,52,40,1,0
+2026-06-12,Indiranagar,Tomato,Fruits & Veg,20,40,1,0
+2026-06-13,Indiranagar,Tomato,Fruits & Veg,50,40,1,0
+2026-06-14,Indiranagar,Tomato,Fruits & Veg,35,40,1,1
+2026-06-15,Indiranagar,Tomato,Fruits & Veg,28,40,1,0
+2026-06-16,Indiranagar,Tomato,Fruits & Veg,29,40,1,0
+2026-06-17,Indiranagar,Tomato,Fruits & Veg,41,40,1,0
+2026-06-18,Indiranagar,Tomato,Fruits & Veg,34,40,1,0
+2026-06-19,Indiranagar,Tomato,Fruits & Veg,35,40,1,0
+2026-06-20,Indiranagar,Tomato,Fruits & Veg,33,40,1,0
+2026-06-21,Indiranagar,Tomato,Fruits & Veg,52,40,1,0
+2026-06-22,Indiranagar,Tomato,Fruits & Veg,32,40,1,0
+2026-06-23,Indiranagar,Tomato,Fruits & Veg,30,40,1,0
+2026-06-24,Indiranagar,Tomato,Fruits & Veg,47,40,1,0
+2026-06-25,Indiranagar,Tomato,Fruits & Veg,42,40,1,0
+2026-06-26,Indiranagar,Tomato,Fruits & Veg,35,40,1,0
+2026-06-27,Indiranagar,Tomato,Fruits & Veg,51,40,1,0
+2026-06-28,Indiranagar,Tomato,Fruits & Veg,35,40,1,0
+2026-06-29,Indiranagar,Tomato,Fruits & Veg,33,40,1,0
+2026-04-01,Indiranagar,Onion,Fruits & Veg,31,35,1,0
+2026-04-02,Indiranagar,Onion,Fruits & Veg,26,35,1,1
+2026-04-03,Indiranagar,Onion,Fruits & Veg,24,35,1,1
+2026-04-04,Indiranagar,Onion,Fruits & Veg,37,35,1,0
+2026-04-05,Indiranagar,Onion,Fruits & Veg,30,35,1,0
+2026-04-06,Indiranagar,Onion,Fruits & Veg,28,35,1,0
+2026-04-07,Indiranagar,Onion,Fruits & Veg,38,35,1,0
+2026-04-08,Indiranagar,Onion,Fruits & Veg,33,35,1,1
+2026-04-09,Indiranagar,Onion,Fruits & Veg,31,35,1,0
+2026-04-10,Indiranagar,Onion,Fruits & Veg,25,35,1,0
+2026-04-11,Indiranagar,Onion,Fruits & Veg,54,35,1,1
+2026-04-12,Indiranagar,Onion,Fruits & Veg,39,35,1,0
+2026-04-13,Indiranagar,Onion,Fruits & Veg,22,35,1,0
+2026-04-14,Indiranagar,Onion,Fruits & Veg,46,35,1,0
+2026-04-15,Indiranagar,Onion,Fruits & Veg,45,35,1,0
+2026-04-16,Indiranagar,Onion,Fruits & Veg,30,35,1,0
+2026-04-17,Indiranagar,Onion,Fruits & Veg,34,35,1,0
+2026-04-18,Indiranagar,Onion,Fruits & Veg,42,35,1,0
+2026-04-19,Indiranagar,Onion,Fruits & Veg,40,35,1,0
+2026-04-20,Indiranagar,Onion,Fruits & Veg,36,35,1,0
+2026-04-21,Indiranagar,Onion,Fruits & Veg,25,35,1,1
+2026-04-22,Indiranagar,Onion,Fruits & Veg,25,35,1,1
+2026-04-23,Indiranagar,Onion,Fruits & Veg,22,35,1,0
+2026-04-24,Indiranagar,Onion,Fruits & Veg,33,35,1,1
+2026-04-25,Indiranagar,Onion,Fruits & Veg,39,35,1,0
+2026-04-26,Indiranagar,Onion,Fruits & Veg,38,35,1,0
+2026-04-27,Indiranagar,Onion,Fruits & Veg,37,35,1,0
+2026-04-28,Indiranagar,Onion,Fruits & Veg,26,35,1,0
+2026-04-29,Indiranagar,Onion,Fruits & Veg,28,35,1,0
+2026-04-30,Indiranagar,Onion,Fruits & Veg,33,35,1,0
+2026-05-01,Indiranagar,Onion,Fruits & Veg,44,35,1,0
+2026-05-02,Indiranagar,Onion,Fruits & Veg,53,35,1,0
+2026-05-03,Indiranagar,Onion,Fruits & Veg,44,35,1,0
+2026-05-04,Indiranagar,Onion,Fruits & Veg,31,35,1,0
+2026-05-05,Indiranagar,Onion,Fruits & Veg,35,35,1,0
+2026-05-06,Indiranagar,Onion,Fruits & Veg,21,35,1,0
+2026-05-07,Indiranagar,Onion,Fruits & Veg,35,35,1,0
+2026-05-08,Indiranagar,Onion,Fruits & Veg,37,35,1,0
+2026-05-09,Indiranagar,Onion,Fruits & Veg,38,35,1,0
+2026-05-10,Indiranagar,Onion,Fruits & Veg,28,35,1,0
+2026-05-11,Indiranagar,Onion,Fruits & Veg,35,35,1,0
+2026-05-12,Indiranagar,Onion,Fruits & Veg,26,35,1,0
+2026-05-13,Indiranagar,Onion,Fruits & Veg,30,35,1,1
+2026-05-14,Indiranagar,Onion,Fruits & Veg,24,35,1,0
+2026-05-15,Indiranagar,Onion,Fruits & Veg,31,35,1,0
+2026-05-16,Indiranagar,Onion,Fruits & Veg,29,35,1,0
+2026-05-17,Indiranagar,Onion,Fruits & Veg,36,35,1,0
+2026-05-18,Indiranagar,Onion,Fruits & Veg,35,35,1,0
+2026-05-19,Indiranagar,Onion,Fruits & Veg,28,35,1,0
+2026-05-20,Indiranagar,Onion,Fruits & Veg,27,35,1,0
+2026-05-21,Indiranagar,Onion,Fruits & Veg,39,35,1,0
+2026-05-22,Indiranagar,Onion,Fruits & Veg,48,35,1,0
+2026-05-23,Indiranagar,Onion,Fruits & Veg,37,35,1,0
+2026-05-24,Indiranagar,Onion,Fruits & Veg,37,35,1,0
+2026-05-25,Indiranagar,Onion,Fruits & Veg,22,35,1,0
+2026-05-26,Indiranagar,Onion,Fruits & Veg,32,35,1,0
+2026-05-27,Indiranagar,Onion,Fruits & Veg,37,35,1,0
+2026-05-28,Indiranagar,Onion,Fruits & Veg,32,35,1,0
+2026-05-29,Indiranagar,Onion,Fruits & Veg,26,35,1,0
+2026-05-30,Indiranagar,Onion,Fruits & Veg,43,35,1,0
+2026-05-31,Indiranagar,Onion,Fruits & Veg,39,35,1,0
+2026-06-01,Indiranagar,Onion,Fruits & Veg,27,35,1,0
+2026-06-02,Indiranagar,Onion,Fruits & Veg,22,35,1,0
+2026-06-03,Indiranagar,Onion,Fruits & Veg,33,35,1,0
+2026-06-04,Indiranagar,Onion,Fruits & Veg,30,35,1,0
+2026-06-05,Indiranagar,Onion,Fruits & Veg,39,35,1,0
+2026-06-06,Indiranagar,Onion,Fruits & Veg,34,35,1,1
+2026-06-07,Indiranagar,Onion,Fruits & Veg,39,35,1,0
+2026-06-08,Indiranagar,Onion,Fruits & Veg,33,35,1,0
+2026-06-09,Indiranagar,Onion,Fruits & Veg,26,35,1,0
+2026-06-10,Indiranagar,Onion,Fruits & Veg,27,35,1,0
+2026-06-11,Indiranagar,Onion,Fruits & Veg,28,35,1,0
+2026-06-12,Indiranagar,Onion,Fruits & Veg,33,35,1,1
+2026-06-13,Indiranagar,Onion,Fruits & Veg,51,35,1,0
+2026-06-14,Indiranagar,Onion,Fruits & Veg,43,35,1,0
+2026-06-15,Indiranagar,Onion,Fruits & Veg,19,35,1,0
+2026-06-16,Indiranagar,Onion,Fruits & Veg,23,35,1,0
+2026-06-17,Indiranagar,Onion,Fruits & Veg,29,35,1,0
+2026-06-18,Indiranagar,Onion,Fruits & Veg,35,35,1,1
+2026-06-19,Indiranagar,Onion,Fruits & Veg,31,35,1,0
+2026-06-20,Indiranagar,Onion,Fruits & Veg,43,35,1,0
+2026-06-21,Indiranagar,Onion,Fruits & Veg,33,35,1,0
+2026-06-22,Indiranagar,Onion,Fruits & Veg,49,35,1,0
+2026-06-23,Indiranagar,Onion,Fruits & Veg,28,35,1,0
+2026-06-24,Indiranagar,Onion,Fruits & Veg,19,35,1,0
+2026-06-25,Indiranagar,Onion,Fruits & Veg,30,35,1,0
+2026-06-26,Indiranagar,Onion,Fruits & Veg,43,35,1,0
+2026-06-27,Indiranagar,Onion,Fruits & Veg,32,35,1,0
+2026-06-28,Indiranagar,Onion,Fruits & Veg,43,35,1,0
+2026-06-29,Indiranagar,Onion,Fruits & Veg,33,35,1,1
+2026-04-01,Indiranagar,Chips,Snacks,39,20,2,0
+2026-04-02,Indiranagar,Chips,Snacks,30,20,2,0
+2026-04-03,Indiranagar,Chips,Snacks,34,20,2,0
+2026-04-04,Indiranagar,Chips,Snacks,38,20,2,0
+2026-04-05,Indiranagar,Chips,Snacks,39,20,2,0
+2026-04-06,Indiranagar,Chips,Snacks,22,20,2,0
+2026-04-07,Indiranagar,Chips,Snacks,20,20,2,1
+2026-04-08,Indiranagar,Chips,Snacks,29,20,2,0
+2026-04-09,Indiranagar,Chips,Snacks,28,20,2,0
+2026-04-10,Indiranagar,Chips,Snacks,29,20,2,0
+2026-04-11,Indiranagar,Chips,Snacks,45,20,2,0
+2026-04-12,Indiranagar,Chips,Snacks,27,20,2,0
+2026-04-13,Indiranagar,Chips,Snacks,27,20,2,0
+2026-04-14,Indiranagar,Chips,Snacks,36,20,2,0
+2026-04-15,Indiranagar,Chips,Snacks,19,20,2,0
+2026-04-16,Indiranagar,Chips,Snacks,21,20,2,0
+2026-04-17,Indiranagar,Chips,Snacks,15,20,2,0
+2026-04-18,Indiranagar,Chips,Snacks,40,20,2,0
+2026-04-19,Indiranagar,Chips,Snacks,39,20,2,0
+2026-04-20,Indiranagar,Chips,Snacks,17,20,2,0
+2026-04-21,Indiranagar,Chips,Snacks,36,20,2,0
+2026-04-22,Indiranagar,Chips,Snacks,24,20,2,0
+2026-04-23,Indiranagar,Chips,Snacks,25,20,2,0
+2026-04-24,Indiranagar,Chips,Snacks,31,20,2,0
+2026-04-25,Indiranagar,Chips,Snacks,41,20,2,0
+2026-04-26,Indiranagar,Chips,Snacks,29,20,2,0
+2026-04-27,Indiranagar,Chips,Snacks,29,20,2,0
+2026-04-28,Indiranagar,Chips,Snacks,27,20,2,0
+2026-04-29,Indiranagar,Chips,Snacks,38,20,2,0
+2026-04-30,Indiranagar,Chips,Snacks,22,20,2,0
+2026-05-01,Indiranagar,Chips,Snacks,37,20,2,0
+2026-05-02,Indiranagar,Chips,Snacks,24,20,2,0
+2026-05-03,Indiranagar,Chips,Snacks,40,20,2,0
+2026-05-04,Indiranagar,Chips,Snacks,38,20,2,0
+2026-05-05,Indiranagar,Chips,Snacks,32,20,2,0
+2026-05-06,Indiranagar,Chips,Snacks,37,20,2,0
+2026-05-07,Indiranagar,Chips,Snacks,35,20,2,1
+2026-05-08,Indiranagar,Chips,Snacks,18,20,2,0
+2026-05-09,Indiranagar,Chips,Snacks,32,20,2,0
+2026-05-10,Indiranagar,Chips,Snacks,44,20,2,0
+2026-05-11,Indiranagar,Chips,Snacks,29,20,2,0
+2026-05-12,Indiranagar,Chips,Snacks,27,20,2,0
+2026-05-13,Indiranagar,Chips,Snacks,38,20,2,0
+2026-05-14,Indiranagar,Chips,Snacks,31,20,2,0
+2026-05-15,Indiranagar,Chips,Snacks,13,20,2,0
+2026-05-16,Indiranagar,Chips,Snacks,28,20,2,0
+2026-05-17,Indiranagar,Chips,Snacks,37,20,2,0
+2026-05-18,Indiranagar,Chips,Snacks,25,20,2,0
+2026-05-19,Indiranagar,Chips,Snacks,21,20,2,0
+2026-05-20,Indiranagar,Chips,Snacks,26,20,2,0
+2026-05-21,Indiranagar,Chips,Snacks,24,20,2,0
+2026-05-22,Indiranagar,Chips,Snacks,40,20,2,0
+2026-05-23,Indiranagar,Chips,Snacks,36,20,2,0
+2026-05-24,Indiranagar,Chips,Snacks,35,20,2,1
+2026-05-25,Indiranagar,Chips,Snacks,25,20,2,0
+2026-05-26,Indiranagar,Chips,Snacks,24,20,2,0
+2026-05-27,Indiranagar,Chips,Snacks,27,20,2,0
+2026-05-28,Indiranagar,Chips,Snacks,26,20,2,0
+2026-05-29,Indiranagar,Chips,Snacks,27,20,2,0
+2026-05-30,Indiranagar,Chips,Snacks,36,20,2,0
+2026-05-31,Indiranagar,Chips,Snacks,30,20,2,0
+2026-06-01,Indiranagar,Chips,Snacks,29,20,2,0
+2026-06-02,Indiranagar,Chips,Snacks,20,20,2,0
+2026-06-03,Indiranagar,Chips,Snacks,31,20,2,0
+2026-06-04,Indiranagar,Chips,Snacks,39,20,2,1
+2026-06-05,Indiranagar,Chips,Snacks,27,20,2,0
+2026-06-06,Indiranagar,Chips,Snacks,36,20,2,0
+2026-06-07,Indiranagar,Chips,Snacks,51,20,2,0
+2026-06-08,Indiranagar,Chips,Snacks,27,20,2,0
+2026-06-09,Indiranagar,Chips,Snacks,20,20,2,0
+2026-06-10,Indiranagar,Chips,Snacks,30,20,2,0
+2026-06-11,Indiranagar,Chips,Snacks,21,20,2,1
+2026-06-12,Indiranagar,Chips,Snacks,32,20,2,0
+2026-06-13,Indiranagar,Chips,Snacks,27,20,2,0
+2026-06-14,Indiranagar,Chips,Snacks,37,20,2,0
+2026-06-15,Indiranagar,Chips,Snacks,29,20,2,0
+2026-06-16,Indiranagar,Chips,Snacks,35,20,2,0
+2026-06-17,Indiranagar,Chips,Snacks,30,20,2,0
+2026-06-18,Indiranagar,Chips,Snacks,20,20,2,0
+2026-06-19,Indiranagar,Chips,Snacks,29,20,2,0
+2026-06-20,Indiranagar,Chips,Snacks,37,20,2,0
+2026-06-21,Indiranagar,Chips,Snacks,47,20,2,0
+2026-06-22,Indiranagar,Chips,Snacks,25,20,2,1
+2026-06-23,Indiranagar,Chips,Snacks,26,20,2,0
+2026-06-24,Indiranagar,Chips,Snacks,31,20,2,0
+2026-06-25,Indiranagar,Chips,Snacks,26,20,2,0
+2026-06-26,Indiranagar,Chips,Snacks,20,20,2,0
+2026-06-27,Indiranagar,Chips,Snacks,31,20,2,0
+2026-06-28,Indiranagar,Chips,Snacks,37,20,2,0
+2026-06-29,Indiranagar,Chips,Snacks,27,20,2,0
+2026-04-01,Indiranagar,Biscuits,Snacks,16,30,2,0
+2026-04-02,Indiranagar,Biscuits,Snacks,20,30,2,0
+2026-04-03,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-04-04,Indiranagar,Biscuits,Snacks,17,30,2,0
+2026-04-05,Indiranagar,Biscuits,Snacks,20,30,2,0
+2026-04-06,Indiranagar,Biscuits,Snacks,11,30,2,0
+2026-04-07,Indiranagar,Biscuits,Snacks,12,30,2,0
+2026-04-08,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-04-09,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-04-10,Indiranagar,Biscuits,Snacks,12,30,2,0
+2026-04-11,Indiranagar,Biscuits,Snacks,32,30,2,0
+2026-04-12,Indiranagar,Biscuits,Snacks,33,30,2,0
+2026-04-13,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-04-14,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-04-15,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-04-16,Indiranagar,Biscuits,Snacks,18,30,2,0
+2026-04-17,Indiranagar,Biscuits,Snacks,30,30,2,0
+2026-04-18,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-04-19,Indiranagar,Biscuits,Snacks,26,30,2,0
+2026-04-20,Indiranagar,Biscuits,Snacks,8,30,2,0
+2026-04-21,Indiranagar,Biscuits,Snacks,25,30,2,0
+2026-04-22,Indiranagar,Biscuits,Snacks,18,30,2,0
+2026-04-23,Indiranagar,Biscuits,Snacks,30,30,2,0
+2026-04-24,Indiranagar,Biscuits,Snacks,13,30,2,0
+2026-04-25,Indiranagar,Biscuits,Snacks,36,30,2,0
+2026-04-26,Indiranagar,Biscuits,Snacks,16,30,2,0
+2026-04-27,Indiranagar,Biscuits,Snacks,20,30,2,0
+2026-04-28,Indiranagar,Biscuits,Snacks,21,30,2,0
+2026-04-29,Indiranagar,Biscuits,Snacks,19,30,2,0
+2026-04-30,Indiranagar,Biscuits,Snacks,29,30,2,0
+2026-05-01,Indiranagar,Biscuits,Snacks,16,30,2,0
+2026-05-02,Indiranagar,Biscuits,Snacks,26,30,2,0
+2026-05-03,Indiranagar,Biscuits,Snacks,28,30,2,0
+2026-05-04,Indiranagar,Biscuits,Snacks,21,30,2,0
+2026-05-05,Indiranagar,Biscuits,Snacks,20,30,2,1
+2026-05-06,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-05-07,Indiranagar,Biscuits,Snacks,20,30,2,1
+2026-05-08,Indiranagar,Biscuits,Snacks,29,30,2,0
+2026-05-09,Indiranagar,Biscuits,Snacks,24,30,2,1
+2026-05-10,Indiranagar,Biscuits,Snacks,27,30,2,0
+2026-05-11,Indiranagar,Biscuits,Snacks,24,30,2,0
+2026-05-12,Indiranagar,Biscuits,Snacks,24,30,2,0
+2026-05-13,Indiranagar,Biscuits,Snacks,29,30,2,0
+2026-05-14,Indiranagar,Biscuits,Snacks,18,30,2,0
+2026-05-15,Indiranagar,Biscuits,Snacks,26,30,2,0
+2026-05-16,Indiranagar,Biscuits,Snacks,28,30,2,0
+2026-05-17,Indiranagar,Biscuits,Snacks,18,30,2,0
+2026-05-18,Indiranagar,Biscuits,Snacks,26,30,2,0
+2026-05-19,Indiranagar,Biscuits,Snacks,14,30,2,0
+2026-05-20,Indiranagar,Biscuits,Snacks,19,30,2,0
+2026-05-21,Indiranagar,Biscuits,Snacks,24,30,2,0
+2026-05-22,Indiranagar,Biscuits,Snacks,18,30,2,0
+2026-05-23,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-05-24,Indiranagar,Biscuits,Snacks,31,30,2,0
+2026-05-25,Indiranagar,Biscuits,Snacks,27,30,2,0
+2026-05-26,Indiranagar,Biscuits,Snacks,18,30,2,0
+2026-05-27,Indiranagar,Biscuits,Snacks,19,30,2,0
+2026-05-28,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-05-29,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-05-30,Indiranagar,Biscuits,Snacks,26,30,2,0
+2026-05-31,Indiranagar,Biscuits,Snacks,38,30,2,0
+2026-06-01,Indiranagar,Biscuits,Snacks,20,30,2,0
+2026-06-02,Indiranagar,Biscuits,Snacks,17,30,2,0
+2026-06-03,Indiranagar,Biscuits,Snacks,19,30,2,0
+2026-06-04,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-06-05,Indiranagar,Biscuits,Snacks,17,30,2,0
+2026-06-06,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-06-07,Indiranagar,Biscuits,Snacks,20,30,2,0
+2026-06-08,Indiranagar,Biscuits,Snacks,32,30,2,0
+2026-06-09,Indiranagar,Biscuits,Snacks,24,30,2,0
+2026-06-10,Indiranagar,Biscuits,Snacks,15,30,2,0
+2026-06-11,Indiranagar,Biscuits,Snacks,24,30,2,0
+2026-06-12,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-06-13,Indiranagar,Biscuits,Snacks,34,30,2,0
+2026-06-14,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-06-15,Indiranagar,Biscuits,Snacks,27,30,2,0
+2026-06-16,Indiranagar,Biscuits,Snacks,25,30,2,0
+2026-06-17,Indiranagar,Biscuits,Snacks,15,30,2,0
+2026-06-18,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-06-19,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-06-20,Indiranagar,Biscuits,Snacks,29,30,2,0
+2026-06-21,Indiranagar,Biscuits,Snacks,16,30,2,0
+2026-06-22,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-06-23,Indiranagar,Biscuits,Snacks,19,30,2,0
+2026-06-24,Indiranagar,Biscuits,Snacks,25,30,2,0
+2026-06-25,Indiranagar,Biscuits,Snacks,22,30,2,0
+2026-06-26,Indiranagar,Biscuits,Snacks,18,30,2,0
+2026-06-27,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-06-28,Indiranagar,Biscuits,Snacks,26,30,2,0
+2026-06-29,Indiranagar,Biscuits,Snacks,23,30,2,0
+2026-04-01,Indiranagar,Cola,Beverages,25,40,2,0
+2026-04-02,Indiranagar,Cola,Beverages,16,40,2,0
+2026-04-03,Indiranagar,Cola,Beverages,35,40,2,0
+2026-04-04,Indiranagar,Cola,Beverages,38,40,2,0
+2026-04-05,Indiranagar,Cola,Beverages,33,40,2,0
+2026-04-06,Indiranagar,Cola,Beverages,26,40,2,0
+2026-04-07,Indiranagar,Cola,Beverages,28,40,2,0
+2026-04-08,Indiranagar,Cola,Beverages,27,40,2,0
+2026-04-09,Indiranagar,Cola,Beverages,24,40,2,0
+2026-04-10,Indiranagar,Cola,Beverages,32,40,2,0
+2026-04-11,Indiranagar,Cola,Beverages,32,40,2,0
+2026-04-12,Indiranagar,Cola,Beverages,31,40,2,0
+2026-04-13,Indiranagar,Cola,Beverages,25,40,2,0
+2026-04-14,Indiranagar,Cola,Beverages,24,40,2,0
+2026-04-15,Indiranagar,Cola,Beverages,26,40,2,0
+2026-04-16,Indiranagar,Cola,Beverages,46,40,2,0
+2026-04-17,Indiranagar,Cola,Beverages,22,40,2,0
+2026-04-18,Indiranagar,Cola,Beverages,36,40,2,0
+2026-04-19,Indiranagar,Cola,Beverages,38,40,2,0
+2026-04-20,Indiranagar,Cola,Beverages,16,40,2,0
+2026-04-21,Indiranagar,Cola,Beverages,23,40,2,0
+2026-04-22,Indiranagar,Cola,Beverages,16,40,2,0
+2026-04-23,Indiranagar,Cola,Beverages,21,40,2,0
+2026-04-24,Indiranagar,Cola,Beverages,16,40,2,0
+2026-04-25,Indiranagar,Cola,Beverages,34,40,2,0
+2026-04-26,Indiranagar,Cola,Beverages,29,40,2,0
+2026-04-27,Indiranagar,Cola,Beverages,31,40,2,0
+2026-04-28,Indiranagar,Cola,Beverages,23,40,2,0
+2026-04-29,Indiranagar,Cola,Beverages,23,40,2,0
+2026-04-30,Indiranagar,Cola,Beverages,21,40,2,0
+2026-05-01,Indiranagar,Cola,Beverages,20,40,2,0
+2026-05-02,Indiranagar,Cola,Beverages,39,40,2,0
+2026-05-03,Indiranagar,Cola,Beverages,25,40,2,0
+2026-05-04,Indiranagar,Cola,Beverages,33,40,2,0
+2026-05-05,Indiranagar,Cola,Beverages,24,40,2,0
+2026-05-06,Indiranagar,Cola,Beverages,17,40,2,0
+2026-05-07,Indiranagar,Cola,Beverages,26,40,2,0
+2026-05-08,Indiranagar,Cola,Beverages,21,40,2,0
+2026-05-09,Indiranagar,Cola,Beverages,29,40,2,0
+2026-05-10,Indiranagar,Cola,Beverages,41,40,2,0
+2026-05-11,Indiranagar,Cola,Beverages,29,40,2,0
+2026-05-12,Indiranagar,Cola,Beverages,8,40,2,0
+2026-05-13,Indiranagar,Cola,Beverages,24,40,2,1
+2026-05-14,Indiranagar,Cola,Beverages,24,40,2,0
+2026-05-15,Indiranagar,Cola,Beverages,22,40,2,0
+2026-05-16,Indiranagar,Cola,Beverages,43,40,2,0
+2026-05-17,Indiranagar,Cola,Beverages,27,40,2,0
+2026-05-18,Indiranagar,Cola,Beverages,20,40,2,0
+2026-05-19,Indiranagar,Cola,Beverages,26,40,2,0
+2026-05-20,Indiranagar,Cola,Beverages,32,40,2,0
+2026-05-21,Indiranagar,Cola,Beverages,16,40,2,0
+2026-05-22,Indiranagar,Cola,Beverages,24,40,2,0
+2026-05-23,Indiranagar,Cola,Beverages,31,40,2,0
+2026-05-24,Indiranagar,Cola,Beverages,37,40,2,0
+2026-05-25,Indiranagar,Cola,Beverages,39,40,2,0
+2026-05-26,Indiranagar,Cola,Beverages,30,40,2,0
+2026-05-27,Indiranagar,Cola,Beverages,22,40,2,0
+2026-05-28,Indiranagar,Cola,Beverages,20,40,2,1
+2026-05-29,Indiranagar,Cola,Beverages,9,40,2,0
+2026-05-30,Indiranagar,Cola,Beverages,33,40,2,0
+2026-05-31,Indiranagar,Cola,Beverages,38,40,2,0
+2026-06-01,Indiranagar,Cola,Beverages,29,40,2,0
+2026-06-02,Indiranagar,Cola,Beverages,22,40,2,0
+2026-06-03,Indiranagar,Cola,Beverages,35,40,2,0
+2026-06-04,Indiranagar,Cola,Beverages,18,40,2,0
+2026-06-05,Indiranagar,Cola,Beverages,32,40,2,0
+2026-06-06,Indiranagar,Cola,Beverages,36,40,2,0
+2026-06-07,Indiranagar,Cola,Beverages,29,40,2,0
+2026-06-08,Indiranagar,Cola,Beverages,31,40,2,0
+2026-06-09,Indiranagar,Cola,Beverages,18,40,2,0
+2026-06-10,Indiranagar,Cola,Beverages,19,40,2,0
+2026-06-11,Indiranagar,Cola,Beverages,27,40,2,0
+2026-06-12,Indiranagar,Cola,Beverages,37,40,2,0
+2026-06-13,Indiranagar,Cola,Beverages,38,40,2,0
+2026-06-14,Indiranagar,Cola,Beverages,29,40,2,0
+2026-06-15,Indiranagar,Cola,Beverages,35,40,2,0
+2026-06-16,Indiranagar,Cola,Beverages,41,40,2,0
+2026-06-17,Indiranagar,Cola,Beverages,27,40,2,0
+2026-06-18,Indiranagar,Cola,Beverages,26,40,2,0
+2026-06-19,Indiranagar,Cola,Beverages,19,40,2,0
+2026-06-20,Indiranagar,Cola,Beverages,26,40,2,0
+2026-06-21,Indiranagar,Cola,Beverages,24,40,2,0
+2026-06-22,Indiranagar,Cola,Beverages,19,40,2,0
+2026-06-23,Indiranagar,Cola,Beverages,15,40,2,0
+2026-06-24,Indiranagar,Cola,Beverages,23,40,2,0
+2026-06-25,Indiranagar,Cola,Beverages,20,40,2,0
+2026-06-26,Indiranagar,Cola,Beverages,22,40,2,0
+2026-06-27,Indiranagar,Cola,Beverages,35,40,2,0
+2026-06-28,Indiranagar,Cola,Beverages,26,40,2,0
+2026-06-29,Indiranagar,Cola,Beverages,20,40,2,0
+2026-04-01,Indiranagar,Juice,Beverages,10,110,2,0
+2026-04-02,Indiranagar,Juice,Beverages,15,110,2,0
+2026-04-03,Indiranagar,Juice,Beverages,11,110,2,0
+2026-04-04,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-05,Indiranagar,Juice,Beverages,14,110,2,0
+2026-04-06,Indiranagar,Juice,Beverages,10,110,2,0
+2026-04-07,Indiranagar,Juice,Beverages,9,110,2,0
+2026-04-08,Indiranagar,Juice,Beverages,3,110,2,0
+2026-04-09,Indiranagar,Juice,Beverages,7,110,2,0
+2026-04-10,Indiranagar,Juice,Beverages,10,110,2,0
+2026-04-11,Indiranagar,Juice,Beverages,17,110,2,0
+2026-04-12,Indiranagar,Juice,Beverages,15,110,2,0
+2026-04-13,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-14,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-15,Indiranagar,Juice,Beverages,11,110,2,0
+2026-04-16,Indiranagar,Juice,Beverages,10,110,2,0
+2026-04-17,Indiranagar,Juice,Beverages,13,110,2,0
+2026-04-18,Indiranagar,Juice,Beverages,6,110,2,0
+2026-04-19,Indiranagar,Juice,Beverages,12,110,2,0
+2026-04-20,Indiranagar,Juice,Beverages,9,110,2,0
+2026-04-21,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-22,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-23,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-24,Indiranagar,Juice,Beverages,7,110,2,0
+2026-04-25,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-26,Indiranagar,Juice,Beverages,11,110,2,0
+2026-04-27,Indiranagar,Juice,Beverages,10,110,2,0
+2026-04-28,Indiranagar,Juice,Beverages,12,110,2,0
+2026-04-29,Indiranagar,Juice,Beverages,9,110,2,0
+2026-04-30,Indiranagar,Juice,Beverages,14,110,2,0
+2026-05-01,Indiranagar,Juice,Beverages,13,110,2,0
+2026-05-02,Indiranagar,Juice,Beverages,7,110,2,0
+2026-05-03,Indiranagar,Juice,Beverages,13,110,2,0
+2026-05-04,Indiranagar,Juice,Beverages,10,110,2,0
+2026-05-05,Indiranagar,Juice,Beverages,11,110,2,0
+2026-05-06,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-07,Indiranagar,Juice,Beverages,8,110,2,0
+2026-05-08,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-09,Indiranagar,Juice,Beverages,8,110,2,0
+2026-05-10,Indiranagar,Juice,Beverages,14,110,2,0
+2026-05-11,Indiranagar,Juice,Beverages,6,110,2,0
+2026-05-12,Indiranagar,Juice,Beverages,6,110,2,0
+2026-05-13,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-14,Indiranagar,Juice,Beverages,8,110,2,0
+2026-05-15,Indiranagar,Juice,Beverages,11,110,2,1
+2026-05-16,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-17,Indiranagar,Juice,Beverages,13,110,2,0
+2026-05-18,Indiranagar,Juice,Beverages,8,110,2,1
+2026-05-19,Indiranagar,Juice,Beverages,5,110,2,0
+2026-05-20,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-21,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-22,Indiranagar,Juice,Beverages,10,110,2,0
+2026-05-23,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-24,Indiranagar,Juice,Beverages,11,110,2,0
+2026-05-25,Indiranagar,Juice,Beverages,7,110,2,0
+2026-05-26,Indiranagar,Juice,Beverages,7,110,2,0
+2026-05-27,Indiranagar,Juice,Beverages,6,110,2,0
+2026-05-28,Indiranagar,Juice,Beverages,9,110,2,0
+2026-05-29,Indiranagar,Juice,Beverages,12,110,2,0
+2026-05-30,Indiranagar,Juice,Beverages,11,110,2,0
+2026-05-31,Indiranagar,Juice,Beverages,13,110,2,0
+2026-06-01,Indiranagar,Juice,Beverages,11,110,2,0
+2026-06-02,Indiranagar,Juice,Beverages,8,110,2,0
+2026-06-03,Indiranagar,Juice,Beverages,11,110,2,0
+2026-06-04,Indiranagar,Juice,Beverages,9,110,2,0
+2026-06-05,Indiranagar,Juice,Beverages,13,110,2,0
+2026-06-06,Indiranagar,Juice,Beverages,16,110,2,0
+2026-06-07,Indiranagar,Juice,Beverages,12,110,2,0
+2026-06-08,Indiranagar,Juice,Beverages,9,110,2,0
+2026-06-09,Indiranagar,Juice,Beverages,14,110,2,0
+2026-06-10,Indiranagar,Juice,Beverages,7,110,2,0
+2026-06-11,Indiranagar,Juice,Beverages,14,110,2,0
+2026-06-12,Indiranagar,Juice,Beverages,13,110,2,0
+2026-06-13,Indiranagar,Juice,Beverages,11,110,2,0
+2026-06-14,Indiranagar,Juice,Beverages,12,110,2,0
+2026-06-15,Indiranagar,Juice,Beverages,12,110,2,0
+2026-06-16,Indiranagar,Juice,Beverages,7,110,2,0
+2026-06-17,Indiranagar,Juice,Beverages,7,110,2,0
+2026-06-18,Indiranagar,Juice,Beverages,12,110,2,0
+2026-06-19,Indiranagar,Juice,Beverages,10,110,2,0
+2026-06-20,Indiranagar,Juice,Beverages,13,110,2,0
+2026-06-21,Indiranagar,Juice,Beverages,19,110,2,0
+2026-06-22,Indiranagar,Juice,Beverages,10,110,2,0
+2026-06-23,Indiranagar,Juice,Beverages,8,110,2,0
+2026-06-24,Indiranagar,Juice,Beverages,12,110,2,0
+2026-06-25,Indiranagar,Juice,Beverages,11,110,2,0
+2026-06-26,Indiranagar,Juice,Beverages,8,110,2,0
+2026-06-27,Indiranagar,Juice,Beverages,10,110,2,0
+2026-06-28,Indiranagar,Juice,Beverages,14,110,2,0
+2026-06-29,Indiranagar,Juice,Beverages,8,110,2,0
+2026-04-01,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-02,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-03,Indiranagar,Rice,Staples,7,450,3,0
+2026-04-04,Indiranagar,Rice,Staples,7,450,3,0
+2026-04-05,Indiranagar,Rice,Staples,8,450,3,0
+2026-04-06,Indiranagar,Rice,Staples,3,450,3,0
+2026-04-07,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-08,Indiranagar,Rice,Staples,3,450,3,0
+2026-04-09,Indiranagar,Rice,Staples,6,450,3,0
+2026-04-10,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-11,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-12,Indiranagar,Rice,Staples,11,450,3,0
+2026-04-13,Indiranagar,Rice,Staples,6,450,3,0
+2026-04-14,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-15,Indiranagar,Rice,Staples,7,450,3,0
+2026-04-16,Indiranagar,Rice,Staples,6,450,3,0
+2026-04-17,Indiranagar,Rice,Staples,6,450,3,0
+2026-04-18,Indiranagar,Rice,Staples,9,450,3,0
+2026-04-19,Indiranagar,Rice,Staples,7,450,3,0
+2026-04-20,Indiranagar,Rice,Staples,7,450,3,0
+2026-04-21,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-22,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-23,Indiranagar,Rice,Staples,4,450,3,0
+2026-04-24,Indiranagar,Rice,Staples,6,450,3,0
+2026-04-25,Indiranagar,Rice,Staples,7,450,3,0
+2026-04-26,Indiranagar,Rice,Staples,6,450,3,0
+2026-04-27,Indiranagar,Rice,Staples,6,450,3,0
+2026-04-28,Indiranagar,Rice,Staples,7,450,3,0
+2026-04-29,Indiranagar,Rice,Staples,3,450,3,0
+2026-04-30,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-01,Indiranagar,Rice,Staples,7,450,3,0
+2026-05-02,Indiranagar,Rice,Staples,8,450,3,0
+2026-05-03,Indiranagar,Rice,Staples,8,450,3,0
+2026-05-04,Indiranagar,Rice,Staples,5,450,3,0
+2026-05-05,Indiranagar,Rice,Staples,4,450,3,0
+2026-05-06,Indiranagar,Rice,Staples,7,450,3,0
+2026-05-07,Indiranagar,Rice,Staples,4,450,3,0
+2026-05-08,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-09,Indiranagar,Rice,Staples,9,450,3,0
+2026-05-10,Indiranagar,Rice,Staples,9,450,3,0
+2026-05-11,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-12,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-13,Indiranagar,Rice,Staples,7,450,3,0
+2026-05-14,Indiranagar,Rice,Staples,7,450,3,0
+2026-05-15,Indiranagar,Rice,Staples,4,450,3,1
+2026-05-16,Indiranagar,Rice,Staples,5,450,3,0
+2026-05-17,Indiranagar,Rice,Staples,8,450,3,0
+2026-05-18,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-19,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-20,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-21,Indiranagar,Rice,Staples,5,450,3,1
+2026-05-22,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-23,Indiranagar,Rice,Staples,5,450,3,0
+2026-05-24,Indiranagar,Rice,Staples,8,450,3,0
+2026-05-25,Indiranagar,Rice,Staples,7,450,3,0
+2026-05-26,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-27,Indiranagar,Rice,Staples,4,450,3,0
+2026-05-28,Indiranagar,Rice,Staples,5,450,3,0
+2026-05-29,Indiranagar,Rice,Staples,6,450,3,0
+2026-05-30,Indiranagar,Rice,Staples,7,450,3,0
+2026-05-31,Indiranagar,Rice,Staples,8,450,3,0
+2026-06-01,Indiranagar,Rice,Staples,6,450,3,0
+2026-06-02,Indiranagar,Rice,Staples,4,450,3,0
+2026-06-03,Indiranagar,Rice,Staples,6,450,3,0
+2026-06-04,Indiranagar,Rice,Staples,9,450,3,0
+2026-06-05,Indiranagar,Rice,Staples,5,450,3,0
+2026-06-06,Indiranagar,Rice,Staples,6,450,3,0
+2026-06-07,Indiranagar,Rice,Staples,8,450,3,0
+2026-06-08,Indiranagar,Rice,Staples,6,450,3,0
+2026-06-09,Indiranagar,Rice,Staples,7,450,3,0
+2026-06-10,Indiranagar,Rice,Staples,6,450,3,0
+2026-06-11,Indiranagar,Rice,Staples,7,450,3,0
+2026-06-12,Indiranagar,Rice,Staples,5,450,3,1
+2026-06-13,Indiranagar,Rice,Staples,9,450,3,0
+2026-06-14,Indiranagar,Rice,Staples,8,450,3,0
+2026-06-15,Indiranagar,Rice,Staples,7,450,3,0
+2026-06-16,Indiranagar,Rice,Staples,8,450,3,0
+2026-06-17,Indiranagar,Rice,Staples,4,450,3,0
+2026-06-18,Indiranagar,Rice,Staples,4,450,3,0
+2026-06-19,Indiranagar,Rice,Staples,5,450,3,0
+2026-06-20,Indiranagar,Rice,Staples,9,450,3,0
+2026-06-21,Indiranagar,Rice,Staples,8,450,3,0
+2026-06-22,Indiranagar,Rice,Staples,3,450,3,0
+2026-06-23,Indiranagar,Rice,Staples,5,450,3,0
+2026-06-24,Indiranagar,Rice,Staples,3,450,3,0
+2026-06-25,Indiranagar,Rice,Staples,9,450,3,0
+2026-06-26,Indiranagar,Rice,Staples,6,450,3,0
+2026-06-27,Indiranagar,Rice,Staples,6,450,3,0
+2026-06-28,Indiranagar,Rice,Staples,8,450,3,0
+2026-06-29,Indiranagar,Rice,Staples,9,450,3,0
+2026-04-01,Indiranagar,Atta,Staples,8,350,3,0
+2026-04-02,Indiranagar,Atta,Staples,5,350,3,0
+2026-04-03,Indiranagar,Atta,Staples,7,350,3,0
+2026-04-04,Indiranagar,Atta,Staples,11,350,3,1
+2026-04-05,Indiranagar,Atta,Staples,13,350,3,0
+2026-04-06,Indiranagar,Atta,Staples,9,350,3,0
+2026-04-07,Indiranagar,Atta,Staples,9,350,3,0
+2026-04-08,Indiranagar,Atta,Staples,5,350,3,0
+2026-04-09,Indiranagar,Atta,Staples,9,350,3,1
+2026-04-10,Indiranagar,Atta,Staples,11,350,3,0
+2026-04-11,Indiranagar,Atta,Staples,8,350,3,0
+2026-04-12,Indiranagar,Atta,Staples,8,350,3,0
+2026-04-13,Indiranagar,Atta,Staples,6,350,3,0
+2026-04-14,Indiranagar,Atta,Staples,8,350,3,0
+2026-04-15,Indiranagar,Atta,Staples,7,350,3,0
+2026-04-16,Indiranagar,Atta,Staples,11,350,3,1
+2026-04-17,Indiranagar,Atta,Staples,10,350,3,0
+2026-04-18,Indiranagar,Atta,Staples,11,350,3,0
+2026-04-19,Indiranagar,Atta,Staples,11,350,3,0
+2026-04-20,Indiranagar,Atta,Staples,5,350,3,0
+2026-04-21,Indiranagar,Atta,Staples,7,350,3,1
+2026-04-22,Indiranagar,Atta,Staples,8,350,3,0
+2026-04-23,Indiranagar,Atta,Staples,11,350,3,0
+2026-04-24,Indiranagar,Atta,Staples,8,350,3,0
+2026-04-25,Indiranagar,Atta,Staples,12,350,3,0
+2026-04-26,Indiranagar,Atta,Staples,11,350,3,0
+2026-04-27,Indiranagar,Atta,Staples,9,350,3,0
+2026-04-28,Indiranagar,Atta,Staples,7,350,3,1
+2026-04-29,Indiranagar,Atta,Staples,5,350,3,0
+2026-04-30,Indiranagar,Atta,Staples,9,350,3,0
+2026-05-01,Indiranagar,Atta,Staples,10,350,3,0
+2026-05-02,Indiranagar,Atta,Staples,6,350,3,0
+2026-05-03,Indiranagar,Atta,Staples,9,350,3,0
+2026-05-04,Indiranagar,Atta,Staples,7,350,3,0
+2026-05-05,Indiranagar,Atta,Staples,9,350,3,0
+2026-05-06,Indiranagar,Atta,Staples,5,350,3,0
+2026-05-07,Indiranagar,Atta,Staples,12,350,3,0
+2026-05-08,Indiranagar,Atta,Staples,7,350,3,0
+2026-05-09,Indiranagar,Atta,Staples,11,350,3,0
+2026-05-10,Indiranagar,Atta,Staples,10,350,3,0
+2026-05-11,Indiranagar,Atta,Staples,10,350,3,0
+2026-05-12,Indiranagar,Atta,Staples,9,350,3,0
+2026-05-13,Indiranagar,Atta,Staples,10,350,3,0
+2026-05-14,Indiranagar,Atta,Staples,7,350,3,0
+2026-05-15,Indiranagar,Atta,Staples,8,350,3,0
+2026-05-16,Indiranagar,Atta,Staples,11,350,3,0
+2026-05-17,Indiranagar,Atta,Staples,15,350,3,0
+2026-05-18,Indiranagar,Atta,Staples,9,350,3,0
+2026-05-19,Indiranagar,Atta,Staples,8,350,3,0
+2026-05-20,Indiranagar,Atta,Staples,11,350,3,0
+2026-05-21,Indiranagar,Atta,Staples,6,350,3,0
+2026-05-22,Indiranagar,Atta,Staples,8,350,3,0
+2026-05-23,Indiranagar,Atta,Staples,11,350,3,0
+2026-05-24,Indiranagar,Atta,Staples,9,350,3,0
+2026-05-25,Indiranagar,Atta,Staples,7,350,3,0
+2026-05-26,Indiranagar,Atta,Staples,9,350,3,0
+2026-05-27,Indiranagar,Atta,Staples,4,350,3,0
+2026-05-28,Indiranagar,Atta,Staples,8,350,3,0
+2026-05-29,Indiranagar,Atta,Staples,3,350,3,0
+2026-05-30,Indiranagar,Atta,Staples,6,350,3,0
+2026-05-31,Indiranagar,Atta,Staples,12,350,3,0
+2026-06-01,Indiranagar,Atta,Staples,7,350,3,0
+2026-06-02,Indiranagar,Atta,Staples,9,350,3,0
+2026-06-03,Indiranagar,Atta,Staples,8,350,3,0
+2026-06-04,Indiranagar,Atta,Staples,3,350,3,0
+2026-06-05,Indiranagar,Atta,Staples,10,350,3,0
+2026-06-06,Indiranagar,Atta,Staples,10,350,3,0
+2026-06-07,Indiranagar,Atta,Staples,9,350,3,0
+2026-06-08,Indiranagar,Atta,Staples,7,350,3,0
+2026-06-09,Indiranagar,Atta,Staples,1,350,3,0
+2026-06-10,Indiranagar,Atta,Staples,4,350,3,0
+2026-06-11,Indiranagar,Atta,Staples,9,350,3,0
+2026-06-12,Indiranagar,Atta,Staples,4,350,3,0
+2026-06-13,Indiranagar,Atta,Staples,11,350,3,0
+2026-06-14,Indiranagar,Atta,Staples,11,350,3,0
+2026-06-15,Indiranagar,Atta,Staples,5,350,3,0
+2026-06-16,Indiranagar,Atta,Staples,5,350,3,0
+2026-06-17,Indiranagar,Atta,Staples,5,350,3,0
+2026-06-18,Indiranagar,Atta,Staples,6,350,3,0
+2026-06-19,Indiranagar,Atta,Staples,7,350,3,0
+2026-06-20,Indiranagar,Atta,Staples,8,350,3,0
+2026-06-21,Indiranagar,Atta,Staples,9,350,3,1
+2026-06-22,Indiranagar,Atta,Staples,6,350,3,0
+2026-06-23,Indiranagar,Atta,Staples,11,350,3,0
+2026-06-24,Indiranagar,Atta,Staples,8,350,3,0
+2026-06-25,Indiranagar,Atta,Staples,6,350,3,0
+2026-06-26,Indiranagar,Atta,Staples,5,350,3,0
+2026-06-27,Indiranagar,Atta,Staples,11,350,3,0
+2026-06-28,Indiranagar,Atta,Staples,10,350,3,0
+2026-06-29,Indiranagar,Atta,Staples,9,350,3,0
+2026-04-01,Whitefield,Milk,Dairy,39,60,1,1
+2026-04-02,Whitefield,Milk,Dairy,46,60,1,0
+2026-04-03,Whitefield,Milk,Dairy,33,60,1,0
+2026-04-04,Whitefield,Milk,Dairy,33,60,1,0
+2026-04-05,Whitefield,Milk,Dairy,45,60,1,0
+2026-04-06,Whitefield,Milk,Dairy,29,60,1,0
+2026-04-07,Whitefield,Milk,Dairy,29,60,1,0
+2026-04-08,Whitefield,Milk,Dairy,46,60,1,0
+2026-04-09,Whitefield,Milk,Dairy,44,60,1,1
+2026-04-10,Whitefield,Milk,Dairy,40,60,1,1
+2026-04-11,Whitefield,Milk,Dairy,46,60,1,1
+2026-04-12,Whitefield,Milk,Dairy,57,60,1,0
+2026-04-13,Whitefield,Milk,Dairy,37,60,1,0
+2026-04-14,Whitefield,Milk,Dairy,41,60,1,1
+2026-04-15,Whitefield,Milk,Dairy,47,60,1,0
+2026-04-16,Whitefield,Milk,Dairy,36,60,1,1
+2026-04-17,Whitefield,Milk,Dairy,35,60,1,0
+2026-04-18,Whitefield,Milk,Dairy,62,60,1,0
+2026-04-19,Whitefield,Milk,Dairy,47,60,1,0
+2026-04-20,Whitefield,Milk,Dairy,38,60,1,1
+2026-04-21,Whitefield,Milk,Dairy,50,60,1,0
+2026-04-22,Whitefield,Milk,Dairy,37,60,1,0
+2026-04-23,Whitefield,Milk,Dairy,34,60,1,1
+2026-04-24,Whitefield,Milk,Dairy,56,60,1,0
+2026-04-25,Whitefield,Milk,Dairy,57,60,1,1
+2026-04-26,Whitefield,Milk,Dairy,41,60,1,1
+2026-04-27,Whitefield,Milk,Dairy,40,60,1,0
+2026-04-28,Whitefield,Milk,Dairy,34,60,1,0
+2026-04-29,Whitefield,Milk,Dairy,37,60,1,0
+2026-04-30,Whitefield,Milk,Dairy,53,60,1,0
+2026-05-01,Whitefield,Milk,Dairy,22,60,1,0
+2026-05-02,Whitefield,Milk,Dairy,35,60,1,0
+2026-05-03,Whitefield,Milk,Dairy,57,60,1,1
+2026-05-04,Whitefield,Milk,Dairy,33,60,1,1
+2026-05-05,Whitefield,Milk,Dairy,31,60,1,0
+2026-05-06,Whitefield,Milk,Dairy,25,60,1,0
+2026-05-07,Whitefield,Milk,Dairy,53,60,1,0
+2026-05-08,Whitefield,Milk,Dairy,51,60,1,0
+2026-05-09,Whitefield,Milk,Dairy,49,60,1,0
+2026-05-10,Whitefield,Milk,Dairy,45,60,1,0
+2026-05-11,Whitefield,Milk,Dairy,46,60,1,0
+2026-05-12,Whitefield,Milk,Dairy,49,60,1,0
+2026-05-13,Whitefield,Milk,Dairy,42,60,1,0
+2026-05-14,Whitefield,Milk,Dairy,38,60,1,0
+2026-05-15,Whitefield,Milk,Dairy,28,60,1,1
+2026-05-16,Whitefield,Milk,Dairy,53,60,1,0
+2026-05-17,Whitefield,Milk,Dairy,72,60,1,0
+2026-05-18,Whitefield,Milk,Dairy,30,60,1,1
+2026-05-19,Whitefield,Milk,Dairy,20,60,1,0
+2026-05-20,Whitefield,Milk,Dairy,24,60,1,1
+2026-05-21,Whitefield,Milk,Dairy,38,60,1,0
+2026-05-22,Whitefield,Milk,Dairy,50,60,1,0
+2026-05-23,Whitefield,Milk,Dairy,63,60,1,1
+2026-05-24,Whitefield,Milk,Dairy,46,60,1,0
+2026-05-25,Whitefield,Milk,Dairy,34,60,1,1
+2026-05-26,Whitefield,Milk,Dairy,54,60,1,0
+2026-05-27,Whitefield,Milk,Dairy,41,60,1,0
+2026-05-28,Whitefield,Milk,Dairy,48,60,1,0
+2026-05-29,Whitefield,Milk,Dairy,38,60,1,0
+2026-05-30,Whitefield,Milk,Dairy,59,60,1,1
+2026-05-31,Whitefield,Milk,Dairy,52,60,1,1
+2026-06-01,Whitefield,Milk,Dairy,53,60,1,1
+2026-06-02,Whitefield,Milk,Dairy,31,60,1,0
+2026-06-03,Whitefield,Milk,Dairy,27,60,1,0
+2026-06-04,Whitefield,Milk,Dairy,44,60,1,0
+2026-06-05,Whitefield,Milk,Dairy,20,60,1,0
+2026-06-06,Whitefield,Milk,Dairy,56,60,1,1
+2026-06-07,Whitefield,Milk,Dairy,63,60,1,0
+2026-06-08,Whitefield,Milk,Dairy,44,60,1,0
+2026-06-09,Whitefield,Milk,Dairy,41,60,1,0
+2026-06-10,Whitefield,Milk,Dairy,46,60,1,0
+2026-06-11,Whitefield,Milk,Dairy,41,60,1,1
+2026-06-12,Whitefield,Milk,Dairy,25,60,1,1
+2026-06-13,Whitefield,Milk,Dairy,50,60,1,0
+2026-06-14,Whitefield,Milk,Dairy,42,60,1,0
+2026-06-15,Whitefield,Milk,Dairy,54,60,1,0
+2026-06-16,Whitefield,Milk,Dairy,47,60,1,0
+2026-06-17,Whitefield,Milk,Dairy,38,60,1,0
+2026-06-18,Whitefield,Milk,Dairy,43,60,1,0
+2026-06-19,Whitefield,Milk,Dairy,37,60,1,0
+2026-06-20,Whitefield,Milk,Dairy,66,60,1,0
+2026-06-21,Whitefield,Milk,Dairy,43,60,1,0
+2026-06-22,Whitefield,Milk,Dairy,59,60,1,0
+2026-06-23,Whitefield,Milk,Dairy,51,60,1,0
+2026-06-24,Whitefield,Milk,Dairy,29,60,1,0
+2026-06-25,Whitefield,Milk,Dairy,35,60,1,0
+2026-06-26,Whitefield,Milk,Dairy,42,60,1,1
+2026-06-27,Whitefield,Milk,Dairy,57,60,1,0
+2026-06-28,Whitefield,Milk,Dairy,62,60,1,0
+2026-06-29,Whitefield,Milk,Dairy,35,60,1,0
+2026-04-01,Whitefield,Curd,Dairy,19,45,1,0
+2026-04-02,Whitefield,Curd,Dairy,24,45,1,0
+2026-04-03,Whitefield,Curd,Dairy,11,45,1,0
+2026-04-04,Whitefield,Curd,Dairy,27,45,1,1
+2026-04-05,Whitefield,Curd,Dairy,29,45,1,0
+2026-04-06,Whitefield,Curd,Dairy,17,45,1,0
+2026-04-07,Whitefield,Curd,Dairy,39,45,1,0
+2026-04-08,Whitefield,Curd,Dairy,29,45,1,0
+2026-04-09,Whitefield,Curd,Dairy,24,45,1,0
+2026-04-10,Whitefield,Curd,Dairy,29,45,1,0
+2026-04-11,Whitefield,Curd,Dairy,32,45,1,0
+2026-04-12,Whitefield,Curd,Dairy,28,45,1,0
+2026-04-13,Whitefield,Curd,Dairy,28,45,1,0
+2026-04-14,Whitefield,Curd,Dairy,17,45,1,0
+2026-04-15,Whitefield,Curd,Dairy,20,45,1,0
+2026-04-16,Whitefield,Curd,Dairy,30,45,1,1
+2026-04-17,Whitefield,Curd,Dairy,25,45,1,0
+2026-04-18,Whitefield,Curd,Dairy,37,45,1,0
+2026-04-19,Whitefield,Curd,Dairy,34,45,1,0
+2026-04-20,Whitefield,Curd,Dairy,16,45,1,0
+2026-04-21,Whitefield,Curd,Dairy,22,45,1,0
+2026-04-22,Whitefield,Curd,Dairy,31,45,1,0
+2026-04-23,Whitefield,Curd,Dairy,24,45,1,0
+2026-04-24,Whitefield,Curd,Dairy,30,45,1,0
+2026-04-25,Whitefield,Curd,Dairy,32,45,1,0
+2026-04-26,Whitefield,Curd,Dairy,25,45,1,0
+2026-04-27,Whitefield,Curd,Dairy,30,45,1,0
+2026-04-28,Whitefield,Curd,Dairy,22,45,1,0
+2026-04-29,Whitefield,Curd,Dairy,13,45,1,0
+2026-04-30,Whitefield,Curd,Dairy,34,45,1,0
+2026-05-01,Whitefield,Curd,Dairy,23,45,1,1
+2026-05-02,Whitefield,Curd,Dairy,28,45,1,0
+2026-05-03,Whitefield,Curd,Dairy,18,45,1,0
+2026-05-04,Whitefield,Curd,Dairy,22,45,1,1
+2026-05-05,Whitefield,Curd,Dairy,26,45,1,1
+2026-05-06,Whitefield,Curd,Dairy,13,45,1,0
+2026-05-07,Whitefield,Curd,Dairy,22,45,1,0
+2026-05-08,Whitefield,Curd,Dairy,10,45,1,0
+2026-05-09,Whitefield,Curd,Dairy,38,45,1,0
+2026-05-10,Whitefield,Curd,Dairy,32,45,1,0
+2026-05-11,Whitefield,Curd,Dairy,30,45,1,0
+2026-05-12,Whitefield,Curd,Dairy,35,45,1,0
+2026-05-13,Whitefield,Curd,Dairy,20,45,1,0
+2026-05-14,Whitefield,Curd,Dairy,8,45,1,0
+2026-05-15,Whitefield,Curd,Dairy,30,45,1,0
+2026-05-16,Whitefield,Curd,Dairy,27,45,1,1
+2026-05-17,Whitefield,Curd,Dairy,19,45,1,0
+2026-05-18,Whitefield,Curd,Dairy,27,45,1,1
+2026-05-19,Whitefield,Curd,Dairy,19,45,1,0
+2026-05-20,Whitefield,Curd,Dairy,36,45,1,0
+2026-05-21,Whitefield,Curd,Dairy,29,45,1,0
+2026-05-22,Whitefield,Curd,Dairy,12,45,1,0
+2026-05-23,Whitefield,Curd,Dairy,32,45,1,0
+2026-05-24,Whitefield,Curd,Dairy,28,45,1,0
+2026-05-25,Whitefield,Curd,Dairy,29,45,1,0
+2026-05-26,Whitefield,Curd,Dairy,23,45,1,0
+2026-05-27,Whitefield,Curd,Dairy,32,45,1,0
+2026-05-28,Whitefield,Curd,Dairy,28,45,1,0
+2026-05-29,Whitefield,Curd,Dairy,39,45,1,0
+2026-05-30,Whitefield,Curd,Dairy,35,45,1,0
+2026-05-31,Whitefield,Curd,Dairy,28,45,1,1
+2026-06-01,Whitefield,Curd,Dairy,24,45,1,0
+2026-06-02,Whitefield,Curd,Dairy,19,45,1,0
+2026-06-03,Whitefield,Curd,Dairy,18,45,1,0
+2026-06-04,Whitefield,Curd,Dairy,26,45,1,1
+2026-06-05,Whitefield,Curd,Dairy,28,45,1,0
+2026-06-06,Whitefield,Curd,Dairy,30,45,1,0
+2026-06-07,Whitefield,Curd,Dairy,32,45,1,1
+2026-06-08,Whitefield,Curd,Dairy,18,45,1,0
+2026-06-09,Whitefield,Curd,Dairy,20,45,1,0
+2026-06-10,Whitefield,Curd,Dairy,21,45,1,0
+2026-06-11,Whitefield,Curd,Dairy,9,45,1,0
+2026-06-12,Whitefield,Curd,Dairy,13,45,1,0
+2026-06-13,Whitefield,Curd,Dairy,28,45,1,0
+2026-06-14,Whitefield,Curd,Dairy,25,45,1,1
+2026-06-15,Whitefield,Curd,Dairy,22,45,1,0
+2026-06-16,Whitefield,Curd,Dairy,11,45,1,0
+2026-06-17,Whitefield,Curd,Dairy,27,45,1,0
+2026-06-18,Whitefield,Curd,Dairy,32,45,1,0
+2026-06-19,Whitefield,Curd,Dairy,23,45,1,0
+2026-06-20,Whitefield,Curd,Dairy,34,45,1,0
+2026-06-21,Whitefield,Curd,Dairy,32,45,1,1
+2026-06-22,Whitefield,Curd,Dairy,29,45,1,0
+2026-06-23,Whitefield,Curd,Dairy,24,45,1,0
+2026-06-24,Whitefield,Curd,Dairy,15,45,1,0
+2026-06-25,Whitefield,Curd,Dairy,35,45,1,0
+2026-06-26,Whitefield,Curd,Dairy,14,45,1,0
+2026-06-27,Whitefield,Curd,Dairy,35,45,1,1
+2026-06-28,Whitefield,Curd,Dairy,37,45,1,0
+2026-06-29,Whitefield,Curd,Dairy,16,45,1,1
+2026-04-01,Whitefield,Eggs,Dairy,17,80,1,0
+2026-04-02,Whitefield,Eggs,Dairy,17,80,1,0
+2026-04-03,Whitefield,Eggs,Dairy,20,80,1,1
+2026-04-04,Whitefield,Eggs,Dairy,29,80,1,1
+2026-04-05,Whitefield,Eggs,Dairy,19,80,1,0
+2026-04-06,Whitefield,Eggs,Dairy,18,80,1,0
+2026-04-07,Whitefield,Eggs,Dairy,24,80,1,0
+2026-04-08,Whitefield,Eggs,Dairy,24,80,1,0
+2026-04-09,Whitefield,Eggs,Dairy,24,80,1,0
+2026-04-10,Whitefield,Eggs,Dairy,23,80,1,0
+2026-04-11,Whitefield,Eggs,Dairy,24,80,1,0
+2026-04-12,Whitefield,Eggs,Dairy,20,80,1,0
+2026-04-13,Whitefield,Eggs,Dairy,25,80,1,0
+2026-04-14,Whitefield,Eggs,Dairy,18,80,1,0
+2026-04-15,Whitefield,Eggs,Dairy,23,80,1,1
+2026-04-16,Whitefield,Eggs,Dairy,14,80,1,0
+2026-04-17,Whitefield,Eggs,Dairy,11,80,1,0
+2026-04-18,Whitefield,Eggs,Dairy,27,80,1,0
+2026-04-19,Whitefield,Eggs,Dairy,33,80,1,0
+2026-04-20,Whitefield,Eggs,Dairy,16,80,1,0
+2026-04-21,Whitefield,Eggs,Dairy,13,80,1,0
+2026-04-22,Whitefield,Eggs,Dairy,21,80,1,0
+2026-04-23,Whitefield,Eggs,Dairy,21,80,1,1
+2026-04-24,Whitefield,Eggs,Dairy,16,80,1,0
+2026-04-25,Whitefield,Eggs,Dairy,18,80,1,1
+2026-04-26,Whitefield,Eggs,Dairy,33,80,1,1
+2026-04-27,Whitefield,Eggs,Dairy,17,80,1,0
+2026-04-28,Whitefield,Eggs,Dairy,26,80,1,0
+2026-04-29,Whitefield,Eggs,Dairy,12,80,1,0
+2026-04-30,Whitefield,Eggs,Dairy,20,80,1,0
+2026-05-01,Whitefield,Eggs,Dairy,15,80,1,0
+2026-05-02,Whitefield,Eggs,Dairy,24,80,1,0
+2026-05-03,Whitefield,Eggs,Dairy,27,80,1,0
+2026-05-04,Whitefield,Eggs,Dairy,18,80,1,0
+2026-05-05,Whitefield,Eggs,Dairy,23,80,1,0
+2026-05-06,Whitefield,Eggs,Dairy,20,80,1,0
+2026-05-07,Whitefield,Eggs,Dairy,15,80,1,0
+2026-05-08,Whitefield,Eggs,Dairy,13,80,1,0
+2026-05-09,Whitefield,Eggs,Dairy,20,80,1,0
+2026-05-10,Whitefield,Eggs,Dairy,29,80,1,0
+2026-05-11,Whitefield,Eggs,Dairy,14,80,1,0
+2026-05-12,Whitefield,Eggs,Dairy,9,80,1,0
+2026-05-13,Whitefield,Eggs,Dairy,23,80,1,0
+2026-05-14,Whitefield,Eggs,Dairy,24,80,1,0
+2026-05-15,Whitefield,Eggs,Dairy,13,80,1,0
+2026-05-16,Whitefield,Eggs,Dairy,28,80,1,1
+2026-05-17,Whitefield,Eggs,Dairy,22,80,1,1
+2026-05-18,Whitefield,Eggs,Dairy,13,80,1,0
+2026-05-19,Whitefield,Eggs,Dairy,22,80,1,1
+2026-05-20,Whitefield,Eggs,Dairy,14,80,1,0
+2026-05-21,Whitefield,Eggs,Dairy,22,80,1,0
+2026-05-22,Whitefield,Eggs,Dairy,18,80,1,0
+2026-05-23,Whitefield,Eggs,Dairy,19,80,1,0
+2026-05-24,Whitefield,Eggs,Dairy,30,80,1,0
+2026-05-25,Whitefield,Eggs,Dairy,15,80,1,0
+2026-05-26,Whitefield,Eggs,Dairy,17,80,1,0
+2026-05-27,Whitefield,Eggs,Dairy,22,80,1,0
+2026-05-28,Whitefield,Eggs,Dairy,25,80,1,0
+2026-05-29,Whitefield,Eggs,Dairy,16,80,1,0
+2026-05-30,Whitefield,Eggs,Dairy,25,80,1,0
+2026-05-31,Whitefield,Eggs,Dairy,20,80,1,0
+2026-06-01,Whitefield,Eggs,Dairy,11,80,1,0
+2026-06-02,Whitefield,Eggs,Dairy,21,80,1,0
+2026-06-03,Whitefield,Eggs,Dairy,22,80,1,0
+2026-06-04,Whitefield,Eggs,Dairy,25,80,1,1
+2026-06-05,Whitefield,Eggs,Dairy,18,80,1,0
+2026-06-06,Whitefield,Eggs,Dairy,35,80,1,0
+2026-06-07,Whitefield,Eggs,Dairy,21,80,1,0
+2026-06-08,Whitefield,Eggs,Dairy,16,80,1,1
+2026-06-09,Whitefield,Eggs,Dairy,20,80,1,0
+2026-06-10,Whitefield,Eggs,Dairy,10,80,1,0
+2026-06-11,Whitefield,Eggs,Dairy,21,80,1,0
+2026-06-12,Whitefield,Eggs,Dairy,19,80,1,0
+2026-06-13,Whitefield,Eggs,Dairy,26,80,1,0
+2026-06-14,Whitefield,Eggs,Dairy,18,80,1,0
+2026-06-15,Whitefield,Eggs,Dairy,17,80,1,0
+2026-06-16,Whitefield,Eggs,Dairy,21,80,1,0
+2026-06-17,Whitefield,Eggs,Dairy,22,80,1,0
+2026-06-18,Whitefield,Eggs,Dairy,20,80,1,0
+2026-06-19,Whitefield,Eggs,Dairy,23,80,1,0
+2026-06-20,Whitefield,Eggs,Dairy,36,80,1,0
+2026-06-21,Whitefield,Eggs,Dairy,24,80,1,0
+2026-06-22,Whitefield,Eggs,Dairy,13,80,1,0
+2026-06-23,Whitefield,Eggs,Dairy,30,80,1,0
+2026-06-24,Whitefield,Eggs,Dairy,15,80,1,0
+2026-06-25,Whitefield,Eggs,Dairy,25,80,1,1
+2026-06-26,Whitefield,Eggs,Dairy,21,80,1,1
+2026-06-27,Whitefield,Eggs,Dairy,21,80,1,1
+2026-06-28,Whitefield,Eggs,Dairy,29,80,1,1
+2026-06-29,Whitefield,Eggs,Dairy,29,80,1,0
+2026-04-01,Whitefield,Banana,Fruits & Veg,11,50,1,0
+2026-04-02,Whitefield,Banana,Fruits & Veg,31,50,1,0
+2026-04-03,Whitefield,Banana,Fruits & Veg,30,50,1,1
+2026-04-04,Whitefield,Banana,Fruits & Veg,50,50,1,0
+2026-04-05,Whitefield,Banana,Fruits & Veg,44,50,1,0
+2026-04-06,Whitefield,Banana,Fruits & Veg,20,50,1,0
+2026-04-07,Whitefield,Banana,Fruits & Veg,10,50,1,0
+2026-04-08,Whitefield,Banana,Fruits & Veg,33,50,1,1
+2026-04-09,Whitefield,Banana,Fruits & Veg,35,50,1,0
+2026-04-10,Whitefield,Banana,Fruits & Veg,26,50,1,0
+2026-04-11,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-04-12,Whitefield,Banana,Fruits & Veg,30,50,1,1
+2026-04-13,Whitefield,Banana,Fruits & Veg,34,50,1,0
+2026-04-14,Whitefield,Banana,Fruits & Veg,29,50,1,0
+2026-04-15,Whitefield,Banana,Fruits & Veg,34,50,1,0
+2026-04-16,Whitefield,Banana,Fruits & Veg,27,50,1,0
+2026-04-17,Whitefield,Banana,Fruits & Veg,23,50,1,0
+2026-04-18,Whitefield,Banana,Fruits & Veg,33,50,1,0
+2026-04-19,Whitefield,Banana,Fruits & Veg,52,50,1,0
+2026-04-20,Whitefield,Banana,Fruits & Veg,38,50,1,1
+2026-04-21,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-04-22,Whitefield,Banana,Fruits & Veg,38,50,1,0
+2026-04-23,Whitefield,Banana,Fruits & Veg,28,50,1,0
+2026-04-24,Whitefield,Banana,Fruits & Veg,29,50,1,0
+2026-04-25,Whitefield,Banana,Fruits & Veg,28,50,1,0
+2026-04-26,Whitefield,Banana,Fruits & Veg,43,50,1,1
+2026-04-27,Whitefield,Banana,Fruits & Veg,38,50,1,1
+2026-04-28,Whitefield,Banana,Fruits & Veg,26,50,1,0
+2026-04-29,Whitefield,Banana,Fruits & Veg,43,50,1,0
+2026-04-30,Whitefield,Banana,Fruits & Veg,22,50,1,0
+2026-05-01,Whitefield,Banana,Fruits & Veg,28,50,1,0
+2026-05-02,Whitefield,Banana,Fruits & Veg,39,50,1,0
+2026-05-03,Whitefield,Banana,Fruits & Veg,47,50,1,0
+2026-05-04,Whitefield,Banana,Fruits & Veg,39,50,1,0
+2026-05-05,Whitefield,Banana,Fruits & Veg,24,50,1,1
+2026-05-06,Whitefield,Banana,Fruits & Veg,36,50,1,1
+2026-05-07,Whitefield,Banana,Fruits & Veg,51,50,1,0
+2026-05-08,Whitefield,Banana,Fruits & Veg,25,50,1,0
+2026-05-09,Whitefield,Banana,Fruits & Veg,44,50,1,0
+2026-05-10,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-05-11,Whitefield,Banana,Fruits & Veg,36,50,1,0
+2026-05-12,Whitefield,Banana,Fruits & Veg,27,50,1,0
+2026-05-13,Whitefield,Banana,Fruits & Veg,36,50,1,0
+2026-05-14,Whitefield,Banana,Fruits & Veg,6,50,1,0
+2026-05-15,Whitefield,Banana,Fruits & Veg,24,50,1,0
+2026-05-16,Whitefield,Banana,Fruits & Veg,40,50,1,0
+2026-05-17,Whitefield,Banana,Fruits & Veg,43,50,1,1
+2026-05-18,Whitefield,Banana,Fruits & Veg,30,50,1,0
+2026-05-19,Whitefield,Banana,Fruits & Veg,25,50,1,0
+2026-05-20,Whitefield,Banana,Fruits & Veg,41,50,1,0
+2026-05-21,Whitefield,Banana,Fruits & Veg,14,50,1,0
+2026-05-22,Whitefield,Banana,Fruits & Veg,27,50,1,0
+2026-05-23,Whitefield,Banana,Fruits & Veg,46,50,1,0
+2026-05-24,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-05-25,Whitefield,Banana,Fruits & Veg,33,50,1,1
+2026-05-26,Whitefield,Banana,Fruits & Veg,32,50,1,0
+2026-05-27,Whitefield,Banana,Fruits & Veg,27,50,1,0
+2026-05-28,Whitefield,Banana,Fruits & Veg,30,50,1,0
+2026-05-29,Whitefield,Banana,Fruits & Veg,20,50,1,0
+2026-05-30,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-05-31,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-06-01,Whitefield,Banana,Fruits & Veg,30,50,1,0
+2026-06-02,Whitefield,Banana,Fruits & Veg,23,50,1,1
+2026-06-03,Whitefield,Banana,Fruits & Veg,24,50,1,0
+2026-06-04,Whitefield,Banana,Fruits & Veg,15,50,1,0
+2026-06-05,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-06-06,Whitefield,Banana,Fruits & Veg,33,50,1,0
+2026-06-07,Whitefield,Banana,Fruits & Veg,31,50,1,0
+2026-06-08,Whitefield,Banana,Fruits & Veg,13,50,1,0
+2026-06-09,Whitefield,Banana,Fruits & Veg,25,50,1,0
+2026-06-10,Whitefield,Banana,Fruits & Veg,36,50,1,0
+2026-06-11,Whitefield,Banana,Fruits & Veg,42,50,1,0
+2026-06-12,Whitefield,Banana,Fruits & Veg,14,50,1,0
+2026-06-13,Whitefield,Banana,Fruits & Veg,50,50,1,1
+2026-06-14,Whitefield,Banana,Fruits & Veg,34,50,1,1
+2026-06-15,Whitefield,Banana,Fruits & Veg,21,50,1,0
+2026-06-16,Whitefield,Banana,Fruits & Veg,29,50,1,0
+2026-06-17,Whitefield,Banana,Fruits & Veg,28,50,1,0
+2026-06-18,Whitefield,Banana,Fruits & Veg,36,50,1,0
+2026-06-19,Whitefield,Banana,Fruits & Veg,28,50,1,0
+2026-06-20,Whitefield,Banana,Fruits & Veg,37,50,1,0
+2026-06-21,Whitefield,Banana,Fruits & Veg,38,50,1,0
+2026-06-22,Whitefield,Banana,Fruits & Veg,33,50,1,1
+2026-06-23,Whitefield,Banana,Fruits & Veg,39,50,1,1
+2026-06-24,Whitefield,Banana,Fruits & Veg,30,50,1,0
+2026-06-25,Whitefield,Banana,Fruits & Veg,34,50,1,0
+2026-06-26,Whitefield,Banana,Fruits & Veg,36,50,1,0
+2026-06-27,Whitefield,Banana,Fruits & Veg,43,50,1,0
+2026-06-28,Whitefield,Banana,Fruits & Veg,39,50,1,0
+2026-06-29,Whitefield,Banana,Fruits & Veg,24,50,1,0
+2026-04-01,Whitefield,Tomato,Fruits & Veg,30,40,1,1
+2026-04-02,Whitefield,Tomato,Fruits & Veg,28,40,1,0
+2026-04-03,Whitefield,Tomato,Fruits & Veg,48,40,1,0
+2026-04-04,Whitefield,Tomato,Fruits & Veg,31,40,1,0
+2026-04-05,Whitefield,Tomato,Fruits & Veg,54,40,1,1
+2026-04-06,Whitefield,Tomato,Fruits & Veg,44,40,1,0
+2026-04-07,Whitefield,Tomato,Fruits & Veg,38,40,1,0
+2026-04-08,Whitefield,Tomato,Fruits & Veg,30,40,1,1
+2026-04-09,Whitefield,Tomato,Fruits & Veg,35,40,1,0
+2026-04-10,Whitefield,Tomato,Fruits & Veg,38,40,1,0
+2026-04-11,Whitefield,Tomato,Fruits & Veg,46,40,1,1
+2026-04-12,Whitefield,Tomato,Fruits & Veg,31,40,1,1
+2026-04-13,Whitefield,Tomato,Fruits & Veg,28,40,1,0
+2026-04-14,Whitefield,Tomato,Fruits & Veg,32,40,1,1
+2026-04-15,Whitefield,Tomato,Fruits & Veg,27,40,1,0
+2026-04-16,Whitefield,Tomato,Fruits & Veg,37,40,1,0
+2026-04-17,Whitefield,Tomato,Fruits & Veg,35,40,1,0
+2026-04-18,Whitefield,Tomato,Fruits & Veg,60,40,1,0
+2026-04-19,Whitefield,Tomato,Fruits & Veg,42,40,1,0
+2026-04-20,Whitefield,Tomato,Fruits & Veg,33,40,1,0
+2026-04-21,Whitefield,Tomato,Fruits & Veg,48,40,1,0
+2026-04-22,Whitefield,Tomato,Fruits & Veg,42,40,1,0
+2026-04-23,Whitefield,Tomato,Fruits & Veg,26,40,1,0
+2026-04-24,Whitefield,Tomato,Fruits & Veg,41,40,1,0
+2026-04-25,Whitefield,Tomato,Fruits & Veg,38,40,1,0
+2026-04-26,Whitefield,Tomato,Fruits & Veg,49,40,1,0
+2026-04-27,Whitefield,Tomato,Fruits & Veg,55,40,1,1
+2026-04-28,Whitefield,Tomato,Fruits & Veg,33,40,1,0
+2026-04-29,Whitefield,Tomato,Fruits & Veg,43,40,1,0
+2026-04-30,Whitefield,Tomato,Fruits & Veg,40,40,1,0
+2026-05-01,Whitefield,Tomato,Fruits & Veg,48,40,1,1
+2026-05-02,Whitefield,Tomato,Fruits & Veg,41,40,1,0
+2026-05-03,Whitefield,Tomato,Fruits & Veg,46,40,1,1
+2026-05-04,Whitefield,Tomato,Fruits & Veg,40,40,1,0
+2026-05-05,Whitefield,Tomato,Fruits & Veg,32,40,1,0
+2026-05-06,Whitefield,Tomato,Fruits & Veg,30,40,1,1
+2026-05-07,Whitefield,Tomato,Fruits & Veg,37,40,1,0
+2026-05-08,Whitefield,Tomato,Fruits & Veg,41,40,1,0
+2026-05-09,Whitefield,Tomato,Fruits & Veg,50,40,1,0
+2026-05-10,Whitefield,Tomato,Fruits & Veg,38,40,1,1
+2026-05-11,Whitefield,Tomato,Fruits & Veg,37,40,1,0
+2026-05-12,Whitefield,Tomato,Fruits & Veg,36,40,1,0
+2026-05-13,Whitefield,Tomato,Fruits & Veg,46,40,1,0
+2026-05-14,Whitefield,Tomato,Fruits & Veg,29,40,1,0
+2026-05-15,Whitefield,Tomato,Fruits & Veg,32,40,1,0
+2026-05-16,Whitefield,Tomato,Fruits & Veg,59,40,1,0
+2026-05-17,Whitefield,Tomato,Fruits & Veg,43,40,1,0
+2026-05-18,Whitefield,Tomato,Fruits & Veg,27,40,1,0
+2026-05-19,Whitefield,Tomato,Fruits & Veg,31,40,1,0
+2026-05-20,Whitefield,Tomato,Fruits & Veg,31,40,1,0
+2026-05-21,Whitefield,Tomato,Fruits & Veg,31,40,1,1
+2026-05-22,Whitefield,Tomato,Fruits & Veg,48,40,1,0
+2026-05-23,Whitefield,Tomato,Fruits & Veg,39,40,1,0
+2026-05-24,Whitefield,Tomato,Fruits & Veg,33,40,1,0
+2026-05-25,Whitefield,Tomato,Fruits & Veg,46,40,1,1
+2026-05-26,Whitefield,Tomato,Fruits & Veg,36,40,1,1
+2026-05-27,Whitefield,Tomato,Fruits & Veg,39,40,1,1
+2026-05-28,Whitefield,Tomato,Fruits & Veg,37,40,1,0
+2026-05-29,Whitefield,Tomato,Fruits & Veg,39,40,1,0
+2026-05-30,Whitefield,Tomato,Fruits & Veg,51,40,1,0
+2026-05-31,Whitefield,Tomato,Fruits & Veg,47,40,1,0
+2026-06-01,Whitefield,Tomato,Fruits & Veg,22,40,1,0
+2026-06-02,Whitefield,Tomato,Fruits & Veg,35,40,1,1
+2026-06-03,Whitefield,Tomato,Fruits & Veg,27,40,1,0
+2026-06-04,Whitefield,Tomato,Fruits & Veg,37,40,1,0
+2026-06-05,Whitefield,Tomato,Fruits & Veg,35,40,1,0
+2026-06-06,Whitefield,Tomato,Fruits & Veg,57,40,1,0
+2026-06-07,Whitefield,Tomato,Fruits & Veg,26,40,1,0
+2026-06-08,Whitefield,Tomato,Fruits & Veg,27,40,1,0
+2026-06-09,Whitefield,Tomato,Fruits & Veg,27,40,1,0
+2026-06-10,Whitefield,Tomato,Fruits & Veg,26,40,1,0
+2026-06-11,Whitefield,Tomato,Fruits & Veg,39,40,1,0
+2026-06-12,Whitefield,Tomato,Fruits & Veg,26,40,1,1
+2026-06-13,Whitefield,Tomato,Fruits & Veg,37,40,1,1
+2026-06-14,Whitefield,Tomato,Fruits & Veg,51,40,1,0
+2026-06-15,Whitefield,Tomato,Fruits & Veg,25,40,1,0
+2026-06-16,Whitefield,Tomato,Fruits & Veg,21,40,1,0
+2026-06-17,Whitefield,Tomato,Fruits & Veg,26,40,1,0
+2026-06-18,Whitefield,Tomato,Fruits & Veg,35,40,1,1
+2026-06-19,Whitefield,Tomato,Fruits & Veg,23,40,1,0
+2026-06-20,Whitefield,Tomato,Fruits & Veg,45,40,1,0
+2026-06-21,Whitefield,Tomato,Fruits & Veg,39,40,1,0
+2026-06-22,Whitefield,Tomato,Fruits & Veg,42,40,1,0
+2026-06-23,Whitefield,Tomato,Fruits & Veg,33,40,1,0
+2026-06-24,Whitefield,Tomato,Fruits & Veg,50,40,1,0
+2026-06-25,Whitefield,Tomato,Fruits & Veg,34,40,1,1
+2026-06-26,Whitefield,Tomato,Fruits & Veg,28,40,1,0
+2026-06-27,Whitefield,Tomato,Fruits & Veg,45,40,1,1
+2026-06-28,Whitefield,Tomato,Fruits & Veg,43,40,1,1
+2026-06-29,Whitefield,Tomato,Fruits & Veg,30,40,1,0
+2026-04-01,Whitefield,Onion,Fruits & Veg,47,35,1,0
+2026-04-02,Whitefield,Onion,Fruits & Veg,39,35,1,0
+2026-04-03,Whitefield,Onion,Fruits & Veg,37,35,1,0
+2026-04-04,Whitefield,Onion,Fruits & Veg,46,35,1,0
+2026-04-05,Whitefield,Onion,Fruits & Veg,32,35,1,0
+2026-04-06,Whitefield,Onion,Fruits & Veg,26,35,1,0
+2026-04-07,Whitefield,Onion,Fruits & Veg,21,35,1,0
+2026-04-08,Whitefield,Onion,Fruits & Veg,37,35,1,0
+2026-04-09,Whitefield,Onion,Fruits & Veg,43,35,1,0
+2026-04-10,Whitefield,Onion,Fruits & Veg,27,35,1,0
+2026-04-11,Whitefield,Onion,Fruits & Veg,38,35,1,1
+2026-04-12,Whitefield,Onion,Fruits & Veg,36,35,1,0
+2026-04-13,Whitefield,Onion,Fruits & Veg,32,35,1,0
+2026-04-14,Whitefield,Onion,Fruits & Veg,31,35,1,0
+2026-04-15,Whitefield,Onion,Fruits & Veg,32,35,1,0
+2026-04-16,Whitefield,Onion,Fruits & Veg,33,35,1,0
+2026-04-17,Whitefield,Onion,Fruits & Veg,31,35,1,0
+2026-04-18,Whitefield,Onion,Fruits & Veg,37,35,1,0
+2026-04-19,Whitefield,Onion,Fruits & Veg,48,35,1,0
+2026-04-20,Whitefield,Onion,Fruits & Veg,33,35,1,0
+2026-04-21,Whitefield,Onion,Fruits & Veg,24,35,1,0
+2026-04-22,Whitefield,Onion,Fruits & Veg,40,35,1,0
+2026-04-23,Whitefield,Onion,Fruits & Veg,29,35,1,0
+2026-04-24,Whitefield,Onion,Fruits & Veg,36,35,1,0
+2026-04-25,Whitefield,Onion,Fruits & Veg,38,35,1,0
+2026-04-26,Whitefield,Onion,Fruits & Veg,51,35,1,0
+2026-04-27,Whitefield,Onion,Fruits & Veg,42,35,1,0
+2026-04-28,Whitefield,Onion,Fruits & Veg,30,35,1,0
+2026-04-29,Whitefield,Onion,Fruits & Veg,29,35,1,0
+2026-04-30,Whitefield,Onion,Fruits & Veg,27,35,1,0
+2026-05-01,Whitefield,Onion,Fruits & Veg,33,35,1,1
+2026-05-02,Whitefield,Onion,Fruits & Veg,43,35,1,0
+2026-05-03,Whitefield,Onion,Fruits & Veg,15,35,1,0
+2026-05-04,Whitefield,Onion,Fruits & Veg,16,35,1,1
+2026-05-05,Whitefield,Onion,Fruits & Veg,23,35,1,0
+2026-05-06,Whitefield,Onion,Fruits & Veg,40,35,1,0
+2026-05-07,Whitefield,Onion,Fruits & Veg,31,35,1,1
+2026-05-08,Whitefield,Onion,Fruits & Veg,15,35,1,0
+2026-05-09,Whitefield,Onion,Fruits & Veg,39,35,1,0
+2026-05-10,Whitefield,Onion,Fruits & Veg,33,35,1,0
+2026-05-11,Whitefield,Onion,Fruits & Veg,27,35,1,0
+2026-05-12,Whitefield,Onion,Fruits & Veg,23,35,1,0
+2026-05-13,Whitefield,Onion,Fruits & Veg,27,35,1,0
+2026-05-14,Whitefield,Onion,Fruits & Veg,22,35,1,0
+2026-05-15,Whitefield,Onion,Fruits & Veg,26,35,1,0
+2026-05-16,Whitefield,Onion,Fruits & Veg,32,35,1,0
+2026-05-17,Whitefield,Onion,Fruits & Veg,45,35,1,0
+2026-05-18,Whitefield,Onion,Fruits & Veg,27,35,1,1
+2026-05-19,Whitefield,Onion,Fruits & Veg,31,35,1,0
+2026-05-20,Whitefield,Onion,Fruits & Veg,25,35,1,1
+2026-05-21,Whitefield,Onion,Fruits & Veg,35,35,1,0
+2026-05-22,Whitefield,Onion,Fruits & Veg,31,35,1,0
+2026-05-23,Whitefield,Onion,Fruits & Veg,35,35,1,0
+2026-05-24,Whitefield,Onion,Fruits & Veg,46,35,1,0
+2026-05-25,Whitefield,Onion,Fruits & Veg,28,35,1,1
+2026-05-26,Whitefield,Onion,Fruits & Veg,47,35,1,1
+2026-05-27,Whitefield,Onion,Fruits & Veg,31,35,1,0
+2026-05-28,Whitefield,Onion,Fruits & Veg,31,35,1,0
+2026-05-29,Whitefield,Onion,Fruits & Veg,31,35,1,0
+2026-05-30,Whitefield,Onion,Fruits & Veg,48,35,1,0
+2026-05-31,Whitefield,Onion,Fruits & Veg,40,35,1,1
+2026-06-01,Whitefield,Onion,Fruits & Veg,26,35,1,0
+2026-06-02,Whitefield,Onion,Fruits & Veg,21,35,1,0
+2026-06-03,Whitefield,Onion,Fruits & Veg,42,35,1,0
+2026-06-04,Whitefield,Onion,Fruits & Veg,39,35,1,0
+2026-06-05,Whitefield,Onion,Fruits & Veg,41,35,1,0
+2026-06-06,Whitefield,Onion,Fruits & Veg,38,35,1,0
+2026-06-07,Whitefield,Onion,Fruits & Veg,30,35,1,1
+2026-06-08,Whitefield,Onion,Fruits & Veg,32,35,1,0
+2026-06-09,Whitefield,Onion,Fruits & Veg,23,35,1,0
+2026-06-10,Whitefield,Onion,Fruits & Veg,26,35,1,0
+2026-06-11,Whitefield,Onion,Fruits & Veg,39,35,1,0
+2026-06-12,Whitefield,Onion,Fruits & Veg,26,35,1,1
+2026-06-13,Whitefield,Onion,Fruits & Veg,30,35,1,0
+2026-06-14,Whitefield,Onion,Fruits & Veg,39,35,1,1
+2026-06-15,Whitefield,Onion,Fruits & Veg,17,35,1,1
+2026-06-16,Whitefield,Onion,Fruits & Veg,33,35,1,1
+2026-06-17,Whitefield,Onion,Fruits & Veg,23,35,1,0
+2026-06-18,Whitefield,Onion,Fruits & Veg,39,35,1,0
+2026-06-19,Whitefield,Onion,Fruits & Veg,19,35,1,0
+2026-06-20,Whitefield,Onion,Fruits & Veg,30,35,1,0
+2026-06-21,Whitefield,Onion,Fruits & Veg,35,35,1,0
+2026-06-22,Whitefield,Onion,Fruits & Veg,11,35,1,0
+2026-06-23,Whitefield,Onion,Fruits & Veg,20,35,1,0
+2026-06-24,Whitefield,Onion,Fruits & Veg,28,35,1,0
+2026-06-25,Whitefield,Onion,Fruits & Veg,33,35,1,0
+2026-06-26,Whitefield,Onion,Fruits & Veg,28,35,1,0
+2026-06-27,Whitefield,Onion,Fruits & Veg,42,35,1,0
+2026-06-28,Whitefield,Onion,Fruits & Veg,40,35,1,0
+2026-06-29,Whitefield,Onion,Fruits & Veg,29,35,1,0
+2026-04-01,Whitefield,Chips,Snacks,21,20,2,0
+2026-04-02,Whitefield,Chips,Snacks,25,20,2,0
+2026-04-03,Whitefield,Chips,Snacks,34,20,2,0
+2026-04-04,Whitefield,Chips,Snacks,42,20,2,0
+2026-04-05,Whitefield,Chips,Snacks,40,20,2,0
+2026-04-06,Whitefield,Chips,Snacks,22,20,2,0
+2026-04-07,Whitefield,Chips,Snacks,36,20,2,0
+2026-04-08,Whitefield,Chips,Snacks,22,20,2,0
+2026-04-09,Whitefield,Chips,Snacks,28,20,2,0
+2026-04-10,Whitefield,Chips,Snacks,39,20,2,0
+2026-04-11,Whitefield,Chips,Snacks,23,20,2,1
+2026-04-12,Whitefield,Chips,Snacks,36,20,2,1
+2026-04-13,Whitefield,Chips,Snacks,33,20,2,0
+2026-04-14,Whitefield,Chips,Snacks,25,20,2,0
+2026-04-15,Whitefield,Chips,Snacks,15,20,2,0
+2026-04-16,Whitefield,Chips,Snacks,33,20,2,0
+2026-04-17,Whitefield,Chips,Snacks,36,20,2,0
+2026-04-18,Whitefield,Chips,Snacks,47,20,2,0
+2026-04-19,Whitefield,Chips,Snacks,28,20,2,0
+2026-04-20,Whitefield,Chips,Snacks,17,20,2,0
+2026-04-21,Whitefield,Chips,Snacks,29,20,2,0
+2026-04-22,Whitefield,Chips,Snacks,41,20,2,0
+2026-04-23,Whitefield,Chips,Snacks,26,20,2,0
+2026-04-24,Whitefield,Chips,Snacks,34,20,2,1
+2026-04-25,Whitefield,Chips,Snacks,32,20,2,0
+2026-04-26,Whitefield,Chips,Snacks,40,20,2,1
+2026-04-27,Whitefield,Chips,Snacks,33,20,2,1
+2026-04-28,Whitefield,Chips,Snacks,25,20,2,1
+2026-04-29,Whitefield,Chips,Snacks,40,20,2,0
+2026-04-30,Whitefield,Chips,Snacks,27,20,2,0
+2026-05-01,Whitefield,Chips,Snacks,40,20,2,0
+2026-05-02,Whitefield,Chips,Snacks,31,20,2,0
+2026-05-03,Whitefield,Chips,Snacks,27,20,2,0
+2026-05-04,Whitefield,Chips,Snacks,15,20,2,0
+2026-05-05,Whitefield,Chips,Snacks,35,20,2,0
+2026-05-06,Whitefield,Chips,Snacks,29,20,2,0
+2026-05-07,Whitefield,Chips,Snacks,25,20,2,0
+2026-05-08,Whitefield,Chips,Snacks,23,20,2,0
+2026-05-09,Whitefield,Chips,Snacks,32,20,2,0
+2026-05-10,Whitefield,Chips,Snacks,45,20,2,0
+2026-05-11,Whitefield,Chips,Snacks,31,20,2,0
+2026-05-12,Whitefield,Chips,Snacks,12,20,2,0
+2026-05-13,Whitefield,Chips,Snacks,18,20,2,0
+2026-05-14,Whitefield,Chips,Snacks,17,20,2,0
+2026-05-15,Whitefield,Chips,Snacks,30,20,2,0
+2026-05-16,Whitefield,Chips,Snacks,37,20,2,0
+2026-05-17,Whitefield,Chips,Snacks,42,20,2,0
+2026-05-18,Whitefield,Chips,Snacks,24,20,2,0
+2026-05-19,Whitefield,Chips,Snacks,25,20,2,0
+2026-05-20,Whitefield,Chips,Snacks,23,20,2,0
+2026-05-21,Whitefield,Chips,Snacks,32,20,2,0
+2026-05-22,Whitefield,Chips,Snacks,19,20,2,0
+2026-05-23,Whitefield,Chips,Snacks,32,20,2,0
+2026-05-24,Whitefield,Chips,Snacks,22,20,2,0
+2026-05-25,Whitefield,Chips,Snacks,33,20,2,0
+2026-05-26,Whitefield,Chips,Snacks,18,20,2,0
+2026-05-27,Whitefield,Chips,Snacks,24,20,2,0
+2026-05-28,Whitefield,Chips,Snacks,27,20,2,0
+2026-05-29,Whitefield,Chips,Snacks,24,20,2,0
+2026-05-30,Whitefield,Chips,Snacks,20,20,2,0
+2026-05-31,Whitefield,Chips,Snacks,39,20,2,0
+2026-06-01,Whitefield,Chips,Snacks,33,20,2,0
+2026-06-02,Whitefield,Chips,Snacks,28,20,2,1
+2026-06-03,Whitefield,Chips,Snacks,24,20,2,0
+2026-06-04,Whitefield,Chips,Snacks,27,20,2,0
+2026-06-05,Whitefield,Chips,Snacks,43,20,2,0
+2026-06-06,Whitefield,Chips,Snacks,30,20,2,1
+2026-06-07,Whitefield,Chips,Snacks,29,20,2,0
+2026-06-08,Whitefield,Chips,Snacks,33,20,2,0
+2026-06-09,Whitefield,Chips,Snacks,40,20,2,0
+2026-06-10,Whitefield,Chips,Snacks,35,20,2,0
+2026-06-11,Whitefield,Chips,Snacks,28,20,2,0
+2026-06-12,Whitefield,Chips,Snacks,6,20,2,0
+2026-06-13,Whitefield,Chips,Snacks,48,20,2,0
+2026-06-14,Whitefield,Chips,Snacks,32,20,2,0
+2026-06-15,Whitefield,Chips,Snacks,32,20,2,0
+2026-06-16,Whitefield,Chips,Snacks,15,20,2,0
+2026-06-17,Whitefield,Chips,Snacks,34,20,2,0
+2026-06-18,Whitefield,Chips,Snacks,27,20,2,0
+2026-06-19,Whitefield,Chips,Snacks,37,20,2,0
+2026-06-20,Whitefield,Chips,Snacks,18,20,2,0
+2026-06-21,Whitefield,Chips,Snacks,39,20,2,0
+2026-06-22,Whitefield,Chips,Snacks,27,20,2,0
+2026-06-23,Whitefield,Chips,Snacks,26,20,2,0
+2026-06-24,Whitefield,Chips,Snacks,29,20,2,0
+2026-06-25,Whitefield,Chips,Snacks,25,20,2,0
+2026-06-26,Whitefield,Chips,Snacks,33,20,2,1
+2026-06-27,Whitefield,Chips,Snacks,27,20,2,1
+2026-06-28,Whitefield,Chips,Snacks,39,20,2,0
+2026-06-29,Whitefield,Chips,Snacks,36,20,2,0
+2026-04-01,Whitefield,Biscuits,Snacks,16,30,2,1
+2026-04-02,Whitefield,Biscuits,Snacks,32,30,2,0
+2026-04-03,Whitefield,Biscuits,Snacks,21,30,2,1
+2026-04-04,Whitefield,Biscuits,Snacks,24,30,2,0
+2026-04-05,Whitefield,Biscuits,Snacks,31,30,2,0
+2026-04-06,Whitefield,Biscuits,Snacks,24,30,2,0
+2026-04-07,Whitefield,Biscuits,Snacks,23,30,2,0
+2026-04-08,Whitefield,Biscuits,Snacks,12,30,2,0
+2026-04-09,Whitefield,Biscuits,Snacks,26,30,2,0
+2026-04-10,Whitefield,Biscuits,Snacks,26,30,2,0
+2026-04-11,Whitefield,Biscuits,Snacks,24,30,2,0
+2026-04-12,Whitefield,Biscuits,Snacks,38,30,2,0
+2026-04-13,Whitefield,Biscuits,Snacks,21,30,2,0
+2026-04-14,Whitefield,Biscuits,Snacks,23,30,2,0
+2026-04-15,Whitefield,Biscuits,Snacks,13,30,2,0
+2026-04-16,Whitefield,Biscuits,Snacks,24,30,2,0
+2026-04-17,Whitefield,Biscuits,Snacks,15,30,2,0
+2026-04-18,Whitefield,Biscuits,Snacks,20,30,2,0
+2026-04-19,Whitefield,Biscuits,Snacks,29,30,2,1
+2026-04-20,Whitefield,Biscuits,Snacks,29,30,2,0
+2026-04-21,Whitefield,Biscuits,Snacks,18,30,2,0
+2026-04-22,Whitefield,Biscuits,Snacks,16,30,2,0
+2026-04-23,Whitefield,Biscuits,Snacks,28,30,2,0
+2026-04-24,Whitefield,Biscuits,Snacks,27,30,2,0
+2026-04-25,Whitefield,Biscuits,Snacks,28,30,2,0
+2026-04-26,Whitefield,Biscuits,Snacks,30,30,2,0
+2026-04-27,Whitefield,Biscuits,Snacks,16,30,2,0
+2026-04-28,Whitefield,Biscuits,Snacks,15,30,2,0
+2026-04-29,Whitefield,Biscuits,Snacks,14,30,2,0
+2026-04-30,Whitefield,Biscuits,Snacks,20,30,2,0
+2026-05-01,Whitefield,Biscuits,Snacks,26,30,2,0
+2026-05-02,Whitefield,Biscuits,Snacks,26,30,2,0
+2026-05-03,Whitefield,Biscuits,Snacks,28,30,2,0
+2026-05-04,Whitefield,Biscuits,Snacks,25,30,2,1
+2026-05-05,Whitefield,Biscuits,Snacks,10,30,2,0
+2026-05-06,Whitefield,Biscuits,Snacks,27,30,2,0
+2026-05-07,Whitefield,Biscuits,Snacks,23,30,2,0
+2026-05-08,Whitefield,Biscuits,Snacks,16,30,2,0
+2026-05-09,Whitefield,Biscuits,Snacks,27,30,2,0
+2026-05-10,Whitefield,Biscuits,Snacks,20,30,2,0
+2026-05-11,Whitefield,Biscuits,Snacks,25,30,2,0
+2026-05-12,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-05-13,Whitefield,Biscuits,Snacks,20,30,2,0
+2026-05-14,Whitefield,Biscuits,Snacks,15,30,2,0
+2026-05-15,Whitefield,Biscuits,Snacks,24,30,2,0
+2026-05-16,Whitefield,Biscuits,Snacks,31,30,2,0
+2026-05-17,Whitefield,Biscuits,Snacks,32,30,2,1
+2026-05-18,Whitefield,Biscuits,Snacks,13,30,2,0
+2026-05-19,Whitefield,Biscuits,Snacks,20,30,2,0
+2026-05-20,Whitefield,Biscuits,Snacks,19,30,2,0
+2026-05-21,Whitefield,Biscuits,Snacks,26,30,2,0
+2026-05-22,Whitefield,Biscuits,Snacks,26,30,2,0
+2026-05-23,Whitefield,Biscuits,Snacks,31,30,2,0
+2026-05-24,Whitefield,Biscuits,Snacks,33,30,2,0
+2026-05-25,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-05-26,Whitefield,Biscuits,Snacks,35,30,2,0
+2026-05-27,Whitefield,Biscuits,Snacks,20,30,2,0
+2026-05-28,Whitefield,Biscuits,Snacks,21,30,2,0
+2026-05-29,Whitefield,Biscuits,Snacks,15,30,2,0
+2026-05-30,Whitefield,Biscuits,Snacks,30,30,2,0
+2026-05-31,Whitefield,Biscuits,Snacks,30,30,2,0
+2026-06-01,Whitefield,Biscuits,Snacks,28,30,2,0
+2026-06-02,Whitefield,Biscuits,Snacks,24,30,2,0
+2026-06-03,Whitefield,Biscuits,Snacks,15,30,2,0
+2026-06-04,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-05,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-06,Whitefield,Biscuits,Snacks,32,30,2,0
+2026-06-07,Whitefield,Biscuits,Snacks,29,30,2,0
+2026-06-08,Whitefield,Biscuits,Snacks,19,30,2,0
+2026-06-09,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-10,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-11,Whitefield,Biscuits,Snacks,16,30,2,1
+2026-06-12,Whitefield,Biscuits,Snacks,17,30,2,0
+2026-06-13,Whitefield,Biscuits,Snacks,29,30,2,0
+2026-06-14,Whitefield,Biscuits,Snacks,34,30,2,0
+2026-06-15,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-16,Whitefield,Biscuits,Snacks,21,30,2,0
+2026-06-17,Whitefield,Biscuits,Snacks,24,30,2,0
+2026-06-18,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-19,Whitefield,Biscuits,Snacks,13,30,2,0
+2026-06-20,Whitefield,Biscuits,Snacks,25,30,2,0
+2026-06-21,Whitefield,Biscuits,Snacks,35,30,2,0
+2026-06-22,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-23,Whitefield,Biscuits,Snacks,16,30,2,1
+2026-06-24,Whitefield,Biscuits,Snacks,9,30,2,0
+2026-06-25,Whitefield,Biscuits,Snacks,22,30,2,0
+2026-06-26,Whitefield,Biscuits,Snacks,21,30,2,0
+2026-06-27,Whitefield,Biscuits,Snacks,40,30,2,0
+2026-06-28,Whitefield,Biscuits,Snacks,23,30,2,0
+2026-06-29,Whitefield,Biscuits,Snacks,25,30,2,0
+2026-04-01,Whitefield,Cola,Beverages,33,40,2,0
+2026-04-02,Whitefield,Cola,Beverages,30,40,2,0
+2026-04-03,Whitefield,Cola,Beverages,19,40,2,0
+2026-04-04,Whitefield,Cola,Beverages,34,40,2,0
+2026-04-05,Whitefield,Cola,Beverages,28,40,2,1
+2026-04-06,Whitefield,Cola,Beverages,23,40,2,0
+2026-04-07,Whitefield,Cola,Beverages,30,40,2,0
+2026-04-08,Whitefield,Cola,Beverages,16,40,2,0
+2026-04-09,Whitefield,Cola,Beverages,32,40,2,0
+2026-04-10,Whitefield,Cola,Beverages,36,40,2,0
+2026-04-11,Whitefield,Cola,Beverages,38,40,2,0
+2026-04-12,Whitefield,Cola,Beverages,31,40,2,0
+2026-04-13,Whitefield,Cola,Beverages,37,40,2,0
+2026-04-14,Whitefield,Cola,Beverages,28,40,2,0
+2026-04-15,Whitefield,Cola,Beverages,15,40,2,0
+2026-04-16,Whitefield,Cola,Beverages,20,40,2,0
+2026-04-17,Whitefield,Cola,Beverages,28,40,2,0
+2026-04-18,Whitefield,Cola,Beverages,34,40,2,0
+2026-04-19,Whitefield,Cola,Beverages,37,40,2,0
+2026-04-20,Whitefield,Cola,Beverages,29,40,2,0
+2026-04-21,Whitefield,Cola,Beverages,21,40,2,0
+2026-04-22,Whitefield,Cola,Beverages,23,40,2,0
+2026-04-23,Whitefield,Cola,Beverages,28,40,2,0
+2026-04-24,Whitefield,Cola,Beverages,38,40,2,0
+2026-04-25,Whitefield,Cola,Beverages,40,40,2,0
+2026-04-26,Whitefield,Cola,Beverages,42,40,2,0
+2026-04-27,Whitefield,Cola,Beverages,30,40,2,0
+2026-04-28,Whitefield,Cola,Beverages,25,40,2,0
+2026-04-29,Whitefield,Cola,Beverages,22,40,2,0
+2026-04-30,Whitefield,Cola,Beverages,17,40,2,0
+2026-05-01,Whitefield,Cola,Beverages,25,40,2,0
+2026-05-02,Whitefield,Cola,Beverages,36,40,2,0
+2026-05-03,Whitefield,Cola,Beverages,29,40,2,0
+2026-05-04,Whitefield,Cola,Beverages,15,40,2,0
+2026-05-05,Whitefield,Cola,Beverages,13,40,2,0
+2026-05-06,Whitefield,Cola,Beverages,14,40,2,0
+2026-05-07,Whitefield,Cola,Beverages,35,40,2,0
+2026-05-08,Whitefield,Cola,Beverages,36,40,2,0
+2026-05-09,Whitefield,Cola,Beverages,39,40,2,0
+2026-05-10,Whitefield,Cola,Beverages,37,40,2,0
+2026-05-11,Whitefield,Cola,Beverages,29,40,2,1
+2026-05-12,Whitefield,Cola,Beverages,17,40,2,0
+2026-05-13,Whitefield,Cola,Beverages,41,40,2,1
+2026-05-14,Whitefield,Cola,Beverages,25,40,2,0
+2026-05-15,Whitefield,Cola,Beverages,26,40,2,0
+2026-05-16,Whitefield,Cola,Beverages,31,40,2,1
+2026-05-17,Whitefield,Cola,Beverages,24,40,2,0
+2026-05-18,Whitefield,Cola,Beverages,27,40,2,0
+2026-05-19,Whitefield,Cola,Beverages,32,40,2,0
+2026-05-20,Whitefield,Cola,Beverages,29,40,2,0
+2026-05-21,Whitefield,Cola,Beverages,17,40,2,0
+2026-05-22,Whitefield,Cola,Beverages,12,40,2,0
+2026-05-23,Whitefield,Cola,Beverages,44,40,2,0
+2026-05-24,Whitefield,Cola,Beverages,41,40,2,0
+2026-05-25,Whitefield,Cola,Beverages,17,40,2,0
+2026-05-26,Whitefield,Cola,Beverages,23,40,2,0
+2026-05-27,Whitefield,Cola,Beverages,38,40,2,0
+2026-05-28,Whitefield,Cola,Beverages,23,40,2,1
+2026-05-29,Whitefield,Cola,Beverages,23,40,2,0
+2026-05-30,Whitefield,Cola,Beverages,34,40,2,0
+2026-05-31,Whitefield,Cola,Beverages,36,40,2,0
+2026-06-01,Whitefield,Cola,Beverages,25,40,2,0
+2026-06-02,Whitefield,Cola,Beverages,32,40,2,0
+2026-06-03,Whitefield,Cola,Beverages,24,40,2,0
+2026-06-04,Whitefield,Cola,Beverages,22,40,2,0
+2026-06-05,Whitefield,Cola,Beverages,14,40,2,0
+2026-06-06,Whitefield,Cola,Beverages,35,40,2,0
+2026-06-07,Whitefield,Cola,Beverages,47,40,2,0
+2026-06-08,Whitefield,Cola,Beverages,29,40,2,0
+2026-06-09,Whitefield,Cola,Beverages,33,40,2,1
+2026-06-10,Whitefield,Cola,Beverages,28,40,2,0
+2026-06-11,Whitefield,Cola,Beverages,28,40,2,0
+2026-06-12,Whitefield,Cola,Beverages,12,40,2,0
+2026-06-13,Whitefield,Cola,Beverages,30,40,2,0
+2026-06-14,Whitefield,Cola,Beverages,32,40,2,0
+2026-06-15,Whitefield,Cola,Beverages,30,40,2,0
+2026-06-16,Whitefield,Cola,Beverages,24,40,2,0
+2026-06-17,Whitefield,Cola,Beverages,15,40,2,0
+2026-06-18,Whitefield,Cola,Beverages,14,40,2,0
+2026-06-19,Whitefield,Cola,Beverages,24,40,2,0
+2026-06-20,Whitefield,Cola,Beverages,34,40,2,0
+2026-06-21,Whitefield,Cola,Beverages,47,40,2,0
+2026-06-22,Whitefield,Cola,Beverages,18,40,2,0
+2026-06-23,Whitefield,Cola,Beverages,21,40,2,0
+2026-06-24,Whitefield,Cola,Beverages,22,40,2,0
+2026-06-25,Whitefield,Cola,Beverages,36,40,2,0
+2026-06-26,Whitefield,Cola,Beverages,24,40,2,0
+2026-06-27,Whitefield,Cola,Beverages,32,40,2,0
+2026-06-28,Whitefield,Cola,Beverages,37,40,2,0
+2026-06-29,Whitefield,Cola,Beverages,5,40,2,0
+2026-04-01,Whitefield,Juice,Beverages,12,110,2,0
+2026-04-02,Whitefield,Juice,Beverages,10,110,2,0
+2026-04-03,Whitefield,Juice,Beverages,11,110,2,0
+2026-04-04,Whitefield,Juice,Beverages,8,110,2,0
+2026-04-05,Whitefield,Juice,Beverages,15,110,2,0
+2026-04-06,Whitefield,Juice,Beverages,11,110,2,0
+2026-04-07,Whitefield,Juice,Beverages,16,110,2,0
+2026-04-08,Whitefield,Juice,Beverages,9,110,2,0
+2026-04-09,Whitefield,Juice,Beverages,13,110,2,0
+2026-04-10,Whitefield,Juice,Beverages,12,110,2,0
+2026-04-11,Whitefield,Juice,Beverages,12,110,2,0
+2026-04-12,Whitefield,Juice,Beverages,8,110,2,0
+2026-04-13,Whitefield,Juice,Beverages,12,110,2,0
+2026-04-14,Whitefield,Juice,Beverages,10,110,2,0
+2026-04-15,Whitefield,Juice,Beverages,14,110,2,0
+2026-04-16,Whitefield,Juice,Beverages,10,110,2,0
+2026-04-17,Whitefield,Juice,Beverages,6,110,2,0
+2026-04-18,Whitefield,Juice,Beverages,13,110,2,0
+2026-04-19,Whitefield,Juice,Beverages,13,110,2,0
+2026-04-20,Whitefield,Juice,Beverages,11,110,2,0
+2026-04-21,Whitefield,Juice,Beverages,11,110,2,0
+2026-04-22,Whitefield,Juice,Beverages,10,110,2,0
+2026-04-23,Whitefield,Juice,Beverages,5,110,2,0
+2026-04-24,Whitefield,Juice,Beverages,6,110,2,0
+2026-04-25,Whitefield,Juice,Beverages,13,110,2,0
+2026-04-26,Whitefield,Juice,Beverages,13,110,2,0
+2026-04-27,Whitefield,Juice,Beverages,12,110,2,1
+2026-04-28,Whitefield,Juice,Beverages,10,110,2,0
+2026-04-29,Whitefield,Juice,Beverages,12,110,2,0
+2026-04-30,Whitefield,Juice,Beverages,10,110,2,0
+2026-05-01,Whitefield,Juice,Beverages,9,110,2,0
+2026-05-02,Whitefield,Juice,Beverages,17,110,2,0
+2026-05-03,Whitefield,Juice,Beverages,12,110,2,0
+2026-05-04,Whitefield,Juice,Beverages,9,110,2,0
+2026-05-05,Whitefield,Juice,Beverages,10,110,2,0
+2026-05-06,Whitefield,Juice,Beverages,12,110,2,0
+2026-05-07,Whitefield,Juice,Beverages,9,110,2,0
+2026-05-08,Whitefield,Juice,Beverages,10,110,2,0
+2026-05-09,Whitefield,Juice,Beverages,11,110,2,0
+2026-05-10,Whitefield,Juice,Beverages,14,110,2,0
+2026-05-11,Whitefield,Juice,Beverages,4,110,2,0
+2026-05-12,Whitefield,Juice,Beverages,8,110,2,0
+2026-05-13,Whitefield,Juice,Beverages,8,110,2,0
+2026-05-14,Whitefield,Juice,Beverages,9,110,2,0
+2026-05-15,Whitefield,Juice,Beverages,8,110,2,0
+2026-05-16,Whitefield,Juice,Beverages,15,110,2,1
+2026-05-17,Whitefield,Juice,Beverages,14,110,2,0
+2026-05-18,Whitefield,Juice,Beverages,7,110,2,0
+2026-05-19,Whitefield,Juice,Beverages,10,110,2,0
+2026-05-20,Whitefield,Juice,Beverages,13,110,2,0
+2026-05-21,Whitefield,Juice,Beverages,8,110,2,0
+2026-05-22,Whitefield,Juice,Beverages,9,110,2,0
+2026-05-23,Whitefield,Juice,Beverages,14,110,2,0
+2026-05-24,Whitefield,Juice,Beverages,9,110,2,0
+2026-05-25,Whitefield,Juice,Beverages,9,110,2,0
+2026-05-26,Whitefield,Juice,Beverages,13,110,2,0
+2026-05-27,Whitefield,Juice,Beverages,14,110,2,0
+2026-05-28,Whitefield,Juice,Beverages,7,110,2,0
+2026-05-29,Whitefield,Juice,Beverages,13,110,2,1
+2026-05-30,Whitefield,Juice,Beverages,10,110,2,0
+2026-05-31,Whitefield,Juice,Beverages,18,110,2,0
+2026-06-01,Whitefield,Juice,Beverages,11,110,2,0
+2026-06-02,Whitefield,Juice,Beverages,9,110,2,0
+2026-06-03,Whitefield,Juice,Beverages,9,110,2,0
+2026-06-04,Whitefield,Juice,Beverages,11,110,2,0
+2026-06-05,Whitefield,Juice,Beverages,14,110,2,0
+2026-06-06,Whitefield,Juice,Beverages,14,110,2,0
+2026-06-07,Whitefield,Juice,Beverages,16,110,2,0
+2026-06-08,Whitefield,Juice,Beverages,12,110,2,1
+2026-06-09,Whitefield,Juice,Beverages,12,110,2,0
+2026-06-10,Whitefield,Juice,Beverages,15,110,2,0
+2026-06-11,Whitefield,Juice,Beverages,13,110,2,0
+2026-06-12,Whitefield,Juice,Beverages,10,110,2,1
+2026-06-13,Whitefield,Juice,Beverages,14,110,2,0
+2026-06-14,Whitefield,Juice,Beverages,9,110,2,0
+2026-06-15,Whitefield,Juice,Beverages,6,110,2,0
+2026-06-16,Whitefield,Juice,Beverages,9,110,2,0
+2026-06-17,Whitefield,Juice,Beverages,10,110,2,0
+2026-06-18,Whitefield,Juice,Beverages,9,110,2,1
+2026-06-19,Whitefield,Juice,Beverages,9,110,2,0
+2026-06-20,Whitefield,Juice,Beverages,16,110,2,0
+2026-06-21,Whitefield,Juice,Beverages,14,110,2,0
+2026-06-22,Whitefield,Juice,Beverages,5,110,2,0
+2026-06-23,Whitefield,Juice,Beverages,12,110,2,0
+2026-06-24,Whitefield,Juice,Beverages,12,110,2,0
+2026-06-25,Whitefield,Juice,Beverages,10,110,2,0
+2026-06-26,Whitefield,Juice,Beverages,10,110,2,0
+2026-06-27,Whitefield,Juice,Beverages,12,110,2,0
+2026-06-28,Whitefield,Juice,Beverages,14,110,2,0
+2026-06-29,Whitefield,Juice,Beverages,9,110,2,0
+2026-04-01,Whitefield,Rice,Staples,6,450,3,0
+2026-04-02,Whitefield,Rice,Staples,7,450,3,0
+2026-04-03,Whitefield,Rice,Staples,6,450,3,0
+2026-04-04,Whitefield,Rice,Staples,8,450,3,0
+2026-04-05,Whitefield,Rice,Staples,10,450,3,0
+2026-04-06,Whitefield,Rice,Staples,5,450,3,0
+2026-04-07,Whitefield,Rice,Staples,7,450,3,0
+2026-04-08,Whitefield,Rice,Staples,6,450,3,0
+2026-04-09,Whitefield,Rice,Staples,5,450,3,0
+2026-04-10,Whitefield,Rice,Staples,5,450,3,0
+2026-04-11,Whitefield,Rice,Staples,8,450,3,0
+2026-04-12,Whitefield,Rice,Staples,10,450,3,1
+2026-04-13,Whitefield,Rice,Staples,4,450,3,0
+2026-04-14,Whitefield,Rice,Staples,4,450,3,0
+2026-04-15,Whitefield,Rice,Staples,8,450,3,0
+2026-04-16,Whitefield,Rice,Staples,7,450,3,0
+2026-04-17,Whitefield,Rice,Staples,6,450,3,0
+2026-04-18,Whitefield,Rice,Staples,5,450,3,0
+2026-04-19,Whitefield,Rice,Staples,9,450,3,0
+2026-04-20,Whitefield,Rice,Staples,3,450,3,0
+2026-04-21,Whitefield,Rice,Staples,7,450,3,0
+2026-04-22,Whitefield,Rice,Staples,5,450,3,0
+2026-04-23,Whitefield,Rice,Staples,6,450,3,0
+2026-04-24,Whitefield,Rice,Staples,5,450,3,0
+2026-04-25,Whitefield,Rice,Staples,6,450,3,0
+2026-04-26,Whitefield,Rice,Staples,7,450,3,0
+2026-04-27,Whitefield,Rice,Staples,7,450,3,0
+2026-04-28,Whitefield,Rice,Staples,3,450,3,0
+2026-04-29,Whitefield,Rice,Staples,4,450,3,0
+2026-04-30,Whitefield,Rice,Staples,7,450,3,0
+2026-05-01,Whitefield,Rice,Staples,6,450,3,0
+2026-05-02,Whitefield,Rice,Staples,10,450,3,0
+2026-05-03,Whitefield,Rice,Staples,6,450,3,0
+2026-05-04,Whitefield,Rice,Staples,4,450,3,0
+2026-05-05,Whitefield,Rice,Staples,6,450,3,0
+2026-05-06,Whitefield,Rice,Staples,6,450,3,0
+2026-05-07,Whitefield,Rice,Staples,6,450,3,0
+2026-05-08,Whitefield,Rice,Staples,6,450,3,0
+2026-05-09,Whitefield,Rice,Staples,9,450,3,0
+2026-05-10,Whitefield,Rice,Staples,5,450,3,0
+2026-05-11,Whitefield,Rice,Staples,6,450,3,0
+2026-05-12,Whitefield,Rice,Staples,5,450,3,1
+2026-05-13,Whitefield,Rice,Staples,5,450,3,0
+2026-05-14,Whitefield,Rice,Staples,8,450,3,0
+2026-05-15,Whitefield,Rice,Staples,5,450,3,0
+2026-05-16,Whitefield,Rice,Staples,9,450,3,0
+2026-05-17,Whitefield,Rice,Staples,11,450,3,0
+2026-05-18,Whitefield,Rice,Staples,5,450,3,0
+2026-05-19,Whitefield,Rice,Staples,6,450,3,0
+2026-05-20,Whitefield,Rice,Staples,6,450,3,0
+2026-05-21,Whitefield,Rice,Staples,6,450,3,0
+2026-05-22,Whitefield,Rice,Staples,8,450,3,0
+2026-05-23,Whitefield,Rice,Staples,9,450,3,0
+2026-05-24,Whitefield,Rice,Staples,8,450,3,0
+2026-05-25,Whitefield,Rice,Staples,6,450,3,0
+2026-05-26,Whitefield,Rice,Staples,4,450,3,0
+2026-05-27,Whitefield,Rice,Staples,6,450,3,1
+2026-05-28,Whitefield,Rice,Staples,4,450,3,1
+2026-05-29,Whitefield,Rice,Staples,5,450,3,1
+2026-05-30,Whitefield,Rice,Staples,8,450,3,0
+2026-05-31,Whitefield,Rice,Staples,6,450,3,0
+2026-06-01,Whitefield,Rice,Staples,4,450,3,0
+2026-06-02,Whitefield,Rice,Staples,5,450,3,0
+2026-06-03,Whitefield,Rice,Staples,4,450,3,0
+2026-06-04,Whitefield,Rice,Staples,6,450,3,0
+2026-06-05,Whitefield,Rice,Staples,6,450,3,0
+2026-06-06,Whitefield,Rice,Staples,5,450,3,0
+2026-06-07,Whitefield,Rice,Staples,8,450,3,0
+2026-06-08,Whitefield,Rice,Staples,7,450,3,0
+2026-06-09,Whitefield,Rice,Staples,6,450,3,0
+2026-06-10,Whitefield,Rice,Staples,5,450,3,0
+2026-06-11,Whitefield,Rice,Staples,5,450,3,0
+2026-06-12,Whitefield,Rice,Staples,9,450,3,0
+2026-06-13,Whitefield,Rice,Staples,8,450,3,0
+2026-06-14,Whitefield,Rice,Staples,8,450,3,0
+2026-06-15,Whitefield,Rice,Staples,5,450,3,0
+2026-06-16,Whitefield,Rice,Staples,4,450,3,0
+2026-06-17,Whitefield,Rice,Staples,5,450,3,0
+2026-06-18,Whitefield,Rice,Staples,7,450,3,0
+2026-06-19,Whitefield,Rice,Staples,6,450,3,0
+2026-06-20,Whitefield,Rice,Staples,8,450,3,0
+2026-06-21,Whitefield,Rice,Staples,8,450,3,0
+2026-06-22,Whitefield,Rice,Staples,4,450,3,0
+2026-06-23,Whitefield,Rice,Staples,6,450,3,0
+2026-06-24,Whitefield,Rice,Staples,7,450,3,0
+2026-06-25,Whitefield,Rice,Staples,6,450,3,0
+2026-06-26,Whitefield,Rice,Staples,2,450,3,0
+2026-06-27,Whitefield,Rice,Staples,6,450,3,0
+2026-06-28,Whitefield,Rice,Staples,5,450,3,0
+2026-06-29,Whitefield,Rice,Staples,4,450,3,0
+2026-04-01,Whitefield,Atta,Staples,12,350,3,0
+2026-04-02,Whitefield,Atta,Staples,7,350,3,0
+2026-04-03,Whitefield,Atta,Staples,6,350,3,0
+2026-04-04,Whitefield,Atta,Staples,7,350,3,0
+2026-04-05,Whitefield,Atta,Staples,10,350,3,0
+2026-04-06,Whitefield,Atta,Staples,10,350,3,0
+2026-04-07,Whitefield,Atta,Staples,6,350,3,1
+2026-04-08,Whitefield,Atta,Staples,9,350,3,0
+2026-04-09,Whitefield,Atta,Staples,8,350,3,0
+2026-04-10,Whitefield,Atta,Staples,6,350,3,0
+2026-04-11,Whitefield,Atta,Staples,12,350,3,1
+2026-04-12,Whitefield,Atta,Staples,9,350,3,0
+2026-04-13,Whitefield,Atta,Staples,6,350,3,0
+2026-04-14,Whitefield,Atta,Staples,6,350,3,0
+2026-04-15,Whitefield,Atta,Staples,8,350,3,0
+2026-04-16,Whitefield,Atta,Staples,12,350,3,0
+2026-04-17,Whitefield,Atta,Staples,10,350,3,0
+2026-04-18,Whitefield,Atta,Staples,9,350,3,0
+2026-04-19,Whitefield,Atta,Staples,10,350,3,1
+2026-04-20,Whitefield,Atta,Staples,6,350,3,0
+2026-04-21,Whitefield,Atta,Staples,6,350,3,1
+2026-04-22,Whitefield,Atta,Staples,4,350,3,0
+2026-04-23,Whitefield,Atta,Staples,8,350,3,0
+2026-04-24,Whitefield,Atta,Staples,7,350,3,0
+2026-04-25,Whitefield,Atta,Staples,10,350,3,0
+2026-04-26,Whitefield,Atta,Staples,5,350,3,0
+2026-04-27,Whitefield,Atta,Staples,8,350,3,0
+2026-04-28,Whitefield,Atta,Staples,5,350,3,0
+2026-04-29,Whitefield,Atta,Staples,5,350,3,0
+2026-04-30,Whitefield,Atta,Staples,9,350,3,0
+2026-05-01,Whitefield,Atta,Staples,6,350,3,0
+2026-05-02,Whitefield,Atta,Staples,8,350,3,0
+2026-05-03,Whitefield,Atta,Staples,12,350,3,0
+2026-05-04,Whitefield,Atta,Staples,3,350,3,0
+2026-05-05,Whitefield,Atta,Staples,8,350,3,0
+2026-05-06,Whitefield,Atta,Staples,10,350,3,0
+2026-05-07,Whitefield,Atta,Staples,11,350,3,0
+2026-05-08,Whitefield,Atta,Staples,11,350,3,0
+2026-05-09,Whitefield,Atta,Staples,7,350,3,1
+2026-05-10,Whitefield,Atta,Staples,10,350,3,0
+2026-05-11,Whitefield,Atta,Staples,10,350,3,0
+2026-05-12,Whitefield,Atta,Staples,8,350,3,0
+2026-05-13,Whitefield,Atta,Staples,7,350,3,0
+2026-05-14,Whitefield,Atta,Staples,5,350,3,0
+2026-05-15,Whitefield,Atta,Staples,9,350,3,0
+2026-05-16,Whitefield,Atta,Staples,7,350,3,0
+2026-05-17,Whitefield,Atta,Staples,7,350,3,1
+2026-05-18,Whitefield,Atta,Staples,6,350,3,0
+2026-05-19,Whitefield,Atta,Staples,8,350,3,0
+2026-05-20,Whitefield,Atta,Staples,10,350,3,0
+2026-05-21,Whitefield,Atta,Staples,7,350,3,0
+2026-05-22,Whitefield,Atta,Staples,9,350,3,0
+2026-05-23,Whitefield,Atta,Staples,8,350,3,0
+2026-05-24,Whitefield,Atta,Staples,9,350,3,0
+2026-05-25,Whitefield,Atta,Staples,7,350,3,0
+2026-05-26,Whitefield,Atta,Staples,6,350,3,0
+2026-05-27,Whitefield,Atta,Staples,10,350,3,0
+2026-05-28,Whitefield,Atta,Staples,5,350,3,0
+2026-05-29,Whitefield,Atta,Staples,4,350,3,0
+2026-05-30,Whitefield,Atta,Staples,12,350,3,0
+2026-05-31,Whitefield,Atta,Staples,11,350,3,0
+2026-06-01,Whitefield,Atta,Staples,9,350,3,0
+2026-06-02,Whitefield,Atta,Staples,6,350,3,0
+2026-06-03,Whitefield,Atta,Staples,9,350,3,0
+2026-06-04,Whitefield,Atta,Staples,4,350,3,0
+2026-06-05,Whitefield,Atta,Staples,7,350,3,0
+2026-06-06,Whitefield,Atta,Staples,11,350,3,0
+2026-06-07,Whitefield,Atta,Staples,6,350,3,0
+2026-06-08,Whitefield,Atta,Staples,6,350,3,0
+2026-06-09,Whitefield,Atta,Staples,5,350,3,0
+2026-06-10,Whitefield,Atta,Staples,6,350,3,0
+2026-06-11,Whitefield,Atta,Staples,7,350,3,0
+2026-06-12,Whitefield,Atta,Staples,7,350,3,0
+2026-06-13,Whitefield,Atta,Staples,6,350,3,0
+2026-06-14,Whitefield,Atta,Staples,11,350,3,0
+2026-06-15,Whitefield,Atta,Staples,5,350,3,0
+2026-06-16,Whitefield,Atta,Staples,8,350,3,0
+2026-06-17,Whitefield,Atta,Staples,6,350,3,0
+2026-06-18,Whitefield,Atta,Staples,4,350,3,0
+2026-06-19,Whitefield,Atta,Staples,9,350,3,0
+2026-06-20,Whitefield,Atta,Staples,9,350,3,0
+2026-06-21,Whitefield,Atta,Staples,11,350,3,0
+2026-06-22,Whitefield,Atta,Staples,8,350,3,0
+2026-06-23,Whitefield,Atta,Staples,8,350,3,0
+2026-06-24,Whitefield,Atta,Staples,6,350,3,0
+2026-06-25,Whitefield,Atta,Staples,8,350,3,0
+2026-06-26,Whitefield,Atta,Staples,9,350,3,0
+2026-06-27,Whitefield,Atta,Staples,9,350,3,0
+2026-06-28,Whitefield,Atta,Staples,8,350,3,0
+2026-06-29,Whitefield,Atta,Staples,6,350,3,0
